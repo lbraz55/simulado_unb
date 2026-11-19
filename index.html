@@ -36,100 +36,95 @@
 
   <main id="conteudo">
 
-    <!-- ===================== TELA 1: LOBBY ===================== -->
+    <!-- ===================== TELA 1: INÍCIO ===================== -->
     <section class="tela" id="tela-lobby">
-      <div class="container">
+      <div class="container estreito">
 
         <div class="hero">
-          <h1>Treine no formato real do Vestibular da UnB</h1>
-          <p>Itens Certo/Errado, numéricos, de múltipla escolha e discursivos, com o mesmo cálculo de nota do Cebraspe, cronômetro, cartão-resposta e gabarito comentado.</p>
+          <h1>Simulado UnB</h1>
+          <p>Provas oficiais do Vestibular Tradicional da UnB (2022 a 2026), com a pontuação do Cebraspe, cronômetro e gabarito.</p>
         </div>
 
         <div id="banner-sessao"></div>
 
-        <div class="grid-lobby">
-          <!-- ---------- Configuração ---------- -->
-          <section class="card" id="card-config" aria-labelledby="t-config">
-            <h2 id="t-config">Montar simulado</h2>
-            <form id="form-config" onsubmit="return false">
-              <fieldset>
-                <legend>1. Prova</legend>
-                <div class="opcoes-cards">
-                  <label class="op-card">
-                    <input type="radio" name="tipo" value="dia1" checked>
-                    <span class="op-titulo">1º Dia</span>
-                    <span class="op-desc">Língua Estrangeira + Linguagens e Ciências Humanas · 5h00min</span>
-                  </label>
-                  <label class="op-card">
-                    <input type="radio" name="tipo" value="dia2">
-                    <span class="op-titulo">2º Dia</span>
-                    <span class="op-desc">Ciências da Natureza e Matemática · 5h00min</span>
-                  </label>
-                  <label class="op-card">
-                    <input type="radio" name="tipo" value="rapido">
-                    <span class="op-titulo">Simulado rápido</span>
-                    <span class="op-desc">Escolha as disciplinas e a duração</span>
-                  </label>
-                </div>
-              </fieldset>
+        <!-- ---------- Configuração ---------- -->
+        <section class="painel-config" aria-labelledby="t-config">
+          <h2 id="t-config" class="sr-only">Montar simulado</h2>
+          <form id="form-config" onsubmit="return false">
 
+            <div class="campo">
+              <span class="rotulo" id="r-tipo">Prova</span>
+              <div class="segmentado" role="radiogroup" aria-labelledby="r-tipo">
+                <label><input type="radio" name="tipo" value="dia1" checked><span>1º dia</span></label>
+                <label><input type="radio" name="tipo" value="dia2"><span>2º dia</span></label>
+                <label><input type="radio" name="tipo" value="rapido"><span>Por disciplina</span></label>
+              </div>
+              <small class="ajuda" id="ajuda-tipo"></small>
+            </div>
+
+            <div class="linha-campos">
               <div class="campo" id="campo-prova">
-                <label for="sel-prova">Caderno de prova</label>
+                <label for="sel-prova">Edição</label>
                 <select id="sel-prova"></select>
               </div>
-
               <div class="campo" id="campo-lingua">
                 <label for="sel-lingua">Língua estrangeira</label>
                 <select id="sel-lingua"></select>
               </div>
+            </div>
 
-              <div id="campo-rapido" hidden>
+            <div id="campo-rapido" hidden>
+              <div class="campo">
+                <span class="rotulo">Disciplinas</span>
+                <div id="lista-disciplinas" class="chips"></div>
+              </div>
+              <div class="linha-campos">
                 <div class="campo">
-                  <span class="rotulo">Disciplinas</span>
-                  <div id="lista-disciplinas" class="lista-disciplinas"></div>
+                  <label for="sel-qtd">Quantidade de itens</label>
+                  <select id="sel-qtd">
+                    <option value="20">cerca de 20</option>
+                    <option value="40" selected>cerca de 40</option>
+                    <option value="80">cerca de 80</option>
+                    <option value="0">todos</option>
+                  </select>
                 </div>
                 <div class="campo">
                   <label for="sel-duracao">Duração</label>
                   <select id="sel-duracao">
-                    <option value="15">15 minutos</option>
-                    <option value="30">30 minutos</option>
+                    <option value="15">15 min</option>
+                    <option value="30">30 min</option>
                     <option value="60" selected>1 hora</option>
-                    <option value="90">1h30min</option>
+                    <option value="90">1h30</option>
                     <option value="120">2 horas</option>
                     <option value="180">3 horas</option>
                   </select>
                 </div>
               </div>
+            </div>
 
-              <fieldset>
-                <legend>2. Modo</legend>
-                <div class="opcoes-cards duas">
-                  <label class="op-card">
-                    <input type="radio" name="modo" value="real" checked>
-                    <span class="op-titulo">Simulado real</span>
-                    <span class="op-desc">Cronômetro regressivo, sem gabarito durante a prova, encerramento automático.</span>
-                  </label>
-                  <label class="op-card">
-                    <input type="radio" name="modo" value="treino">
-                    <span class="op-titulo">Modo treino</span>
-                    <span class="op-desc">Confira o gabarito comentado item a item, na hora.</span>
-                  </label>
-                </div>
-              </fieldset>
+            <div class="campo">
+              <span class="rotulo" id="r-modo">Modo</span>
+              <div class="segmentado" role="radiogroup" aria-labelledby="r-modo">
+                <label><input type="radio" name="modo" value="real" checked><span>Simulado real</span></label>
+                <label><input type="radio" name="modo" value="treino"><span>Treino</span></label>
+              </div>
+              <small class="ajuda" id="ajuda-modo"></small>
+            </div>
 
+            <div class="rodape-config">
               <p class="resumo-config" id="resumo-config"></p>
-              <button type="button" class="btn btn-primario btn-grande" data-acao="iniciar" id="btn-iniciar">Iniciar simulado</button>
-            </form>
-          </section>
+              <button type="button" class="btn btn-primario btn-grande" data-acao="iniciar" id="btn-iniciar">Começar</button>
+            </div>
+          </form>
+        </section>
 
-          <!-- ---------- Regras ---------- -->
-          <section class="card" id="card-regras" aria-labelledby="t-regras">
-            <h2 id="t-regras">Regras de pontuação (Cebraspe)</h2>
+        <!-- ---------- Seções secundárias ---------- -->
+        <details class="secao">
+          <summary>Como funciona a pontuação</summary>
+          <div class="secao-corpo">
             <div class="tabela-wrap">
               <table class="tabela tabela-regras">
-                <thead>
-                  <tr><th>Tipo</th><th>Formato</th><th>Acerto</th><th>Erro</th><th>Branco</th></tr>
-                </thead>
+                <thead><tr><th>Tipo</th><th>Formato</th><th>Acerto</th><th>Erro</th><th>Branco</th></tr></thead>
                 <tbody>
                   <tr><td><span class="tag tag-A">A</span></td><td>Certo ou Errado</td><td class="pos">+1</td><td class="neg">−1</td><td>0</td></tr>
                   <tr><td><span class="tag tag-B">B</span></td><td>Numérica (000 a 999)</td><td class="pos">+2</td><td>0</td><td>0</td></tr>
@@ -138,58 +133,48 @@
                 </tbody>
               </table>
             </div>
-            <h3>Estratégia de itens em branco</h3>
             <ul class="lista-estrategia">
-              <li><strong>Tipo A:</strong> um erro anula um acerto. Marque apenas quando sua confiança for <strong>maior que 50%</strong>; caso contrário, deixar em branco é a melhor escolha.</li>
-              <li><strong>Tipo C:</strong> o “chute” puro entre 4 opções tem valor esperado zero (2·¼ − 0,667·¾ = 0). Se conseguir <strong>eliminar uma alternativa</strong>, marcar passa a compensar — use o botão ✂ para riscar opções.</li>
-              <li><strong>Tipo B:</strong> não há desconto. <strong>Sempre responda</strong>, ainda que por estimativa.</li>
-              <li><strong>Tipo D:</strong> não há desconto. Escreva sempre: notas parciais contam.</li>
+              <li><strong>Tipo A:</strong> um erro anula um acerto. Marque quando sua confiança passar de 50%; abaixo disso, deixe em branco.</li>
+              <li><strong>Tipo C:</strong> chutar entre 4 opções tem valor esperado zero. Se eliminar uma alternativa (botão ✂), marcar passa a compensar.</li>
+              <li><strong>Tipos B e D:</strong> não há desconto. Responda sempre.</li>
             </ul>
-          </section>
-        </div>
-
-        <!-- ---------- Banco de questões ---------- -->
-        <section class="card" id="card-banco" aria-labelledby="t-banco">
-          <div class="card-cab">
-            <h2 id="t-banco">Banco de questões</h2>
-            <div class="grupo-botoes">
-              <button type="button" class="btn btn-sec" data-acao="exportar-banco">⤓ Exportar banco completo</button>
-              <button type="button" class="btn btn-sec" data-acao="baixar-modelo">⤓ Baixar modelo JSON</button>
-            </div>
           </div>
-          <div id="lista-provas" class="tabela-wrap"></div>
+        </details>
 
-          <details class="importar">
-            <summary>⤒ Importar provas (JSON)</summary>
-            <p class="muted">Transcreva provas anteriores dos PDFs oficiais do Cebraspe seguindo o formato do <em>modelo JSON</em> e importe aqui. As provas importadas ficam salvas no navegador (<code>localStorage</code>). Uma prova com o mesmo <code>id</code> de outra existente a substitui.</p>
+        <details class="secao" id="secao-historico">
+          <summary>Histórico <span class="contagem" id="cont-historico"></span></summary>
+          <div class="secao-corpo">
+            <div id="lista-historico"></div>
+            <button type="button" class="btn btn-link" data-acao="limpar-historico">Limpar histórico</button>
+          </div>
+        </details>
+
+        <details class="secao" id="card-banco">
+          <summary>Gerenciar provas</summary>
+          <div class="secao-corpo">
+            <div id="lista-provas" class="tabela-wrap"></div>
+            <div class="grupo-botoes">
+              <button type="button" class="btn btn-sec" data-acao="exportar-banco">Exportar banco</button>
+              <button type="button" class="btn btn-sec" data-acao="baixar-modelo">Modelo JSON</button>
+              <button type="button" class="btn btn-link perigo" data-acao="remover-importadas">Remover importadas</button>
+            </div>
+            <h3 class="sub">Importar prova (JSON)</h3>
+            <p class="muted">Use o formato do modelo. As provas importadas ficam salvas neste navegador; uma prova com o mesmo <code>id</code> substitui a anterior.</p>
             <div class="importar-grid">
               <label class="dropzone" id="dropzone">
                 <input type="file" id="arquivo-json" accept=".json,application/json" hidden>
-                <span class="dz-ico" aria-hidden="true">⤒</span>
-                <span>Clique para escolher um arquivo <strong>.json</strong> ou arraste-o para cá</span>
+                <span>Escolha um arquivo <strong>.json</strong> ou arraste-o para cá</span>
               </label>
               <div class="colar">
-                <label for="txt-json" class="rotulo">…ou cole o JSON abaixo</label>
-                <textarea id="txt-json" rows="6" placeholder='{ "provas": [ { "id": "unb-2023-dia1", "titulo": "...", "dia": 1, "blocos": [ ... ] } ] }'></textarea>
-                <div class="grupo-botoes">
-                  <button type="button" class="btn btn-primario" data-acao="importar-texto">Importar JSON colado</button>
-                  <button type="button" class="btn btn-perigo-sec" data-acao="remover-importadas">Remover todas as importadas</button>
-                </div>
+                <label for="txt-json" class="sr-only">Colar JSON</label>
+                <textarea id="txt-json" rows="5" placeholder='Ou cole o JSON aqui: { "provas": [ ... ] }'></textarea>
+                <button type="button" class="btn btn-sec" data-acao="importar-texto">Importar JSON colado</button>
               </div>
             </div>
-          </details>
-        </section>
-
-        <!-- ---------- Histórico ---------- -->
-        <section class="card" id="card-historico" aria-labelledby="t-hist">
-          <div class="card-cab">
-            <h2 id="t-hist">Histórico de desempenho</h2>
-            <button type="button" class="btn btn-sec btn-peq" data-acao="limpar-historico">Limpar histórico</button>
           </div>
-          <div id="lista-historico"></div>
-        </section>
+        </details>
 
-        <p class="rodape-nota">As questões incluídas são autorais e didáticas, inspiradas no estilo do Vestibular Tradicional da UnB. Este projeto não tem vínculo com a UnB nem com o Cebraspe.</p>
+        <p class="rodape-nota">Provas e gabaritos oficiais: Universidade de Brasília / Cebraspe, reproduzidos para estudo. Itens anulados foram retirados. Este app não tem vínculo com a UnB nem com o Cebraspe.</p>
       </div>
     </section>
 
@@ -221,6 +206,12 @@
   <div class="toasts" id="toasts" aria-live="polite"></div>
 
   <script src="questoes.js"></script>
+  <!-- Provas oficiais (geradas por ferramentas/extrair_provas.py) -->
+  <script src="provas/unb-2026.js"></script>
+  <script src="provas/unb-2025.js"></script>
+  <script src="provas/unb-2024.js"></script>
+  <script src="provas/unb-2023.js"></script>
+  <script src="provas/unb-2022.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

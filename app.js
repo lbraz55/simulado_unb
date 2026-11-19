@@ -194,12 +194,31 @@ function copiarJSON() {
 
 /** Retorna todas as provas disponíveis (importadas substituem ids iguais). */
 function obterProvas() {
+  const oficiais = (window.PROVAS_OFICIAIS || []).slice().sort((a, b) => (b.ano || 0) - (a.ano || 0));
   const padrao = (window.BANCO_PADRAO && window.BANCO_PADRAO.provas) || [];
   const importadas = lerLS(CHAVES.importadas, []);
   const mapa = new Map();
+  oficiais.forEach(p => mapa.set(p.id, { ...p, origem: 'oficial' }));
   padrao.forEach(p => mapa.set(p.id, { ...p, origem: 'padrao' }));
   importadas.forEach(p => mapa.set(p.id, { ...p, origem: 'importada' }));
   return [...mapa.values()];
+}
+
+/** Nome curto da prova para listas ("2025 · prova oficial"). */
+function nomeCurto(p) {
+  if (p.origem === 'oficial') return `${p.ano} · prova oficial`;
+  if (p.origem === 'padrao') return 'Modelo (questões autorais)';
+  return `${p.titulo} (importada)`;
+}
+
+/** Embaralha uma cópia de um array (Fisher–Yates). */
+function embaralhar(lista) {
+  const a = lista.slice();
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
 }
 
 /** Conta itens de uma prova por tipo. */
@@ -356,8 +375,19 @@ function montarSessao(cfg) {
     const temLingua = prova.blocos.some(b => b.lingua);
     titulo = prova.titulo + (temLingua && cfg.lingua ? ` · ${LINGUAS[cfg.lingua]}` : '');
   } else {
-    provas.forEach(p => p.blocos.forEach(b => { if (cfg.disciplinas.includes(b.disciplina)) fonte.push(b); }));
-    titulo = 'Simulado rápido · ' + cfg.disciplinas.join(', ');
+    const candidatos = [];
+    provas.forEach(p => p.blocos.forEach(b => {
+      if (cfg.disciplinas.includes(b.disciplina)) candidatos.push(b);
+    }));
+    // Sorteia blocos inteiros (texto + itens) até chegar perto da quantidade pedida
+    const limite = Number(cfg.qtd) || Infinity;
+    let total = 0;
+    for (const b of embaralhar(candidatos)) {
+      if (total >= limite) break;
+      fonte.push(b);
+      total += b.itens.length;
+    }
+    titulo = cfg.disciplinas.length > 2 ? `${cfg.disciplinas.length} disciplinas` : cfg.disciplinas.join(' + ');
   }
 
   // Numeração sequencial dos itens, como no caderno da UnB.
@@ -365,6 +395,7 @@ function montarSessao(cfg) {
   const blocos = fonte.map((b, bi) => ({
     id: b.id,
     disciplina: b.disciplina || 'Geral',
+    disciplinaEstimada: !!b.disciplinaEstimada,
     area: b.area || '',
     titulo: b.titulo || '',
     texto: b.texto || '',
@@ -547,6 +578,15 @@ function atualizarFormulario() {
   const tipo = valorRadio('tipo');
   const provas = obterProvas();
   const campoProva = $('#campo-prova'), campoLingua = $('#campo-lingua'), campoRapido = $('#campo-rapido');
+  const ajudas = {
+    dia1: 'Língua estrangeira + Linguagens e Ciências Humanas',
+    dia2: 'Ciências da Natureza e Matemática',
+    rapido: 'Itens sorteados de todas as edições, com os textos completos'
+  };
+  $('#ajuda-tipo').textContent = ajudas[tipo] || '';
+  $('#ajuda-modo').textContent = valorRadio('modo') === 'treino'
+    ? 'Confira o gabarito de cada item quando quiser.'
+    : 'Cronômetro regressivo; o gabarito só aparece no final.';
 
   if (tipo === 'rapido') {
     campoProva.hidden = true;
@@ -561,8 +601,8 @@ function atualizarFormulario() {
     const sel = $('#sel-prova');
     const atual = sel.value;
     sel.innerHTML = lista.length
-      ? lista.map(p => `<option value="${esc(p.id)}">${esc(p.titulo)}${p.origem === 'importada' ? ' (importada)' : ''}</option>`).join('')
-      : '<option value="">Nenhuma prova disponível para este dia</option>';
+      ? lista.map(p => `<option value="${esc(p.id)}">${esc(nomeCurto(p))}</option>`).join('')
+      : '<option value="">Nenhuma prova disponível</option>';
     if (lista.some(p => p.id === atual)) sel.value = atual;
 
     const prova = lista.find(p => p.id === sel.value);
@@ -576,29 +616,20 @@ function atualizarFormulario() {
   atualizarResumoConfig();
 }
 
-/** Lista de disciplinas (checkboxes) para o simulado rápido. */
+/** Disciplinas (chips selecionáveis) para o simulado por disciplina. */
 function renderDisciplinas(provas) {
   const box = $('#lista-disciplinas');
   const marcadas = new Set($$('input[name="disc"]:checked', box).map(i => i.value));
   const primeiraVez = !box.dataset.pronto;
-  const info = new Map(); // disciplina → { area, itens }
-  provas.forEach(p => p.blocos.forEach(b => {
-    const d = info.get(b.disciplina) || { area: b.area || 'Outras', itens: 0 };
-    d.itens += b.itens.length;
-    info.set(b.disciplina, d);
-  }));
-  const porArea = {};
-  info.forEach((d, nome) => { (porArea[d.area] = porArea[d.area] || []).push({ nome, ...d }); });
-
-  box.innerHTML = Object.entries(porArea).map(([area, discs]) => `
-    <div class="grupo-disc">
-      <span class="grupo-disc-titulo">${esc(area)}</span>
-      ${discs.map(d => `
-        <label class="chk">
-          <input type="checkbox" name="disc" value="${esc(d.nome)}" ${(marcadas.has(d.nome) || (primeiraVez && d.nome === 'Matemática')) ? 'checked' : ''}>
-          <span>${esc(d.nome)} <small>(${d.itens})</small></span>
-        </label>`).join('')}
-    </div>`).join('');
+  const info = new Map(); // disciplina → nº de itens
+  provas.forEach(p => p.blocos.forEach(b => info.set(b.disciplina, (info.get(b.disciplina) || 0) + b.itens.length)));
+  const nomes = [...info.keys()].sort((a, b) =>
+    a === 'Interdisciplinar' ? 1 : b === 'Interdisciplinar' ? -1 : a.localeCompare(b, 'pt-BR'));
+  box.innerHTML = nomes.map(nome => `
+    <label class="chip">
+      <input type="checkbox" name="disc" value="${esc(nome)}" ${(marcadas.has(nome) || (primeiraVez && nome === 'Matemática')) ? 'checked' : ''}>
+      <span>${esc(nome)} <small>${info.get(nome)}</small></span>
+    </label>`).join('');
   box.dataset.pronto = '1';
 }
 
@@ -609,6 +640,7 @@ function lerConfig() {
   if (tipo === 'rapido') {
     cfg.disciplinas = $$('input[name="disc"]:checked').map(i => i.value);
     cfg.duracaoSeg = Number($('#sel-duracao').value) * 60;
+    cfg.qtd = Number($('#sel-qtd').value);
   } else {
     cfg.provaId = $('#sel-prova').value;
     cfg.lingua = $('#campo-lingua').hidden ? null : $('#sel-lingua').value;
@@ -625,14 +657,15 @@ function atualizarResumoConfig() {
   let itens = 0;
   if (cfg.tipo === 'rapido') {
     obterProvas().forEach(p => p.blocos.forEach(b => { if (cfg.disciplinas.includes(b.disciplina)) itens += b.itens.length; }));
+    if (cfg.qtd && itens > cfg.qtd) itens = cfg.qtd;
   } else {
     const prova = obterProvas().find(p => p.id === cfg.provaId);
     if (prova) itens = contarItens(prova, cfg.lingua).total;
   }
   $('#btn-iniciar').disabled = itens === 0;
   el.innerHTML = itens
-    ? `<strong>${itens} itens</strong> · duração <strong>${fmtDuracao(cfg.duracaoSeg)}</strong> · ${cfg.modo === 'real' ? 'Simulado real' : 'Modo treino'}`
-    : 'Selecione uma prova ou ao menos uma disciplina.';
+    ? `${cfg.tipo === 'rapido' && cfg.qtd ? 'cerca de ' : ''}<strong>${itens} itens</strong> · <strong>${fmtDuracao(cfg.duracaoSeg)}</strong>`
+    : 'Escolha uma prova ou ao menos uma disciplina.';
 }
 
 /** Inicia um novo simulado com a configuração do formulário. */
@@ -664,14 +697,14 @@ function renderBancoInfo() {
   const nomeDia = d => d === 1 ? '1º Dia' : d === 2 ? '2º Dia' : 'Avulsa';
   $('#lista-provas').innerHTML = `
     <table class="tabela">
-      <thead><tr><th>Prova</th><th>Dia</th><th>Origem</th><th>Blocos</th><th>Itens</th><th>A / B / C / D</th><th></th></tr></thead>
+      <thead><tr><th>Prova</th><th>Dia</th><th>Origem</th><th>Textos</th><th>Itens</th><th>A / B / C / D</th><th></th></tr></thead>
       <tbody>
         ${provas.map(p => {
           const c = contarItens(p);
           return `<tr>
-            <td>${esc(p.titulo)}<br><small class="muted"><code>${esc(p.id)}</code></small></td>
+            <td>${esc(p.titulo)}</td>
             <td>${nomeDia(Number(p.dia))}</td>
-            <td><span class="pill ${p.origem === 'importada' ? 'pill-imp' : ''}">${p.origem === 'importada' ? 'Importada' : 'Padrão'}</span></td>
+            <td><span class="pill ${p.origem === 'importada' ? 'pill-imp' : ''}">${{ oficial: 'Oficial', padrao: 'Modelo', importada: 'Importada' }[p.origem]}</span></td>
             <td>${p.blocos.length}</td>
             <td><strong>${c.total}</strong></td>
             <td class="nowrap">${c.A} / ${c.B} / ${c.C} / ${c.D}</td>
@@ -689,6 +722,7 @@ function renderBancoInfo() {
 function renderHistorico() {
   const hist = lerLS(CHAVES.historico, []);
   const el = $('#lista-historico');
+  $('#cont-historico').textContent = hist.length ? String(hist.length) : '';
   if (!hist.length) { el.innerHTML = '<p class="muted">Nenhum simulado finalizado ainda.</p>'; return; }
   el.innerHTML = `<div class="tabela-wrap"><table class="tabela">
     <thead><tr><th>Data</th><th>Simulado</th><th>Modo</th><th>Nota líquida</th><th>Aproveitamento</th></tr></thead>
@@ -775,8 +809,9 @@ function renderBloco() {
   $('#painel-texto').innerHTML = `
     <div class="texto-cab">
       <div>
-        ${b.area ? `<span class="area">${esc(b.area)}</span>` : ''}
-        <h2>${esc(b.disciplina)}</h2>
+        ${b.disciplinaEstimada
+          ? `<h2 class="texto-area">${esc(b.area || 'Prova')}</h2>${b.disciplina !== 'Interdisciplinar' ? `<span class="disc-estimada" title="Classificação automática pelo conteúdo do texto">${esc(b.disciplina)}</span>` : ''}`
+          : `${b.area ? `<span class="area">${esc(b.area)}</span>` : ''}<h2>${esc(b.disciplina)}</h2>`}
       </div>
       <div class="ferramentas-texto">
         <button type="button" class="btn-icone" data-acao="fonte-menos" title="Diminuir fonte">A−</button>
@@ -893,8 +928,8 @@ function renderItem(item) {
     <article class="item tipo-${item.tipo} ${temResp ? 'respondido' : ''} ${rev ? 'em-revisao' : ''}" id="item-${item.n}" data-n="${item.n}">
       <header class="item-cab">
         <span class="item-num">${item.n}</span>
-        <span class="tag tag-${item.tipo}" title="${esc(REGRAS[item.tipo].nome)}">Tipo ${item.tipo}</span>
-        <span class="item-pts">${item.tipo === 'A' ? '+1 / −1' : item.tipo === 'B' ? '+2 / 0' : item.tipo === 'C' ? '+2 / −0,667' : 'até 3 pts'}</span>
+        <span class="item-tipo" title="${item.tipo === 'A' ? 'Acerto +1, erro −1' : item.tipo === 'B' ? 'Acerto +2, erro 0' : item.tipo === 'C' ? 'Acerto +2, erro −0,667' : 'Até 3 pontos'}">${esc(REGRAS[item.tipo].nome)}</span>
+        ${item.numeroOriginal ? `<span class="item-orig" title="Número do item no caderno oficial">nº ${item.numeroOriginal} no caderno</span>` : ''}
         <span class="espaco"></span>
         ${botaoConferir}
         <button type="button" class="btn-rev ${rev ? 'ativo' : ''}" data-acao="revisao" data-n="${item.n}" aria-pressed="${rev}" title="Marcar para revisão">? Revisar</button>
@@ -1600,7 +1635,8 @@ document.addEventListener('focusout', e => {
 document.addEventListener('change', e => {
   const el = e.target;
   if (el.name === 'tipo' || el.id === 'sel-prova') atualizarFormulario();
-  else if (el.name === 'modo' || el.name === 'disc' || el.id === 'sel-duracao' || el.id === 'sel-lingua') atualizarResumoConfig();
+  else if (el.name === 'modo') atualizarFormulario();
+  else if (el.name === 'disc' || el.id === 'sel-duracao' || el.id === 'sel-lingua' || el.id === 'sel-qtd') atualizarResumoConfig();
   else if (el.id === 'arquivo-json' && el.files.length) lerArquivo(el.files[0], el);
 });
 
@@ -1710,6 +1746,7 @@ function init() {
     atualizarFormulario();
     if (cfg.lingua && $(`#sel-lingua option[value="${CSS.escape(cfg.lingua)}"]`)) $('#sel-lingua').value = cfg.lingua;
     if (cfg.duracaoSeg && cfg.tipo === 'rapido') $('#sel-duracao').value = String(cfg.duracaoSeg / 60);
+    if (cfg.qtd !== undefined && $(`#sel-qtd option[value="${Number(cfg.qtd)}"]`)) $('#sel-qtd').value = String(cfg.qtd);
     if (cfg.disciplinas) $$('input[name="disc"]').forEach(i => { i.checked = cfg.disciplinas.includes(i.value); });
     atualizarResumoConfig();
   }

@@ -5,13 +5,13 @@
 
 /* ---------- 1. Tokens de design ---------- */
 :root {
-  --bg: #f4f6fa;
+  --bg: #f7f8fa;
   --surface: #ffffff;
-  --surface-2: #eef2f8;
-  --surface-3: #e3e9f3;
+  --surface-2: #f1f3f7;
+  --surface-3: #e6eaf0;
   --text: #1a2233;
   --muted: #5d6a80;
-  --border: #d5dce8;
+  --border: #e2e6ec;
   --primary: #0b4f9c;
   --primary-hover: #093f7d;
   --primary-soft: #e3eefb;
@@ -28,8 +28,8 @@
   --tipo-C: #00796b;
   --tipo-D: #b34a00;
   --on-primary: #ffffff;
-  --sombra: 0 1px 2px rgba(16, 24, 40, .06), 0 4px 16px rgba(16, 24, 40, .06);
-  --raio: 12px;
+  --sombra: 0 1px 2px rgba(16, 24, 40, .04);
+  --raio: 10px;
   --raio-p: 8px;
   --fonte-ui: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   --fonte-texto: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif;
@@ -65,7 +65,7 @@
     --tipo-C: #3cc4b0;
     --tipo-D: #f09a5a;
     --on-primary: #0b1422;
-    --sombra: 0 1px 2px rgba(0, 0, 0, .3), 0 6px 20px rgba(0, 0, 0, .25);
+    --sombra: 0 1px 2px rgba(0, 0, 0, .25);
     color-scheme: dark;
   }
 }
@@ -93,7 +93,7 @@
   --tipo-C: #3cc4b0;
   --tipo-D: #f09a5a;
   --on-primary: #0b1422;
-  --sombra: 0 1px 2px rgba(0, 0, 0, .3), 0 6px 20px rgba(0, 0, 0, .25);
+  --sombra: 0 1px 2px rgba(0, 0, 0, .25);
   color-scheme: dark;
 }
 
@@ -685,3 +685,122 @@ body[data-tela="prova"] .btn-instalar { display: none; }
   *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
 }
 
+
+
+/* =====================================================================
+   13. Interface limpa (tela inicial, prova e provas oficiais)
+   ===================================================================== */
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.container.estreito { width: min(760px, 100%); }
+.hero { padding: 8px 0 20px; }
+.hero h1 { font-size: clamp(1.7rem, 4vw, 2.3rem); letter-spacing: -.02em; margin-bottom: .3em; text-wrap: balance; }
+.hero p { font-size: 1rem; margin: 0; }
+
+/* Painel único de configuração */
+.painel-config {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--raio);
+  padding: 22px;
+  margin-bottom: 16px;
+}
+.painel-config form { display: flex; flex-direction: column; gap: 18px; }
+.painel-config .campo { margin: 0; }
+.linha-campos { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 14px; }
+.ajuda { display: block; margin-top: 6px; color: var(--muted); font-size: .85rem; min-height: 1.2em; }
+.rotulo, .campo label { font-size: .8rem; text-transform: uppercase; letter-spacing: .06em; font-weight: 700; color: var(--muted); margin-bottom: 8px; display: block; }
+
+/* Controle segmentado */
+.segmentado { display: flex; flex-wrap: wrap; gap: 4px; padding: 4px; background: var(--surface-2); border-radius: 10px; }
+.segmentado label { flex: 1 1 auto; position: relative; margin: 0; }
+.segmentado input { position: absolute; opacity: 0; pointer-events: none; }
+.segmentado span {
+  display: block; text-align: center; padding: .55em .9em; border-radius: 7px;
+  font-weight: 600; font-size: .95rem; cursor: pointer; color: var(--muted);
+  transition: background .15s, color .15s;
+  text-transform: none; letter-spacing: 0;
+}
+.segmentado span:hover { color: var(--text); }
+.segmentado input:checked + span { background: var(--surface); color: var(--text); box-shadow: 0 1px 2px rgba(16, 24, 40, .1), 0 0 0 1px var(--border); }
+.segmentado input:focus-visible + span { outline: 3px solid var(--primary); outline-offset: 1px; }
+
+/* Chips de disciplina */
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip { position: relative; margin: 0 !important; text-transform: none !important; letter-spacing: 0 !important; }
+.chip input { position: absolute; opacity: 0; pointer-events: none; }
+.chip span {
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: .4em .8em; border-radius: 999px; border: 1px solid var(--border);
+  background: var(--surface); cursor: pointer; font-size: .9rem; font-weight: 500; color: var(--text);
+}
+.chip small { color: var(--muted); font-variant-numeric: tabular-nums; }
+.chip input:checked + span { background: var(--primary-soft); border-color: var(--primary); color: var(--primary); font-weight: 600; }
+.chip input:checked + span small { color: inherit; }
+.chip input:focus-visible + span { outline: 3px solid var(--primary); outline-offset: 2px; }
+
+.rodape-config { display: flex; align-items: center; justify-content: space-between; gap: 14px; flex-wrap: wrap; padding-top: 4px; border-top: 1px solid var(--border); padding-top: 16px; }
+.rodape-config .resumo-config { background: none; padding: 0; margin: 0; color: var(--muted); }
+.rodape-config .btn-grande { width: auto; min-width: 180px; }
+
+/* Seções recolhíveis */
+details.secao { border-bottom: 1px solid var(--border); }
+details.secao > summary {
+  list-style: none; cursor: pointer; padding: 16px 2px;
+  font-weight: 700; display: flex; align-items: center; gap: 8px;
+}
+details.secao > summary::-webkit-details-marker { display: none; }
+details.secao > summary::after { content: "+"; margin-left: auto; font-weight: 400; font-size: 1.3rem; color: var(--muted); line-height: 1; }
+details.secao[open] > summary::after { content: "−"; }
+.secao-corpo { padding: 0 2px 20px; display: flex; flex-direction: column; gap: 12px; }
+.contagem { font-size: .78rem; font-weight: 600; color: var(--muted); background: var(--surface-2); border-radius: 99px; padding: 0 .55em; }
+.contagem:empty { display: none; }
+.btn-link { background: none; border: 0; color: var(--primary); padding: .3em 0; font-weight: 600; cursor: pointer; align-self: flex-start; }
+.btn-link:hover { text-decoration: underline; }
+.btn-link.perigo { color: var(--errado); }
+h3.sub { margin: 8px 0 0; font-size: 1rem; }
+.dropzone { min-height: 120px; }
+.rodape-nota { margin-top: 28px; }
+
+/* ---------- Prova: menos ruído ---------- */
+.item { box-shadow: none; border-left-width: 3px; border-color: var(--border); padding: 18px 20px; }
+.item.respondido { border-left-color: var(--primary); }
+.item-cab { gap: 10px; }
+.item-num { min-width: 30px; height: 30px; border-radius: 7px; font-size: .92rem; }
+.item-tipo { font-size: .8rem; color: var(--muted); font-weight: 600; cursor: help; }
+.item-orig { font-size: .75rem; color: var(--muted); opacity: .8; }
+.item-orig::before { content: "· "; }
+.btn-rev { border-style: solid; border-color: transparent; }
+.btn-rev:not(.ativo):hover { border-color: var(--border); color: var(--text); }
+.op-ce { width: 72px; height: 54px; border-width: 1.5px; }
+.alt-sel { border-width: 1.5px; }
+.btn-limpar { border-color: transparent; }
+.btn-limpar:hover:not(:disabled) { border-color: var(--errado); }
+.abas-blocos { background: var(--surface); }
+.aba { border-color: transparent; background: var(--surface-2); }
+.aba.ativa { background: var(--primary); }
+.painel-itens { background: var(--bg); }
+.card, .card-nota, .rev-item { box-shadow: none; }
+.insights p { background: var(--surface-2); border: 0; }
+
+/* Conteúdo das provas oficiais */
+.fig-prova { margin: 1em auto; text-align: center; }
+.fig-prova img { max-width: 100%; height: auto; border-radius: 4px; background: #fff; }
+.item-enunciado .fig-prova img { max-width: 100%; }
+img.formula { vertical-align: middle; max-width: 100%; background: #fff; border-radius: 2px; }
+[data-theme="dark"] .fig-prova img, [data-theme="dark"] img.formula { filter: brightness(.92); }
+.texto-base .titulo-texto { text-indent: 0; text-align: center; font-family: var(--fonte-ui); }
+.texto-base .instrucao-item { text-indent: 0; font-family: var(--fonte-ui); font-size: .9em; color: var(--muted); border-left: 3px solid var(--border); padding-left: 10px; }
+.texto-base p:has(br) { text-indent: 0; text-align: left; }
+.alt-txt img.formula, .alt-txt .fig-prova img { max-height: 160px; }
+
+@media (max-width: 640px) {
+  .painel-config { padding: 16px; }
+  .rodape-config .btn-grande { width: 100%; }
+  .segmentado span { padding: .5em .5em; font-size: .9rem; }
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .fig-prova img, :root:not([data-theme="light"]) img.formula { filter: brightness(.92); }
+}
+
+.texto-area { font-size: 1rem; color: var(--muted); font-weight: 700; margin: 0; }
+.disc-estimada { display: inline-block; margin-top: 4px; font-size: .78rem; color: var(--muted); background: var(--surface-2); border-radius: 99px; padding: .1em .65em; cursor: help; }

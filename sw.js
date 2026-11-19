@@ -1,15 +1,21 @@
 /* =====================================================================
    sw.js — Service worker do Simulado UnB
    Guarda os arquivos do app em cache para funcionar offline.
+   As figuras das provas (provas/img) entram no cache à medida que são abertas.
    Ao alterar qualquer arquivo do app, aumente o número de VERSAO.
    ===================================================================== */
-const VERSAO = 'simulado-unb-v2';
+const VERSAO = 'simulado-unb-v3';
 const ARQUIVOS = [
   './',
   './index.html',
   './style.css',
   './app.js',
   './questoes.js',
+  './provas/unb-2026.js',
+  './provas/unb-2025.js',
+  './provas/unb-2024.js',
+  './provas/unb-2023.js',
+  './provas/unb-2022.js',
   './manifest.webmanifest',
   './icons/icon.svg',
   './icons/icon-192.png',

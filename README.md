@@ -25,11 +25,36 @@ Baixe o repositório (**Code → Download ZIP**), descompacte e abra o `index.ht
 |---|---|
 | `index.html` | Estrutura das telas: lobby, prova e resultado |
 | `style.css` | Visual (variáveis CSS, Grid/Flexbox, tema claro/escuro, responsivo, impressão) |
-| `questoes.js` | Banco padrão (`window.BANCO_PADRAO`): 1º e 2º dia, com itens A, B, C e D |
+| `questoes.js` | Simulado modelo com questões autorais (`window.BANCO_PADRAO`) |
+| `provas/unb-AAAA.js` | Provas oficiais de cada ano (`window.PROVAS_OFICIAIS`) |
+| `provas/img/` | Figuras, gráficos e fórmulas recortados dos cadernos oficiais |
+| `ferramentas/extrair_provas.py` | Conversor dos PDFs oficiais (caderno + gabarito) para o formato do app |
 | `app.js` | Estado, montagem da prova, cronômetro, persistência, correção, relatório e instalação do app |
 | `manifest.webmanifest` | Nome, cores e ícones do Web App |
 | `sw.js` | Service worker: guarda os arquivos para uso offline (aumente `VERSAO` ao alterar o app) |
 | `icons/` | Ícones do aplicativo |
+
+## Provas oficiais incluídas
+O app traz as provas oficiais do Vestibular Tradicional da UnB de **2022 a 2026**, convertidas dos cadernos e gabaritos definitivos publicados pelo Cebraspe. São **1.666 itens**: 1.539 do tipo A, 17 do tipo B, 98 do tipo C e 12 do tipo D.
+
+- **Anulados:** itens anulados (marcados com X no gabarito definitivo) ficam de fora.
+- **Excluídos:** 5 itens de múltipla escolha cujas alternativas são figuras que não puderam ser recortadas com segurança. A lista está em `ITENS_EXCLUIDOS`, no conversor.
+- **Fórmulas:** fórmulas, gráficos, tabelas e figuras aparecem como recortes do PDF original, em `provas/img/`.
+- **Discursivos:** a banca não divulga o padrão de resposta junto com o gabarito, então você se dá a nota com base no comando do item.
+- **Disciplina:** no 2º dia e em Linguagens/Humanas, a disciplina de cada texto é **estimada automaticamente** pelo conteúdo. Na dúvida, o texto entra como "Interdisciplinar", que é o estilo da UnB.
+
+### Atualizar ou acrescentar edições
+O script `ferramentas/extrair_provas.py` refaz os arquivos de `provas/` a partir dos PDFs:
+
+```bash
+pip install pymupdf pillow
+```
+
+```bash
+python3 ferramentas/extrair_provas.py PASTA_COM_OS_PDFS
+```
+
+Na pasta, nomeie os arquivos como `AAAA_pN.pdf` (caderno N) e `AAAA_gN.pdf` (gabarito definitivo do caderno N). O script imprime um relatório com cada parte, o total de itens e qualquer item que não bateu com o gabarito. Um ano novo também precisa de uma linha `<script src="provas/unb-AAAA.js">` no `index.html`.
 
 ## Regras implementadas
 | Tipo | Acerto | Erro | Branco |
@@ -57,4 +82,4 @@ As provas importadas ficam no `localStorage` do navegador. Use **Exportar banco 
 ## Persistência
 Ficam salvos automaticamente: respostas, alternativas riscadas, itens marcados com "?", bloco atual, tempo restante, notas dos itens discursivos, histórico de notas, tema e tamanho da fonte.
 
-> As questões incluídas são autorais e didáticas, inspiradas no estilo da UnB/Cebraspe. Este projeto não tem vínculo com a UnB nem com o Cebraspe.
+> As provas e os gabaritos oficiais pertencem à Universidade de Brasília / Cebraspe e são reproduzidos aqui para estudo. As questões do simulado modelo são autorais. Este projeto não tem vínculo com a UnB nem com o Cebraspe.
