@@ -17,7 +17,7 @@ window.PROVAS_OFICIAIS.push(...[
 "area": "Língua Estrangeira",
 "titulo": "",
 "disciplinaEstimada": false,
-"texto": "<p>649001_01N839822</p>\n<p>El cine latinoamericano en el siglo XXI El cine latinoamericano del siglo XXI: tendencias y tratamientos es un libro de Ricardo Bedoya, en el que este profesor de la Facultad de Comunicación de la Universidad de Lima y reconocido crítico de cine, analiza doscientas películas latinoamericanas. Lo hace a la luz de los tratamientos cinematográficos que se han desarrollado durante el siglo XXI y las tendencias que marcan el cine de esta región.</p>\n<p>¿Qué tendencias ha seguido el cine latinoamericano a lo largo del siglo XXI?</p>\n<p>Hay una tendencia muy fuerte hacia el trabajo con la memoria y la intimidad. En cuanto a memoria, me refiero a los hechos políticos pasados, sobre todo aquellos que implican traumas por la violencia generada desde el gobierno. Por ejemplo, las dictaduras argentina y chilena. Pero también hay una línea del cine contemporáneo que apunta al autorretrato, la autoficción. El cineasta se ve a sí mismo y su entorno, y convierte esa intimidad en material de registro. Por otro lado, hay una tendencia hacia el llamado cine del dispositivo. Es decir, películas que se hacen estableciendo autolimitaciones. Los directores se autolimitan a determinados elementos y reglas fijas. Por ejemplo, toda la película se graba con la cámara en mano o en un escenario o en términos de una conversación con una persona determinada. También se analiza en el libro el nuevo tratamiento de los espacios, sean estos entornos urbanos o rurales, y cómo se van transformando, cómo se demuelen algunos espacios tradicionales y se forman otros.</p>\n<p>¿Qué géneros predominan? Hay todo un trabajo de reapropiación de los géneros. Es decir, hay un diálogo con los géneros tradicionales. El cine latinoamericano de los últimos años, como el cine mundial también, lo que hace es tomar algunos elementos de los géneros tradicionales para transformarlos, para que esos esquemas de los géneros tradicionales iluminen determinadas zonas de la sociedad latinoamericana, de la política, la intimidad de los cineastas. Por ejemplo, se trabaja mucho el género policial, el cine negro, el terror, las películas de carretera o de viaje, que es un género típicamente norteamericano, pero que en el cine latinoamericano adquiere una dimensión distinta. La comedia, por otro lado, es un género más visible en las salas comerciales y tiene más éxito en términos de la asistencia del público. Pero en el Perú se hace cine en muchas regiones, y esta producción es menos conocida. Se hacen melodramas, películas de terror, sociales, se trabajan muchos géneros.</p>\n<p>¿Cuáles han sido las películas más exitosas o más laureadas?</p>\n<p>Comercialmente, Estación Central (Brasil); Nueve reinas (Argentina); El secreto de sus ojos (Argentina), Gloria (Chile). Hay otras que no tuvieron una exhibición tan amplia, pero fueron muy buenas, como El auge del humano (Argentina), Las Plantas (Chile). Pero si hay un auge del cine latinoamericano y hay películas que asisten a festivales internacionales es porque los Estados se han dado cuenta de que el cine es muy importante, porque proyecta una imagen del país. Por eso han creado mecanismos de apoyo y promoción, los cuales han logrado que el cine tenga un relieve muy particular.</p>\n<p>¿De qué manera se fomenta el cine en otros países? Hay mecanismos de estímulo a la producción cinematográfica a través de fondos del Estado. Se obtienen recursos de la exhibición cinematográfica, pues parte del boleto pasa a un fondo especial. También hay aportes de empresas privadas, que a cambio reciben beneficios tributarios. Esas son políticas que apoyan la producción. Aparte, hay otras que apoyan la presencia de películas en festivales. Los festivales son ferias con stands de diferentes países, donde se entrega a la gente información sobre las películas. Estas campañas atraen la mirada hacia el cine de cada país e incluso sirven para promover rodajes extranjeros en el territorio del país. Eso es muy importante, porque puede rodarse una película de Hollywood en un país latino, y eso deja mucho dinero por concepto de consumo de servicios de restaurantes y hoteles. Pero para eso hay que estar organizados.</p>\n<p class=\"fonte\">Universidad de Lima. Internet: &lt;www.ulima.edu.pe&gt; (con adaptaciones).</p>\n<p class=\"instrucao-item\">A partir del texto anterior, juzgue los siguientes ítems.</p>",
+"texto": "<p>El cine latinoamericano en el siglo XXI El cine latinoamericano del siglo XXI: tendencias y tratamientos es un libro de Ricardo Bedoya, en el que este profesor de la Facultad de Comunicación de la Universidad de Lima y reconocido crítico de cine, analiza doscientas películas latinoamericanas. Lo hace a la luz de los tratamientos cinematográficos que se han desarrollado durante el siglo XXI y las tendencias que marcan el cine de esta región.</p>\n<p>¿Qué tendencias ha seguido el cine latinoamericano a lo largo del siglo XXI?</p>\n<p>Hay una tendencia muy fuerte hacia el trabajo con la memoria y la intimidad. En cuanto a memoria, me refiero a los hechos políticos pasados, sobre todo aquellos que implican traumas por la violencia generada desde el gobierno. Por ejemplo, las dictaduras argentina y chilena. Pero también hay una línea del cine contemporáneo que apunta al autorretrato, la autoficción. El cineasta se ve a sí mismo y su entorno, y convierte esa intimidad en material de registro. Por otro lado, hay una tendencia hacia el llamado cine del dispositivo. Es decir, películas que se hacen estableciendo autolimitaciones. Los directores se autolimitan a determinados elementos y reglas fijas. Por ejemplo, toda la película se graba con la cámara en mano o en un escenario o en términos de una conversación con una persona determinada. También se analiza en el libro el nuevo tratamiento de los espacios, sean estos entornos urbanos o rurales, y cómo se van transformando, cómo se demuelen algunos espacios tradicionales y se forman otros.</p>\n<p>¿Qué géneros predominan? Hay todo un trabajo de reapropiación de los géneros. Es decir, hay un diálogo con los géneros tradicionales. El cine latinoamericano de los últimos años, como el cine mundial también, lo que hace es tomar algunos elementos de los géneros tradicionales para transformarlos, para que esos esquemas de los géneros tradicionales iluminen determinadas zonas de la sociedad latinoamericana, de la política, la intimidad de los cineastas. Por ejemplo, se trabaja mucho el género policial, el cine negro, el terror, las películas de carretera o de viaje, que es un género típicamente norteamericano, pero que en el cine latinoamericano adquiere una dimensión distinta. La comedia, por otro lado, es un género más visible en las salas comerciales y tiene más éxito en términos de la asistencia del público. Pero en el Perú se hace cine en muchas regiones, y esta producción es menos conocida. Se hacen melodramas, películas de terror, sociales, se trabajan muchos géneros.</p>\n<p>¿Cuáles han sido las películas más exitosas o más laureadas?</p>\n<p>Comercialmente, Estación Central (Brasil); Nueve reinas (Argentina); El secreto de sus ojos (Argentina), Gloria (Chile). Hay otras que no tuvieron una exhibición tan amplia, pero fueron muy buenas, como El auge del humano (Argentina), Las Plantas (Chile). Pero si hay un auge del cine latinoamericano y hay películas que asisten a festivales internacionales es porque los Estados se han dado cuenta de que el cine es muy importante, porque proyecta una imagen del país. Por eso han creado mecanismos de apoyo y promoción, los cuales han logrado que el cine tenga un relieve muy particular.</p>\n<p>¿De qué manera se fomenta el cine en otros países? Hay mecanismos de estímulo a la producción cinematográfica a través de fondos del Estado. Se obtienen recursos de la exhibición cinematográfica, pues parte del boleto pasa a un fondo especial. También hay aportes de empresas privadas, que a cambio reciben beneficios tributarios. Esas son políticas que apoyan la producción. Aparte, hay otras que apoyan la presencia de películas en festivales. Los festivales son ferias con stands de diferentes países, donde se entrega a la gente información sobre las películas. Estas campañas atraen la mirada hacia el cine de cada país e incluso sirven para promover rodajes extranjeros en el territorio del país. Eso es muy importante, porque puede rodarse una película de Hollywood en un país latino, y eso deja mucho dinero por concepto de consumo de servicios de restaurantes y hoteles. Pero para eso hay que estar organizados.</p>\n<p class=\"fonte\">Universidad de Lima. Internet: &lt;www.ulima.edu.pe&gt; (con adaptaciones).</p>\n<p class=\"instrucao-item\">A partir del texto anterior, juzgue los siguientes ítems.</p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos I · Língua Espanhola · página 1 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -83,7 +83,7 @@ window.PROVAS_OFICIAIS.push(...[
 "area": "Língua Estrangeira",
 "titulo": "",
 "disciplinaEstimada": false,
-"texto": "<p>649001_01N839822</p>\n<p>Hermeto Pascoal: «La música es mi religión» Hermeto Pascoal es un compositor, arreglista, productor y virtuoso multiinstrumentista: bandoneonista, pianista, flautista, armonicista, saxofonista, guitarrista, melodicista y creador de bandas sonoras. Albino, del nordeste, figura cimera de la música de su país, creador de escuela, orquestador e improvisador y un innovador compositor coetáneo, destacado por la creación de elaboradas melodías, armonías, complejos ritmos y la inclusión de diversos instrumentos creados por él mismo; también, por el uso de un lenguaje musical propio, al cual denomina música universal. La naturaleza hace parte de su obra. Su cuerpo le sirve para hurgar la nuez del sonido, la que no separa del ruido para intentar desentrañar el misterio del arte más elevado, del que Nietzsche dijo: «Sin música, la vida sería un error».</p>\n<p>Podría considerársele también un erradicador de esas nocivas matas llamadas fronteras, sobre todo las que se han inventado entre música popular y erudita. Cuando Floriano Martins planeó hacer su Retrato sobre Hermeto, cuenta que fue interesante hallar más referencias críticas sobre su obra en EE UU; que excepto notas periodísticas, no hay en Brasil una reflexión contundente acerca del trabajo de ese gran compositor; y que su nombre por lo general se asocia al de un loco que sopla calderas y bate tubos en el suelo. Todo ello, resultante de una inclinación perpetua de la cultura brasileña por negar su potencial intuitivo, mágico. Tratar a Hermeto de mago es una referencia irrespetuosa, que implica un distanciamiento. Así lo tenemos, a distancia, concluye Floriano Martins.</p>\n<p>Hermeto también graba, junto a Ron Carter, Chester Thompson, y Flora Purim, un álbum en el que, además, participan… ¡dos cerdos! El grupo actúa en festivales europeos y sus discos, de difícil consecución hasta 1985, incluso fuera de Brasil, pasan a tener una difusión normal, excepto en Brasil. Para este hombre tan ligado a su tierra, nombrado ciudadano de honor de su pueblo, todo es música. De ruidos de animales, charlas, objetos, comentarios de partidos de fútbol, naturaleza, cuerpo.</p>\n<p>Entre 1996 y 1997, Hermeto Pascoal se dedicó a componer una pieza por día, resultando una obra cuando menos insólita, titulada Calendário do Som (1999), libro con partituras y diario de acompañamiento de las sensaciones que involucraron al compositor en tal aventura. ¿El resultado? Fueron 366 músicas del género “choro”. Dice él: «Soy músico, y el músico es medio mágico también, solo que sin trucos, sin esconder nada. Cuando toco un instrumento, hay veces que no siento los pies en el suelo», recuerda FM en su Retrato de Hermeto Pascoal.</p>\n<p class=\"fonte\">Internet:&lt;Rebelion.org&gt; (con adaptaciones).</p>\n<p class=\"instrucao-item\">De acuerdo con el texto, juzgue los siguientes ítems.</p>",
+"texto": "<p>Hermeto Pascoal: «La música es mi religión» Hermeto Pascoal es un compositor, arreglista, productor y virtuoso multiinstrumentista: bandoneonista, pianista, flautista, armonicista, saxofonista, guitarrista, melodicista y creador de bandas sonoras. Albino, del nordeste, figura cimera de la música de su país, creador de escuela, orquestador e improvisador y un innovador compositor coetáneo, destacado por la creación de elaboradas melodías, armonías, complejos ritmos y la inclusión de diversos instrumentos creados por él mismo; también, por el uso de un lenguaje musical propio, al cual denomina música universal. La naturaleza hace parte de su obra. Su cuerpo le sirve para hurgar la nuez del sonido, la que no separa del ruido para intentar desentrañar el misterio del arte más elevado, del que Nietzsche dijo: «Sin música, la vida sería un error».</p>\n<p>Podría considerársele también un erradicador de esas nocivas matas llamadas fronteras, sobre todo las que se han inventado entre música popular y erudita. Cuando Floriano Martins planeó hacer su Retrato sobre Hermeto, cuenta que fue interesante hallar más referencias críticas sobre su obra en EE UU; que excepto notas periodísticas, no hay en Brasil una reflexión contundente acerca del trabajo de ese gran compositor; y que su nombre por lo general se asocia al de un loco que sopla calderas y bate tubos en el suelo. Todo ello, resultante de una inclinación perpetua de la cultura brasileña por negar su potencial intuitivo, mágico. Tratar a Hermeto de mago es una referencia irrespetuosa, que implica un distanciamiento. Así lo tenemos, a distancia, concluye Floriano Martins.</p>\n<p>Hermeto también graba, junto a Ron Carter, Chester Thompson, y Flora Purim, un álbum en el que, además, participan… ¡dos cerdos! El grupo actúa en festivales europeos y sus discos, de difícil consecución hasta 1985, incluso fuera de Brasil, pasan a tener una difusión normal, excepto en Brasil. Para este hombre tan ligado a su tierra, nombrado ciudadano de honor de su pueblo, todo es música. De ruidos de animales, charlas, objetos, comentarios de partidos de fútbol, naturaleza, cuerpo.</p>\n<p>Entre 1996 y 1997, Hermeto Pascoal se dedicó a componer una pieza por día, resultando una obra cuando menos insólita, titulada Calendário do Som (1999), libro con partituras y diario de acompañamiento de las sensaciones que involucraron al compositor en tal aventura. ¿El resultado? Fueron 366 músicas del género “choro”. Dice él: «Soy músico, y el músico es medio mágico también, solo que sin trucos, sin esconder nada. Cuando toco un instrumento, hay veces que no siento los pies en el suelo», recuerda FM en su Retrato de Hermeto Pascoal.</p>\n<p class=\"fonte\">Internet:&lt;Rebelion.org&gt; (con adaptaciones).</p>\n<p class=\"instrucao-item\">De acuerdo con el texto, juzgue los siguientes ítems.</p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos I · Língua Espanhola · página 2 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -221,7 +221,7 @@ window.PROVAS_OFICIAIS.push(...[
 "area": "Língua Estrangeira",
 "titulo": "",
 "disciplinaEstimada": false,
-"texto": "<p>649001_01N839822</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2022/c1-001.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:98%\"></figure>\n<p class=\"fonte\">Internet: &lt;www.tribunavalladolid.com&gt;.</p>",
+"texto": "<figure class=\"fig-prova\"><img src=\"provas/img/2022/c1-001.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:98%\"></figure>\n<p class=\"fonte\">Internet: &lt;www.tribunavalladolid.com&gt;.</p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos I · Língua Espanhola · página 3 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -341,7 +341,7 @@ window.PROVAS_OFICIAIS.push(...[
 "area": "Língua Estrangeira",
 "titulo": "",
 "disciplinaEstimada": false,
-"texto": "<p>649001_01N839822</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2022/c1-004.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:90%\"></figure>\n<p class=\"fonte\">Internet:&lt;leboncoinpublicite.fr/&gt;.</p>\n<p>En considérant les réponses aux sondages ci-dessus, jugez les propositions suivantes.</p>",
+"texto": "<figure class=\"fig-prova\"><img src=\"provas/img/2022/c1-004.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:90%\"></figure>\n<p class=\"fonte\">Internet:&lt;leboncoinpublicite.fr/&gt;.</p>\n<p>En considérant les réponses aux sondages ci-dessus, jugez les propositions suivantes.</p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos I · Língua Francesa · página 4 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -503,7 +503,7 @@ window.PROVAS_OFICIAIS.push(...[
 "area": "Língua Estrangeira",
 "titulo": "",
 "disciplinaEstimada": false,
-"texto": "<p>649001_01N839822</p>\n<p>1572 – Les guerres de religion : le massacre de</p>\n<p>la Saint-Barthélemy</p>\n<p>Couverture</p>\n<p>Verso</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2022/c1-005.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:38%\"></figure>\n<figure class=\"fig-prova\"><img src=\"provas/img/2022/c1-006.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:38%\"></figure>\n<p>Le 24 août 1572, la Saint-Barthélémy marque un tournant dans les guerres de Religion. Jusque là, Catholiques comme protestants, chaque camp pensait pouvoir détruire l’autre. Les principaux chefs ont conscience que la destruction physique de l’adversaire n’est pas possible et que les exécutions expéditives ne règleront rien. Pour l’heure, la France bascule dans une nouvelle guerre de Religion, la quatrième. Il faudra attendre encore vingt-six ans avant que la tolérance l’emporte.</p>\n<p class=\"fonte\">Couverture et verso de la BD Les guerres de religion : le massacre de la Saint Barthélémy. Internet: &lt;www.bedetheque.com/&gt; (adapté).</p>\n<p>En considérant le texte présenté, jugez les propositions suivantes.</p>",
+"texto": "<p>1572 – Les guerres de religion : le massacre de</p>\n<p>la Saint-Barthélemy</p>\n<p>Couverture</p>\n<p>Verso</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2022/c1-005.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:38%\"></figure>\n<figure class=\"fig-prova\"><img src=\"provas/img/2022/c1-006.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:38%\"></figure>\n<p>Le 24 août 1572, la Saint-Barthélémy marque un tournant dans les guerres de Religion. Jusque là, Catholiques comme protestants, chaque camp pensait pouvoir détruire l’autre. Les principaux chefs ont conscience que la destruction physique de l’adversaire n’est pas possible et que les exécutions expéditives ne règleront rien. Pour l’heure, la France bascule dans une nouvelle guerre de Religion, la quatrième. Il faudra attendre encore vingt-six ans avant que la tolérance l’emporte.</p>\n<p class=\"fonte\">Couverture et verso de la BD Les guerres de religion : le massacre de la Saint Barthélémy. Internet: &lt;www.bedetheque.com/&gt; (adapté).</p>\n<p>En considérant le texte présenté, jugez les propositions suivantes.</p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos I · Língua Francesa · página 5 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -635,7 +635,7 @@ window.PROVAS_OFICIAIS.push(...[
 "area": "Língua Estrangeira",
 "titulo": "",
 "disciplinaEstimada": false,
-"texto": "<p>649001_01N839822</p>\n<p>Redu, Belgium — Nearly 40 years ago, books saved this village.</p>\n<p>The community was shrinking fast. Farming jobs had disappeared and families were moving away from this pastoral patch of French-speaking Belgium. But in the mid-1980s, a band of booksellers moved into the empty barns and transformed the place into a literary lodestone. The village of about 400 became home to more than two dozen bookstores — more shops than cows, its boosters liked to say — and thousands of tourists thronged the winsome streets.</p>\n<p>Now, though, more than half the bookstores have closed. Some of the storekeepers died, others left when they could no longer make a living. Many who remain are in their 70s and aren’t sure what’ll happen after they’re gone.</p>\n<p>It’s not just the businesses at risk. It’s Redu’s identity.</p>\n<p class=\"fonte\">Reis Thebault. This village was a book capital. What happens when people stop buying so many books? In: The Washington Post. Internet: &lt;www.washingtonpost.com&gt; (adapted).</p>\n<p class=\"instrucao-item\">Judge the following items according to the previous text.</p>",
+"texto": "<p>Redu, Belgium — Nearly 40 years ago, books saved this village.</p>\n<p>The community was shrinking fast. Farming jobs had disappeared and families were moving away from this pastoral patch of French-speaking Belgium. But in the mid-1980s, a band of booksellers moved into the empty barns and transformed the place into a literary lodestone. The village of about 400 became home to more than two dozen bookstores — more shops than cows, its boosters liked to say — and thousands of tourists thronged the winsome streets.</p>\n<p>Now, though, more than half the bookstores have closed. Some of the storekeepers died, others left when they could no longer make a living. Many who remain are in their 70s and aren’t sure what’ll happen after they’re gone.</p>\n<p>It’s not just the businesses at risk. It’s Redu’s identity.</p>\n<p class=\"fonte\">Reis Thebault. This village was a book capital. What happens when people stop buying so many books? In: The Washington Post. Internet: &lt;www.washingtonpost.com&gt; (adapted).</p>\n<p class=\"instrucao-item\">Judge the following items according to the previous text.</p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos I · Língua Inglesa · página 6 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -737,7 +737,7 @@ window.PROVAS_OFICIAIS.push(...[
 "area": "Língua Estrangeira",
 "titulo": "",
 "disciplinaEstimada": false,
-"texto": "<p>649001_01N839822</p>\n<p>Kangaroos possess powerful hind legs, a long, strong tail, and small front legs. Thanks to their large feet, kangaroos can leap some 9 meters in a single bound, and travel more than 48 kilometers per hour. Kangaroos use their strong tails for balance while jumping. They are the tallest of all marsupials, standing over 2 meters tall.</p>\n<p>Kangaroos live in Eastern Australia. They live in small groups called troops or herds, typically made up of 50 or more animals. If threatened, kangaroos pound the ground with their strong feet in warning. Fighting kangaroos kick opponents, and sometimes bite.</p>\n<p>Female kangaroos sport a pouch on their belly, made by a fold in the skin, to cradle baby kangaroos called joeys. Newborn joeys are just 2.5 centimeters long at birth, or about the size of a grape. After birth, joeys travel, unassisted, through their mom’s thick fur to the comfort and safety of the pouch. A newborn joey can’t suckle or swallow, so the kangaroo mom uses her muscles to pump milk down its throat. At around 4 months, the joey emerges from the pouch for short trips and to graze on grass and small shrubs. At 10 months, the joey is mature enough to leave the pouch for good.</p>\n<p class=\"fonte\">Internet: &lt;kids.nationalgeographic.com&gt;.</p>\n<p class=\"instrucao-item\">Judge the following items according to the text above.</p>",
+"texto": "<p>Kangaroos possess powerful hind legs, a long, strong tail, and small front legs. Thanks to their large feet, kangaroos can leap some 9 meters in a single bound, and travel more than 48 kilometers per hour. Kangaroos use their strong tails for balance while jumping. They are the tallest of all marsupials, standing over 2 meters tall.</p>\n<p>Kangaroos live in Eastern Australia. They live in small groups called troops or herds, typically made up of 50 or more animals. If threatened, kangaroos pound the ground with their strong feet in warning. Fighting kangaroos kick opponents, and sometimes bite.</p>\n<p>Female kangaroos sport a pouch on their belly, made by a fold in the skin, to cradle baby kangaroos called joeys. Newborn joeys are just 2.5 centimeters long at birth, or about the size of a grape. After birth, joeys travel, unassisted, through their mom’s thick fur to the comfort and safety of the pouch. A newborn joey can’t suckle or swallow, so the kangaroo mom uses her muscles to pump milk down its throat. At around 4 months, the joey emerges from the pouch for short trips and to graze on grass and small shrubs. At 10 months, the joey is mature enough to leave the pouch for good.</p>\n<p class=\"fonte\">Internet: &lt;kids.nationalgeographic.com&gt;.</p>\n<p class=\"instrucao-item\">Judge the following items according to the text above.</p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos I · Língua Inglesa · página 7 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -839,7 +839,7 @@ window.PROVAS_OFICIAIS.push(...[
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>649002_01N78167</p>\n<p>Na verdade, o mestre fitava-nos. Como era mais severo para o filho, buscava-o muitas vezes com os olhos, para trazê-lo mais aperreado. Mas nós também éramos finos; metemos o nariz no livro, e continuamos a ler. Afinal cansou e tomou as folhas do dia, três ou quatro, que ele lia devagar, mastigando as ideias e as paixões. Não esqueçam que estávamos então no fim da Regência, e que era grande a agitação pública. Policarpo tinha decerto algum partido, mas nunca pude averiguar esse ponto. O pior que ele podia ter, para nós, era a palmatória. E essa lá estava, pendurada do portal da janela, à direita, com os seus cinco olhos do diabo. Era só levantar a mão, despendurá-la e brandi-la, com a força do costume, que não era pouca. E daí, pode ser que alguma vez as paixões políticas dominassem nele a ponto de poupar-nos uma ou outra correção. Naquele dia, ao menos, pareceu-me que lia as folhas com muito interesse; levantava os olhos de quando em quando, ou tomava uma pitada, mas tornava logo aos jornais, e lia a valer.</p>\n<p><img class=\"formula\" src=\"provas/img/2022/c2-001.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> Raimundo meteu a mão no bolso das calças e olhou para mim.</p>\n<p><img class=\"formula\" src=\"provas/img/2022/c2-002.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> <img class=\"formula\" src=\"provas/img/2022/c2-003.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> <img class=\"formula\" src=\"provas/img/2022/c2-004.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> <img class=\"formula\" src=\"provas/img/2022/c2-005.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> <img class=\"formula\" src=\"provas/img/2022/c2-006.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> <img class=\"formula\" src=\"provas/img/2022/c2-007.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> <img class=\"formula\" src=\"provas/img/2022/c2-008.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> (...) Você quer esta? Minha resposta foi estender-lhe a mão disfarçadamente, depois de olhar para a mesa do mestre. Raimundo recuou a mão dele e deu à boca um gesto amarelo, que queria sorrir. Em seguida propôs-me um negócio, uma troca de serviços; ele me daria a moeda, eu lhe explicaria um ponto da lição de sintaxe. Não conseguira reter nada do livro, e estava com medo do pai. E concluía a proposta esfregando a pratinha nos joelhos... Tive uma sensação esquisita. Não é que eu possuísse da virtude uma ideia antes própria de homem; não é também que não fosse fácil em empregar uma ou outra mentira de criança. Sabíamos ambos enganar ao mestre. A novidade estava nos termos da proposta, na troca de lição e dinheiro, compra franca, positiva, toma lá, dá cá; tal foi a causa da sensação. Fiquei a olhar para ele, à toa, sem poder dizer nada. Compreende-se que o ponto da lição era difícil, e que o Raimundo, não o tendo aprendido, recorria a um meio que lhe pareceu útil para escapar ao castigo do pai. Se me tem pedido a coisa por favor, alcançá-la-ia do mesmo modo, como de outras vezes, mas parece que era lembrança das outras vezes, o medo de achar a minha vontade frouxa ou cansada, e não <img class=\"formula\" src=\"provas/img/2022/c2-009.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> <img class=\"formula\" src=\"provas/img/2022/c2-010.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> proposta. O pobre-diabo contava com o favor, — mas queria assegurar-lhe a eficácia, e daí recorreu à moeda que a mãe lhe dera e que ele guardava como relíquia ou brinquedo; pegou dela e veio esfregá-la nos joelhos, à minha vista, como uma tentação... Realmente, era bonita, fina, branca, muito branca; e para mim, que só trazia cobre no bolso, quando trazia alguma coisa, um cobre feio, grosso, azinhavrado… (...) De repente, olhei para o Curvelo e estremeci; tinha os olhos em nós, com um riso que me pareceu mau. Disfarcei; mas daí a pouco, voltando-me outra vez para ele, achei-o do mesmo modo, com o mesmo ar, acrescendo que entrava a remexer-se no banco, impaciente. Sorri para ele e ele não sorriu; ao contrário, franziu a testa, o que lhe deu um aspecto ameaçador. O coração bateu-me muito.</p>\n<p><img class=\"formula\" src=\"provas/img/2022/c2-011.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> <img class=\"formula\" src=\"provas/img/2022/c2-012.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> Fiz-lhe sinal que se calasse; mas ele instava, e a moeda, cá no bolso, lembrava-me o contrato feito. Ensinei-lhe o que era, disfarçando muito; depois, tornei a olhar para o Curvelo, que me pareceu ainda mais inquieto, e o riso, dantes mau, estava agora pior. Não é preciso dizer que também eu ficara em brasas, ansioso que a aula acabasse; mas nem o relógio andava como das outras vezes, nem o mestre fazia caso da escola; este lia os jornais, artigo por artigo, pontuando-os com exclamações, com gestos de ombros, com uma ou duas pancadinhas na mesa. E lá fora, no céu azul, por cima do morro, o mesmo eterno papagaio, guinando a um lado e outro, como se me chamasse a ir ter com ele. Imaginei-me ali, com os livros e a pedra embaixo da mangueira, e a pratinha no bolso das calças, que eu não daria a ninguém, nem que me serrassem; guardá-la-ia em casa, dizendo a mamãe que a tinha achado na rua. Para que me não fugisse, ia-a apalpando, roçando-lhe os dedos pelo cunho, quase lendo pelo tato a inscrição, com uma grande vontade de espiá-la.</p>\n<p><img class=\"formula\" src=\"provas/img/2022/c2-013.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"></p>\n<p class=\"fonte\">Machado de Assis. Conto de escola. In: Obra completa. Rio de Janeiro: Nova Aguilar, v. II, 1994.</p>\n<p>Considerando as características da prosa de Machado de Assis e a forma narrativa do trecho do Conto de Escola, apresentado anteriormente, julgue os itens de 1 a 4 e faça o que se pede no item 5, que é do tipo C.</p>",
+"texto": "<p>Na verdade, o mestre fitava-nos. Como era mais severo para o filho, buscava-o muitas vezes com os olhos, para trazê-lo mais aperreado. Mas nós também éramos finos; metemos o nariz no livro, e continuamos a ler. Afinal cansou e tomou as folhas do dia, três ou quatro, que ele lia devagar, mastigando as ideias e as paixões. Não esqueçam que estávamos então no fim da Regência, e que era grande a agitação pública. Policarpo tinha decerto algum partido, mas nunca pude averiguar esse ponto. O pior que ele podia ter, para nós, era a palmatória. E essa lá estava, pendurada do portal da janela, à direita, com os seus cinco olhos do diabo. Era só levantar a mão, despendurá-la e brandi-la, com a força do costume, que não era pouca. E daí, pode ser que alguma vez as paixões políticas dominassem nele a ponto de poupar-nos uma ou outra correção. Naquele dia, ao menos, pareceu-me que lia as folhas com muito interesse; levantava os olhos de quando em quando, ou tomava uma pitada, mas tornava logo aos jornais, e lia a valer.</p>\n<p><img class=\"formula\" src=\"provas/img/2022/c2-001.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> Raimundo meteu a mão no bolso das calças e olhou para mim.</p>\n<p><img class=\"formula\" src=\"provas/img/2022/c2-002.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> <img class=\"formula\" src=\"provas/img/2022/c2-003.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> <img class=\"formula\" src=\"provas/img/2022/c2-004.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> <img class=\"formula\" src=\"provas/img/2022/c2-005.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> <img class=\"formula\" src=\"provas/img/2022/c2-006.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> <img class=\"formula\" src=\"provas/img/2022/c2-007.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> <img class=\"formula\" src=\"provas/img/2022/c2-008.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> (...) Você quer esta? Minha resposta foi estender-lhe a mão disfarçadamente, depois de olhar para a mesa do mestre. Raimundo recuou a mão dele e deu à boca um gesto amarelo, que queria sorrir. Em seguida propôs-me um negócio, uma troca de serviços; ele me daria a moeda, eu lhe explicaria um ponto da lição de sintaxe. Não conseguira reter nada do livro, e estava com medo do pai. E concluía a proposta esfregando a pratinha nos joelhos... Tive uma sensação esquisita. Não é que eu possuísse da virtude uma ideia antes própria de homem; não é também que não fosse fácil em empregar uma ou outra mentira de criança. Sabíamos ambos enganar ao mestre. A novidade estava nos termos da proposta, na troca de lição e dinheiro, compra franca, positiva, toma lá, dá cá; tal foi a causa da sensação. Fiquei a olhar para ele, à toa, sem poder dizer nada. Compreende-se que o ponto da lição era difícil, e que o Raimundo, não o tendo aprendido, recorria a um meio que lhe pareceu útil para escapar ao castigo do pai. Se me tem pedido a coisa por favor, alcançá-la-ia do mesmo modo, como de outras vezes, mas parece que era lembrança das outras vezes, o medo de achar a minha vontade frouxa ou cansada, e não <img class=\"formula\" src=\"provas/img/2022/c2-009.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> <img class=\"formula\" src=\"provas/img/2022/c2-010.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> proposta. O pobre-diabo contava com o favor, — mas queria assegurar-lhe a eficácia, e daí recorreu à moeda que a mãe lhe dera e que ele guardava como relíquia ou brinquedo; pegou dela e veio esfregá-la nos joelhos, à minha vista, como uma tentação... Realmente, era bonita, fina, branca, muito branca; e para mim, que só trazia cobre no bolso, quando trazia alguma coisa, um cobre feio, grosso, azinhavrado… (...) De repente, olhei para o Curvelo e estremeci; tinha os olhos em nós, com um riso que me pareceu mau. Disfarcei; mas daí a pouco, voltando-me outra vez para ele, achei-o do mesmo modo, com o mesmo ar, acrescendo que entrava a remexer-se no banco, impaciente. Sorri para ele e ele não sorriu; ao contrário, franziu a testa, o que lhe deu um aspecto ameaçador. O coração bateu-me muito.</p>\n<p><img class=\"formula\" src=\"provas/img/2022/c2-011.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> <img class=\"formula\" src=\"provas/img/2022/c2-012.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> Fiz-lhe sinal que se calasse; mas ele instava, e a moeda, cá no bolso, lembrava-me o contrato feito. Ensinei-lhe o que era, disfarçando muito; depois, tornei a olhar para o Curvelo, que me pareceu ainda mais inquieto, e o riso, dantes mau, estava agora pior. Não é preciso dizer que também eu ficara em brasas, ansioso que a aula acabasse; mas nem o relógio andava como das outras vezes, nem o mestre fazia caso da escola; este lia os jornais, artigo por artigo, pontuando-os com exclamações, com gestos de ombros, com uma ou duas pancadinhas na mesa. E lá fora, no céu azul, por cima do morro, o mesmo eterno papagaio, guinando a um lado e outro, como se me chamasse a ir ter com ele. Imaginei-me ali, com os livros e a pedra embaixo da mangueira, e a pratinha no bolso das calças, que eu não daria a ninguém, nem que me serrassem; guardá-la-ia em casa, dizendo a mamãe que a tinha achado na rua. Para que me não fugisse, ia-a apalpando, roçando-lhe os dedos pelo cunho, quase lendo pelo tato a inscrição, com uma grande vontade de espiá-la.</p>\n<p><img class=\"formula\" src=\"provas/img/2022/c2-013.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"></p>\n<p class=\"fonte\">Machado de Assis. Conto de escola. In: Obra completa. Rio de Janeiro: Nova Aguilar, v. II, 1994.</p>\n<p>Considerando as características da prosa de Machado de Assis e a forma narrativa do trecho do Conto de Escola, apresentado anteriormente, julgue os itens de 1 a 4 e faça o que se pede no item 5, que é do tipo C.</p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos II · página 1 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -865,18 +865,7 @@ window.PROVAS_OFICIAIS.push(...[
 "enunciado": "",
 "tipo": "A",
 "gabarito": "C"
-}
-]
 },
-{
-"id": "unb2022-II-g-2",
-"disciplina": "Interdisciplinar",
-"area": "Linguagens e Ciências Humanas",
-"titulo": "",
-"disciplinaEstimada": true,
-"texto": "<p>649002_01N78167</p>",
-"fonte": "Vestibular UnB 2022 · Prova de Conhecimentos II · página 2 do caderno oficial (Cebraspe).",
-"itens": [
 {
 "numeroOriginal": 5,
 "enunciado": "Muitas das narrativas de Machado de Assis são conhecidas por referências que transmitem uma noção de tempo e espaço bem localizáveis, como é o caso do morro do livramento ou ruas da capital fluminense, assim como episódios históricos do século XIX. Com base nos elementos narrativos que compõem o trecho apresentado do Conto de Escola, assinale a opção correta.",
@@ -892,8 +881,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-3",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-II-g-2",
+"disciplina": "História",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -969,12 +958,12 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-4",
+"id": "unb2022-II-g-3",
 "disciplina": "História",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>649002_01N78167</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2022/c2-014.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:82%\"></figure>\n<p class=\"fonte\">Jaider Esbell. A Guerra dos Kanaimés 1, 2020.</p>\n<p>Os indígenas macuxi radicados em Roraima contam que o kanaimé pode transformar-se em diferentes animais e ser um predador mortal. A série A Guerra dos Kanaimés 1 (2020), do artista macuxi Jaider Esbell, evoca a ideia de espíritos que provocam a morte de quem os encontra e projeta essa ideia sobre os conflitos contemporâneos vividos pelo seu povo, confrontado por ofensivas que visam explorar predatoriamente as suas terras.</p>\n<p class=\"fonte\">Internet: &lt;34.bienal.org.br/artistas/&gt; (com adaptações).</p>\n<p>Tendo como referência a obra A Guerra dos Kanaimés 1, de Jaider Esbell, e o texto apresentado, julgue os itens a seguir.</p>",
+"texto": "<figure class=\"fig-prova\"><img src=\"provas/img/2022/c2-014.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:82%\"></figure>\n<p class=\"fonte\">Jaider Esbell. A Guerra dos Kanaimés 1, 2020.</p>\n<p>Os indígenas macuxi radicados em Roraima contam que o kanaimé pode transformar-se em diferentes animais e ser um predador mortal. A série A Guerra dos Kanaimés 1 (2020), do artista macuxi Jaider Esbell, evoca a ideia de espíritos que provocam a morte de quem os encontra e projeta essa ideia sobre os conflitos contemporâneos vividos pelo seu povo, confrontado por ofensivas que visam explorar predatoriamente as suas terras.</p>\n<p class=\"fonte\">Internet: &lt;34.bienal.org.br/artistas/&gt; (com adaptações).</p>\n<p>Tendo como referência a obra A Guerra dos Kanaimés 1, de Jaider Esbell, e o texto apresentado, julgue os itens a seguir.</p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos II · página 3 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -998,8 +987,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-5",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-II-g-4",
+"disciplina": "Artes",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1021,7 +1010,7 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-6",
+"id": "unb2022-II-g-5",
 "disciplina": "Geografia",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
@@ -1050,12 +1039,12 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-7",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-II-g-6",
+"disciplina": "Língua Portuguesa e Literatura",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>649002_01N78167</p>\n<p>Tempestades de areia atingiram diversos municípios brasileiros nos meses de setembro e outubro de 2021. Segundo relatos de moradores, uma forte ventania e a queda brusca da temperatura antecederam a tempestade. Os ventos chegaram a 68 km/h e a temperatura, que estava em 41 °C, caiu para 24 °C. A visibilidade nos locais ficou extremamente baixa e comprometida pela poeira.</p>\n<p class=\"fonte\">Internet: &lt;olhardigital.com.br&gt;.</p>\n<p>A respeito das tempestades de areia e seus impactos, julgue os itens seguintes.</p>",
+"texto": "<p>Tempestades de areia atingiram diversos municípios brasileiros nos meses de setembro e outubro de 2021. Segundo relatos de moradores, uma forte ventania e a queda brusca da temperatura antecederam a tempestade. Os ventos chegaram a 68 km/h e a temperatura, que estava em 41 °C, caiu para 24 °C. A visibilidade nos locais ficou extremamente baixa e comprometida pela poeira.</p>\n<p class=\"fonte\">Internet: &lt;olhardigital.com.br&gt;.</p>\n<p>A respeito das tempestades de areia e seus impactos, julgue os itens seguintes.</p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos II · página 4 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -1073,7 +1062,7 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-8",
+"id": "unb2022-II-g-7",
 "disciplina": "Língua Portuguesa e Literatura",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
@@ -1120,12 +1109,12 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-9",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-II-g-8",
+"disciplina": "Língua Portuguesa e Literatura",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>649002_01N78167</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2022/c2-017.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:100%\"></figure>\n<p class=\"fonte\">Internet: &lt;www.mapasparacolorir.com.br&gt; (com adaptações).</p>\n<p>Tendo como referência o cartograma apresentado, no qual estão identificados numericamente os biomas brasileiros, assinale a opção correta no próximo item, que é do tipo C.</p>",
+"texto": "<figure class=\"fig-prova\"><img src=\"provas/img/2022/c2-017.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:100%\"></figure>\n<p class=\"fonte\">Internet: &lt;www.mapasparacolorir.com.br&gt; (com adaptações).</p>\n<p>Tendo como referência o cartograma apresentado, no qual estão identificados numericamente os biomas brasileiros, assinale a opção correta no próximo item, que é do tipo C.</p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos II · página 5 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -1143,8 +1132,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-10",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-II-g-9",
+"disciplina": "Geografia",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1172,8 +1161,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-11",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-II-g-10",
+"disciplina": "Língua Portuguesa e Literatura",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1195,7 +1184,7 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-12",
+"id": "unb2022-II-g-11",
 "disciplina": "Língua Portuguesa e Literatura",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
@@ -1230,12 +1219,12 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-13",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-II-g-12",
+"disciplina": "Geografia",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>649002_01N78167</p>\n<p>Com um custo de 0,5% do produto interno bruto (PIB), o Bolsa-Família conseguiu, em seus dezoito anos de história, reduzir a pobreza e a pobreza extrema, diminuir a mortalidade infantil, aumentar a participação escolar feminina, reduzir a desigualdade regional do país e melhorar indicadores de insegurança alimentar entre os mais pobres.</p>\n<p>Enquanto todos esses benefícios eram colhidos, a <img class=\"formula\" src=\"provas/img/2022/c2-018.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> a falta de fundamento de uma das ideias difundidas inicialmente para atacar o programa: a de que ele seria um incentivo para que famílias buscassem ter mais filhos para receberem mais.</p>\n<p><img class=\"formula\" src=\"provas/img/2022/c2-019.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> ampliado em número de beneficiários e valor dos benefícios, além de ser reajustado periodicamente como os salários, para que <img class=\"formula\" src=\"provas/img/2022/c2-020.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> resultados positivos são visíveis. Eles foram reconhecidos internacionalmente ao longo dos anos e constatados nos mais de dezenove mil estudos sobre o programa.</p>\n<p class=\"fonte\">Internet: &lt;www.bbc.com/&gt; (com adaptações).</p>\n<p>Considerando o texto precedente e o assunto nele abordado, julgue os seguintes itens.</p>",
+"texto": "<p>Com um custo de 0,5% do produto interno bruto (PIB), o Bolsa-Família conseguiu, em seus dezoito anos de história, reduzir a pobreza e a pobreza extrema, diminuir a mortalidade infantil, aumentar a participação escolar feminina, reduzir a desigualdade regional do país e melhorar indicadores de insegurança alimentar entre os mais pobres.</p>\n<p>Enquanto todos esses benefícios eram colhidos, a <img class=\"formula\" src=\"provas/img/2022/c2-018.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> a falta de fundamento de uma das ideias difundidas inicialmente para atacar o programa: a de que ele seria um incentivo para que famílias buscassem ter mais filhos para receberem mais.</p>\n<p><img class=\"formula\" src=\"provas/img/2022/c2-019.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> ampliado em número de beneficiários e valor dos benefícios, além de ser reajustado periodicamente como os salários, para que <img class=\"formula\" src=\"provas/img/2022/c2-020.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> resultados positivos são visíveis. Eles foram reconhecidos internacionalmente ao longo dos anos e constatados nos mais de dezenove mil estudos sobre o programa.</p>\n<p class=\"fonte\">Internet: &lt;www.bbc.com/&gt; (com adaptações).</p>\n<p>Considerando o texto precedente e o assunto nele abordado, julgue os seguintes itens.</p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos II · página 6 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -1259,7 +1248,7 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-14",
+"id": "unb2022-II-g-13",
 "disciplina": "Língua Portuguesa e Literatura",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
@@ -1294,8 +1283,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-15",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-II-g-14",
+"disciplina": "História",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1359,12 +1348,12 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-16",
+"id": "unb2022-II-g-15",
 "disciplina": "Língua Portuguesa e Literatura",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>649002_01N78167</p>\n<p>Hoje poderíamos acrescentar a última e talvez a mais formidável forma de tal dominação: a burocracia, ou o domínio de um intrincado sistema de departamentos, no qual homem algum pode ser tido como responsável, e que poderia ser chamado com muita propriedade o domínio de Ninguém. (Se, de acordo com o pensamento político, identificarmos a tirania como um tipo de governo que não responde por seus próprios atos, o domínio de Ninguém é claramente o mais tirânico de todos, uma vez que não existe alguém a quem se possa solicitar que preste conta por aquilo que está sendo feito. É esse estado de coisas que torna impossível a localização da responsabilidade e a identificação do inimigo, que figura entre as mais potentes causas da inquietação rebelde que reina em todo o mundo, de sua natureza caótica, e de sua perigosa tendência a descontrolar-se.)</p>\n<p class=\"fonte\">Hannah Arendt. Sobre a violência.</p>\n<p>Art. 17. É livre a criação, fusão, incorporação e extinção de partidos políticos, resguardados a soberania nacional, o regime democrático, o pluripartidarismo, os direitos fundamentais da pessoa humana (...)</p>\n<p class=\"fonte\">Constituição Federal de 1988, Capítulo V.</p>\n<p>Tendo como referência inicial aquele fragmento de texto, de Hannah Arendt, e o trecho apresentado do art. 17 da Constituição Federal de 1988, julgue os itens de 54 a 56 e assinale a opção correta no item 57, que é do tipo C.</p>",
+"texto": "<p>Hoje poderíamos acrescentar a última e talvez a mais formidável forma de tal dominação: a burocracia, ou o domínio de um intrincado sistema de departamentos, no qual homem algum pode ser tido como responsável, e que poderia ser chamado com muita propriedade o domínio de Ninguém. (Se, de acordo com o pensamento político, identificarmos a tirania como um tipo de governo que não responde por seus próprios atos, o domínio de Ninguém é claramente o mais tirânico de todos, uma vez que não existe alguém a quem se possa solicitar que preste conta por aquilo que está sendo feito. É esse estado de coisas que torna impossível a localização da responsabilidade e a identificação do inimigo, que figura entre as mais potentes causas da inquietação rebelde que reina em todo o mundo, de sua natureza caótica, e de sua perigosa tendência a descontrolar-se.)</p>\n<p class=\"fonte\">Hannah Arendt. Sobre a violência.</p>\n<p>Art. 17. É livre a criação, fusão, incorporação e extinção de partidos políticos, resguardados a soberania nacional, o regime democrático, o pluripartidarismo, os direitos fundamentais da pessoa humana (...)</p>\n<p class=\"fonte\">Constituição Federal de 1988, Capítulo V.</p>\n<p>Tendo como referência inicial aquele fragmento de texto, de Hannah Arendt, e o trecho apresentado do art. 17 da Constituição Federal de 1988, julgue os itens de 54 a 56 e assinale a opção correta no item 57, que é do tipo C.</p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos II · página 7 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -1382,7 +1371,7 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-17",
+"id": "unb2022-II-g-16",
 "disciplina": "Língua Portuguesa e Literatura",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
@@ -1417,7 +1406,7 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-18",
+"id": "unb2022-II-g-17",
 "disciplina": "Língua Portuguesa e Literatura",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
@@ -1436,18 +1425,7 @@ window.PROVAS_OFICIAIS.push(...[
 "enunciado": "Nos períodos que compõem o trecho “Leia a notícia inteira, antes de compartilhar. O título pode ser sensacionalista.”, emprega-se a elipse como mecanismo de coesão textual.",
 "tipo": "A",
 "gabarito": "C"
-}
-]
 },
-{
-"id": "unb2022-II-g-19",
-"disciplina": "Interdisciplinar",
-"area": "Linguagens e Ciências Humanas",
-"titulo": "",
-"disciplinaEstimada": true,
-"texto": "<p>649002_01N78167</p>",
-"fonte": "Vestibular UnB 2022 · Prova de Conhecimentos II · página 8 do caderno oficial (Cebraspe).",
-"itens": [
 {
 "numeroOriginal": 63,
 "enunciado": "No período “Se não tiver autoria, é muito provável que a notícia seja falsa”, o emprego da forma verbal “tiver” é típico da oralidade e, por isso, condenado pela norma padrão da língua portuguesa.",
@@ -1475,8 +1453,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-20",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-II-g-18",
+"disciplina": "Artes",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1498,8 +1476,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-21",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-II-g-19",
+"disciplina": "Língua Portuguesa e Literatura",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1515,8 +1493,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-22",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-II-g-20",
+"disciplina": "Língua Portuguesa e Literatura",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1538,8 +1516,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-23",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-II-g-21",
+"disciplina": "Língua Portuguesa e Literatura",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1561,12 +1539,12 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-24",
-"disciplina": "Língua Portuguesa e Literatura",
+"id": "unb2022-II-g-22",
+"disciplina": "Geografia",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>649002_01N78167</p>\n<p>Crianças são as principais vítimas da crise Mais de 17 milhões de brasileiros até 14 anos de idade sobreviveram em 2020 abaixo da linha de pobreza, segundo dados do Instituto Brasileiro de Geografia e Estatística (IBGE). <img class=\"formula\" src=\"provas/img/2022/c2-025.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> <img class=\"formula\" src=\"provas/img/2022/c2-026.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> miséria. Além dos mais jovens, a pobreza atinge com mais força as pessoas de cor preta ou parda. São quase três vezes mais negros do que brancos na extrema pobreza. Cerca de 8,8 milhões abaixo da linha de miséria são pretos ou pardos, o que representa quase 75% do total de pessoas nessa condição. Os brancos na miséria, em 2020, totalizavam 3,2 milhões. Entre os brasileiros abaixo da linha de pobreza, 36,8 milhões eram negros, enquanto os brancos somavam quase 13,6 milhões.</p>\n<p class=\"fonte\">Internet: &lt;economia.uol.com.br&gt; (com adaptações).</p>\n<p class=\"instrucao-item\">Considerando o texto precedente, julgue os próximos itens.</p>",
+"texto": "<p>Crianças são as principais vítimas da crise Mais de 17 milhões de brasileiros até 14 anos de idade sobreviveram em 2020 abaixo da linha de pobreza, segundo dados do Instituto Brasileiro de Geografia e Estatística (IBGE). <img class=\"formula\" src=\"provas/img/2022/c2-025.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> <img class=\"formula\" src=\"provas/img/2022/c2-026.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> miséria. Além dos mais jovens, a pobreza atinge com mais força as pessoas de cor preta ou parda. São quase três vezes mais negros do que brancos na extrema pobreza. Cerca de 8,8 milhões abaixo da linha de miséria são pretos ou pardos, o que representa quase 75% do total de pessoas nessa condição. Os brancos na miséria, em 2020, totalizavam 3,2 milhões. Entre os brasileiros abaixo da linha de pobreza, 36,8 milhões eram negros, enquanto os brancos somavam quase 13,6 milhões.</p>\n<p class=\"fonte\">Internet: &lt;economia.uol.com.br&gt; (com adaptações).</p>\n<p class=\"instrucao-item\">Considerando o texto precedente, julgue os próximos itens.</p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos II · página 9 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -1596,7 +1574,7 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-25",
+"id": "unb2022-II-g-23",
 "disciplina": "Língua Portuguesa e Literatura",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
@@ -1637,7 +1615,7 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-26",
+"id": "unb2022-II-g-24",
 "disciplina": "Geografia",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
@@ -1655,12 +1633,12 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-27",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-II-g-25",
+"disciplina": "Língua Portuguesa e Literatura",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>649002_01N78167</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2022/c2-029.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:94%\"></figure>\n<p class=\"instrucao-item\">Julgue os itens subsequentes, acerca das ideias e dos aspectos</p>\n<p>linguísticos da tirinha apresentada.</p>",
+"texto": "<figure class=\"fig-prova\"><img src=\"provas/img/2022/c2-029.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:94%\"></figure>\n<p class=\"instrucao-item\">Julgue os itens subsequentes, acerca das ideias e dos aspectos</p>\n<p>linguísticos da tirinha apresentada.</p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos II · página 10 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -1684,8 +1662,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-28",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-II-g-26",
+"disciplina": "Língua Portuguesa e Literatura",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1701,7 +1679,7 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-29",
+"id": "unb2022-II-g-27",
 "disciplina": "História",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
@@ -1754,12 +1732,12 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-30",
-"disciplina": "Artes Cênicas",
+"id": "unb2022-II-g-28",
+"disciplina": "Artes",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>649002_01N78167 Clausewitz: Eu decidi ser agricultor. Eu não quero mais saber do teatro. O senhor acha que tem lugar para o teatro no mundo depois desta Guerra? Segismundo: Eu nunca fui ao teatro. Ouvi pelo rádio, uma vez, uma história de uma mulher que assina umas promissórias, depois vai embora de casa. Não entendi muito bem. Não tinha a ver com a minha vida. Clausewitz: É o que eu estava dizendo. O mundo que eu vi... O teatro nunca vai falar do mundo que eu vi. O senhor não imagina o que é uma guerra dentro da sua própria casa.</p>\n<p class=\"fonte\">Bosco Brasil. Novas diretrizes em tempos de paz. (com adaptações).</p>\n<p>A obra Novas diretrizes em tempos de paz, de Bosco Brasil, da qual foi extraído o fragmento de texto apresentado, foi adaptada em 2009 para o cinema, sob o título Tempos de paz. Um dos fatores pontuais do texto é o uso do nome Segismundo para a personagem, uma referência direta ao príncipe da peça A vida é sonho, de Calderón de la Barca. A partir dessas informações e do fragmento de texto anterior, julgue os itens seguintes, a respeito da produção artística teatral e cinematográfica brasileira, suas influências e sua história.</p>",
+"texto": "<p>Clausewitz: Eu decidi ser agricultor. Eu não quero mais saber do teatro. O senhor acha que tem lugar para o teatro no mundo depois desta Guerra? Segismundo: Eu nunca fui ao teatro. Ouvi pelo rádio, uma vez, uma história de uma mulher que assina umas promissórias, depois vai embora de casa. Não entendi muito bem. Não tinha a ver com a minha vida. Clausewitz: É o que eu estava dizendo. O mundo que eu vi... O teatro nunca vai falar do mundo que eu vi. O senhor não imagina o que é uma guerra dentro da sua própria casa.</p>\n<p class=\"fonte\">Bosco Brasil. Novas diretrizes em tempos de paz. (com adaptações).</p>\n<p>A obra Novas diretrizes em tempos de paz, de Bosco Brasil, da qual foi extraído o fragmento de texto apresentado, foi adaptada em 2009 para o cinema, sob o título Tempos de paz. Um dos fatores pontuais do texto é o uso do nome Segismundo para a personagem, uma referência direta ao príncipe da peça A vida é sonho, de Calderón de la Barca. A partir dessas informações e do fragmento de texto anterior, julgue os itens seguintes, a respeito da produção artística teatral e cinematográfica brasileira, suas influências e sua história.</p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos II · página 11 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -1807,8 +1785,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-31",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-II-g-29",
+"disciplina": "História",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1836,7 +1814,7 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-32",
+"id": "unb2022-II-g-30",
 "disciplina": "Música",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
@@ -1865,12 +1843,12 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-33",
-"disciplina": "Língua Portuguesa e Literatura",
+"id": "unb2022-II-g-31",
+"disciplina": "História",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>649002_01N78167</p>\n<p>A questão da origem da linguagem é altamente controvertida, dada a inexistência de provas e de testemunhos factuais. Isso tornou o tema sujeito às mais inusitadas divagações e propostas fantasiosas. Uma das primeiras teorias sobre a origem da linguagem humana é que as palavras surgiram da tentativa de imitar os sons produzidos pelos animais e os sons da natureza circundante. Essa teoria é conhecida como teoria onomatopaica. Outra possibilidade proposta, muito semelhante à explicação onomatopaica, foi a de identificar o germe da linguagem nas interjeições. Os primeiros sons produzidos pelos seres humanos teriam sido exclamações de dor, alegria, desespero, espanto, surpresa.</p>\n<p>Uma teoria um pouco mais elaborada sugere que o esforço muscular exagerado ou difícil e especialmente os esforços rítmicos são geralmente acompanhados por ação intermitente da glote, da língua, dos lábios e do palato mole. A alternância dos movimentos de segurar e soltar a respiração, algumas vezes fazendo as cordas vocais vibrarem, produziu a voz.</p>\n<p class=\"fonte\">Bruna Franchetto e Yonne Leite. Origens da linguagem. Rio de Janeiro: Jorge Zahar Editor, 2004, p. 12-13 (com adaptações).</p>\n<p>Tendo como referência o fragmento de texto anterior, suas ideias e seus aspectos linguísticos, julgue os itens seguintes.</p>",
+"texto": "<p>A questão da origem da linguagem é altamente controvertida, dada a inexistência de provas e de testemunhos factuais. Isso tornou o tema sujeito às mais inusitadas divagações e propostas fantasiosas. Uma das primeiras teorias sobre a origem da linguagem humana é que as palavras surgiram da tentativa de imitar os sons produzidos pelos animais e os sons da natureza circundante. Essa teoria é conhecida como teoria onomatopaica. Outra possibilidade proposta, muito semelhante à explicação onomatopaica, foi a de identificar o germe da linguagem nas interjeições. Os primeiros sons produzidos pelos seres humanos teriam sido exclamações de dor, alegria, desespero, espanto, surpresa.</p>\n<p>Uma teoria um pouco mais elaborada sugere que o esforço muscular exagerado ou difícil e especialmente os esforços rítmicos são geralmente acompanhados por ação intermitente da glote, da língua, dos lábios e do palato mole. A alternância dos movimentos de segurar e soltar a respiração, algumas vezes fazendo as cordas vocais vibrarem, produziu a voz.</p>\n<p class=\"fonte\">Bruna Franchetto e Yonne Leite. Origens da linguagem. Rio de Janeiro: Jorge Zahar Editor, 2004, p. 12-13 (com adaptações).</p>\n<p>Tendo como referência o fragmento de texto anterior, suas ideias e seus aspectos linguísticos, julgue os itens seguintes.</p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos II · página 12 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -1918,7 +1896,7 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-34",
+"id": "unb2022-II-g-32",
 "disciplina": "História",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
@@ -1959,7 +1937,7 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-II-g-35",
+"id": "unb2022-II-g-33",
 "disciplina": "Música",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
@@ -2006,11 +1984,11 @@ window.PROVAS_OFICIAIS.push(...[
 "blocos": [
 {
 "id": "unb2022-III-g-1",
-"disciplina": "Interdisciplinar",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>650003_01N150047</p>\n<p>A origem dos seres vivos continua sendo uma questão aberta à discussão na biologia, existindo ainda debate em relação às hipóteses embasadas em experimentos ou observações para explicar o surgimento dos primeiros seres vivos no planeta. Estudos recentes demonstram que o hidrogênio e a dispersão de partículas tiveram um papel importante na origem da vida, acrescentando progressos aos experimentos iniciados por Miller-Urey.</p>\n<p class=\"fonte\">Internet:&lt;www.the-scientist.com&gt; (com adaptações).</p>\n<p>Considerando as hipóteses mencionadas no texto e as características do método científico, julgue os itens a seguir.</p>",
+"texto": "<p>A origem dos seres vivos continua sendo uma questão aberta à discussão na biologia, existindo ainda debate em relação às hipóteses embasadas em experimentos ou observações para explicar o surgimento dos primeiros seres vivos no planeta. Estudos recentes demonstram que o hidrogênio e a dispersão de partículas tiveram um papel importante na origem da vida, acrescentando progressos aos experimentos iniciados por Miller-Urey.</p>\n<p class=\"fonte\">Internet:&lt;www.the-scientist.com&gt; (com adaptações).</p>\n<p>Considerando as hipóteses mencionadas no texto e as características do método científico, julgue os itens a seguir.</p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos III · página 1 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -2041,7 +2019,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2022-III-g-2",
-"disciplina": "Interdisciplinar",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2064,7 +2042,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2022-III-g-3",
-"disciplina": "Interdisciplinar",
+"disciplina": "Química",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2082,18 +2060,7 @@ window.PROVAS_OFICIAIS.push(...[
 "enunciado": "",
 "tipo": "A",
 "gabarito": "C"
-}
-]
 },
-{
-"id": "unb2022-III-g-4",
-"disciplina": "Química",
-"area": "Ciências da Natureza e Matemática",
-"titulo": "",
-"disciplinaEstimada": true,
-"texto": "<p>650003_01N150047</p>",
-"fonte": "Vestibular UnB 2022 · Prova de Conhecimentos III · página 2 do caderno oficial (Cebraspe).",
-"itens": [
 {
 "numeroOriginal": 9,
 "enunciado": "De acordo com a teoria ácido-base de Lewis, na formação do complexo <sup>99m</sup>Tc-HMPAO, o <sup>99m</sup>TcO<sup>3+</sup> atua como ácido, enquanto a exametazima age como base.",
@@ -2127,7 +2094,7 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-5",
+"id": "unb2022-III-g-4",
 "disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
@@ -2174,7 +2141,7 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-6",
+"id": "unb2022-III-g-5",
 "disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
@@ -2209,12 +2176,12 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-7",
+"id": "unb2022-III-g-6",
 "disciplina": "Química",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>650003_01N150047</p>\n<p>Entre os sanitizantes de mão mais difundidos no mundo, estão os produzidos à base de álcool, cuja composição inclui etanol, propanol, isopropanol ou uma mistura deles, e água. A concentração de álcool nos sanitizantes geralmente varia de 60% a 95% em massa, sendo 70% a concentração ótima para desinfecção, no caso do etanol. Para aumentar a eficiência do composto, adiciona-se a ele carbômero, um polímero produzido a partir do monômero ácido acrílico, que aumenta a viscosidade do material e facilita a sua aplicação por fricção das mãos. Esse produto é conhecido como álcool em gel.</p>\n<p class=\"fonte\">Internet: https://www.compoundchem.com (com adaptações).</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2022/c3-003.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:90%\"></figure>\n<p>Tendo como referência as informações do texto e com base nas estruturas químicas apresentadas, julgue os itens de 24 a 29 e assinale a opção correta no item 30, que é do tipo C.</p>",
+"texto": "<p>Entre os sanitizantes de mão mais difundidos no mundo, estão os produzidos à base de álcool, cuja composição inclui etanol, propanol, isopropanol ou uma mistura deles, e água. A concentração de álcool nos sanitizantes geralmente varia de 60% a 95% em massa, sendo 70% a concentração ótima para desinfecção, no caso do etanol. Para aumentar a eficiência do composto, adiciona-se a ele carbômero, um polímero produzido a partir do monômero ácido acrílico, que aumenta a viscosidade do material e facilita a sua aplicação por fricção das mãos. Esse produto é conhecido como álcool em gel.</p>\n<p class=\"fonte\">Internet: https://www.compoundchem.com (com adaptações).</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2022/c3-003.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:90%\"></figure>\n<p>Tendo como referência as informações do texto e com base nas estruturas químicas apresentadas, julgue os itens de 24 a 29 e assinale a opção correta no item 30, que é do tipo C.</p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos III · página 3 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -2268,8 +2235,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-8",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-III-g-7",
+"disciplina": "Matemática",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2303,8 +2270,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-9",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-III-g-8",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2332,12 +2299,12 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-10",
+"id": "unb2022-III-g-9",
 "disciplina": "Física",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>650003_01N150047</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2022/c3-008.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:94%\"></figure>\n<p>A figura anterior ilustra a simulação de um experimento relativo à propagação de ondas sonoras no ar, produzidas pela sirene de uma ambulância que se movimenta com velocidade de 36 km/h em relação a um observador na Terra. A frequência da fonte sonora é de 800 Hz, e as observadoras A e B estão em repouso em relação à Terra. Tendo como referência essas informações, considerando que o meio de propagação do som seja homogêneo e sabendo que, nesse meio, a velocidade do som é 340 m/s, julgue o item 37 e assinale a opção correta no item 38, que é do tipo C.</p>",
+"texto": "<figure class=\"fig-prova\"><img src=\"provas/img/2022/c3-008.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:94%\"></figure>\n<p>A figura anterior ilustra a simulação de um experimento relativo à propagação de ondas sonoras no ar, produzidas pela sirene de uma ambulância que se movimenta com velocidade de 36 km/h em relação a um observador na Terra. A frequência da fonte sonora é de 800 Hz, e as observadoras A e B estão em repouso em relação à Terra. Tendo como referência essas informações, considerando que o meio de propagação do som seja homogêneo e sabendo que, nesse meio, a velocidade do som é 340 m/s, julgue o item 37 e assinale a opção correta no item 38, que é do tipo C.</p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos III · página 4 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -2361,8 +2328,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-11",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-III-g-10",
+"disciplina": "Física",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2402,7 +2369,7 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-12",
+"id": "unb2022-III-g-11",
 "disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
@@ -2443,12 +2410,12 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-13",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-III-g-12",
+"disciplina": "Física",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>650003_01N150047 Sabendo que enzimas são catalisadores biológicos responsáveis por aumentar a velocidade de determinada reação química, faça o que se pede no item a seguir, que é do tipo D.</p>",
+"texto": "<p>Sabendo que enzimas são catalisadores biológicos responsáveis por aumentar a velocidade de determinada reação química, faça o que se pede no item a seguir, que é do tipo D.</p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos III · página 5 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -2461,7 +2428,7 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-14",
+"id": "unb2022-III-g-13",
 "disciplina": "Química",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
@@ -2508,12 +2475,12 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-15",
+"id": "unb2022-III-g-14",
 "disciplina": "Química",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>650003_01N150047</p>\n<p>O peróxido de hidrogênio (H<sub>2</sub>O<sub>2</sub>), um dos agentes mais empregados em desinfecções, decompõe-se lentamente em água e oxigênio, conforme se observa na equação que se segue.</p>\n<p><img class=\"formula\" src=\"provas/img/2022/c3-010.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.09em\"> Esse processo pode ser acelerado pela adição de HBr, cujo mecanismo envolve duas etapas, conforme as representações I e II, a seguir.</p>\n<p>I 2Br<sup>−</sup></p>\n<p><sub> (aq)</sub> + H<sub>2</sub>O<sub>2 (aq)</sub> + 2 H<sup>+</sup></p>\n<p><img class=\"formula\" src=\"provas/img/2022/c3-011.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.09em\"> <img class=\"formula\" src=\"provas/img/2022/c3-012.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.27em\"></p>\n<p><sub> (aq)</sub> + 2 H<sup>+</sup></p>\n<p><sub> (aq)</sub> + O<sub>2 (g)</sub> No gráfico seguinte, é representada a variação da entalpia em função da coordenada da reação referente ao mecanismo anterior nas condições padrão.</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2022/c3-013.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:70%\"></figure>\n<p class=\"instrucao-item\">Com base nessas informações, julgue os itens subsequentes.</p>",
+"texto": "<p>O peróxido de hidrogênio (H<sub>2</sub>O<sub>2</sub>), um dos agentes mais empregados em desinfecções, decompõe-se lentamente em água e oxigênio, conforme se observa na equação que se segue.</p>\n<p><img class=\"formula\" src=\"provas/img/2022/c3-010.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.09em\"> Esse processo pode ser acelerado pela adição de HBr, cujo mecanismo envolve duas etapas, conforme as representações I e II, a seguir.</p>\n<p>I 2Br<sup>−</sup></p>\n<p><sub> (aq)</sub> + H<sub>2</sub>O<sub>2 (aq)</sub> + 2 H<sup>+</sup></p>\n<p><img class=\"formula\" src=\"provas/img/2022/c3-011.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.09em\"> <img class=\"formula\" src=\"provas/img/2022/c3-012.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.27em\"></p>\n<p><sub> (aq)</sub> + 2 H<sup>+</sup></p>\n<p><sub> (aq)</sub> + O<sub>2 (g)</sub> No gráfico seguinte, é representada a variação da entalpia em função da coordenada da reação referente ao mecanismo anterior nas condições padrão.</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2022/c3-013.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:70%\"></figure>\n<p class=\"instrucao-item\">Com base nessas informações, julgue os itens subsequentes.</p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos III · página 6 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -2543,8 +2510,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-16",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-III-g-15",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2566,7 +2533,7 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-17",
+"id": "unb2022-III-g-16",
 "disciplina": "Física",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
@@ -2595,12 +2562,12 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-18",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-III-g-17",
+"disciplina": "Física",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>650003_01N150047 O pigmento envolvido na captura de luz durante o processo de fotossíntese é a clorofila, pertencente à classe das porfirinas. Considerando isso, assinale a opção correta no item a seguir, que é do tipo C.</p>",
+"texto": "<p>O pigmento envolvido na captura de luz durante o processo de fotossíntese é a clorofila, pertencente à classe das porfirinas. Considerando isso, assinale a opção correta no item a seguir, que é do tipo C.</p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos III · página 7 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -2618,7 +2585,7 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-19",
+"id": "unb2022-III-g-18",
 "disciplina": "Química",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
@@ -2677,7 +2644,7 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-20",
+"id": "unb2022-III-g-19",
 "disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
@@ -2706,12 +2673,12 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-21",
+"id": "unb2022-III-g-20",
 "disciplina": "Química",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>650003_01N150047</p>\n<p>A goethita (FeOOH) é um dos principais compostos responsáveis pela cor terrosa característica dos solos. A cor dos solos argilosos deve-se, principalmente, à proporção entre a quantidade de goethita e de outros minerais presentes nesses tipos de solo, como a limonita (FeOOH·nH<sub>2</sub>O), de cor amarela, e a hematita (Fe<sub>2</sub>O<sub>3</sub>), que é avermelhada.</p>\n<p>A formação da goethita pode ser representada por várias reações, como as mostradas nas equações químicas I e II, a seguir. A equação III representa a formação do aquocomplexo [Fe(H<sub>2</sub>O)<sub>6</sub>]<sup>3+</sup> em meio aquoso. Todas essas reações são pH dependentes e estão sujeitas ao equilíbrio mostrado na equação IV.</p>\n<p><img class=\"formula\" src=\"provas/img/2022/c3-020.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.27em\"><br><img class=\"formula\" src=\"provas/img/2022/c3-021.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.27em\"><br><img class=\"formula\" src=\"provas/img/2022/c3-022.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.27em\"><br><img class=\"formula\" src=\"provas/img/2022/c3-023.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.27em\"></p>\n<p>A goethita pode ser obtida em laboratório, por meio da alcalinização de uma solução de cloreto de ferro (III) (FeCl<sub>3</sub>) com bases como o NH<sub>4</sub>OH, o NaOH e o KOH. Com base nas informações precedentes, julgue os itens subsequentes.</p>",
+"texto": "<p>A goethita (FeOOH) é um dos principais compostos responsáveis pela cor terrosa característica dos solos. A cor dos solos argilosos deve-se, principalmente, à proporção entre a quantidade de goethita e de outros minerais presentes nesses tipos de solo, como a limonita (FeOOH·nH<sub>2</sub>O), de cor amarela, e a hematita (Fe<sub>2</sub>O<sub>3</sub>), que é avermelhada.</p>\n<p>A formação da goethita pode ser representada por várias reações, como as mostradas nas equações químicas I e II, a seguir. A equação III representa a formação do aquocomplexo [Fe(H<sub>2</sub>O)<sub>6</sub>]<sup>3+</sup> em meio aquoso. Todas essas reações são pH dependentes e estão sujeitas ao equilíbrio mostrado na equação IV.</p>\n<p><img class=\"formula\" src=\"provas/img/2022/c3-020.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.27em\"><br><img class=\"formula\" src=\"provas/img/2022/c3-021.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.27em\"><br><img class=\"formula\" src=\"provas/img/2022/c3-022.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.27em\"><br><img class=\"formula\" src=\"provas/img/2022/c3-023.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.27em\"></p>\n<p>A goethita pode ser obtida em laboratório, por meio da alcalinização de uma solução de cloreto de ferro (III) (FeCl<sub>3</sub>) com bases como o NH<sub>4</sub>OH, o NaOH e o KOH. Com base nas informações precedentes, julgue os itens subsequentes.</p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos III · página 8 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -2753,8 +2720,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-22",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-III-g-21",
+"disciplina": "Matemática",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2794,8 +2761,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-23",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-III-g-22",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2817,7 +2784,7 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-24",
+"id": "unb2022-III-g-23",
 "disciplina": "Física",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
@@ -2840,8 +2807,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-25",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-III-g-24",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2857,12 +2824,12 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-26",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-III-g-25",
+"disciplina": "Física",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>650003_01N150047</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2022/c3-027.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:100%\"></figure>\n<p>A figura precedente ilustra o comportamento da curva denominada cicloide, formada pelo ponto P, que está marcado <img class=\"formula\" src=\"provas/img/2022/c3-028.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> Considerando essas informações e sabendo que o referido veículo se move a uma velocidade constante de 10 km/h, no plano horizontal, julgue os seguintes itens.</p>",
+"texto": "<figure class=\"fig-prova\"><img src=\"provas/img/2022/c3-027.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:100%\"></figure>\n<p>A figura precedente ilustra o comportamento da curva denominada cicloide, formada pelo ponto P, que está marcado <img class=\"formula\" src=\"provas/img/2022/c3-028.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> Considerando essas informações e sabendo que o referido veículo se move a uma velocidade constante de 10 km/h, no plano horizontal, julgue os seguintes itens.</p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos III · página 10 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -2880,7 +2847,7 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-27",
+"id": "unb2022-III-g-26",
 "disciplina": "Física",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
@@ -2915,8 +2882,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-28",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-III-g-27",
+"disciplina": "Física",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2938,12 +2905,12 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-29",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-III-g-28",
+"disciplina": "Matemática",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>650003_01N150047</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2022/c3-037.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:68%\"></figure>\n<p>Considerando a figura precedente, que representa uma região de 20 km<sup>2</sup> destinada a uma reserva ambiental, julgue os itens de 101 a 103, faça o que se pede no item 104, que é do tipo B, e assinale a opção correta no item 105, que é do tipo C.</p>",
+"texto": "<figure class=\"fig-prova\"><img src=\"provas/img/2022/c3-037.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:68%\"></figure>\n<p>Considerando a figura precedente, que representa uma região de 20 km<sup>2</sup> destinada a uma reserva ambiental, julgue os itens de 101 a 103, faça o que se pede no item 104, que é do tipo B, e assinale a opção correta no item 105, que é do tipo C.</p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos III · página 11 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -2979,8 +2946,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-30",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-III-g-29",
+"disciplina": "Matemática",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -3002,8 +2969,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-31",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-III-g-30",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -3019,8 +2986,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-32",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-III-g-31",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -3036,8 +3003,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-33",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-III-g-32",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -3059,12 +3026,12 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-34",
+"id": "unb2022-III-g-33",
 "disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>650003_01N150047</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2022/c3-047.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:84%\"></figure>\n<p class=\"fonte\">Internet: &lt;https://dev.brasilescola.uol.com.br&gt; (com adaptações).</p>\n<p>Em relação às características gerais dos artrópodes e à figura anterior, em que é representado o padrão de crescimento desse grupo de animais em comparação com os demais animais, julgue os próximos itens.</p>",
+"texto": "<figure class=\"fig-prova\"><img src=\"provas/img/2022/c3-047.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:84%\"></figure>\n<p class=\"fonte\">Internet: &lt;https://dev.brasilescola.uol.com.br&gt; (com adaptações).</p>\n<p>Em relação às características gerais dos artrópodes e à figura anterior, em que é representado o padrão de crescimento desse grupo de animais em comparação com os demais animais, julgue os próximos itens.</p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos III · página 12 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -3100,8 +3067,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-35",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-III-g-34",
+"disciplina": "Física",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -3129,8 +3096,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-36",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-III-g-35",
+"disciplina": "Física",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -3158,12 +3125,12 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-37",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-III-g-36",
+"disciplina": "Física",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>650003_01N150047</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2022/c3-056.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:56%\"></figure>\n<p>figura I</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2022/c3-057.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:78%\"></figure>\n<p>figura II As figuras precedentes esquematizam o diagrama ; = &gt; e o movimento do êmbolo de um cilindro submetido à variação de pressão, volume e temperatura em um ciclo de Carnot, que é considerado o ciclo ideal para o funcionamento de um motor. A partir dessas informações e sabendo que, nesse caso, as <img class=\"formula\" src=\"provas/img/2022/c3-058.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.09em\"> <img class=\"formula\" src=\"provas/img/2022/c3-059.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.09em\"></p>",
+"texto": "<figure class=\"fig-prova\"><img src=\"provas/img/2022/c3-056.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:56%\"></figure>\n<p>figura I</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2022/c3-057.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:78%\"></figure>\n<p>figura II As figuras precedentes esquematizam o diagrama ; = &gt; e o movimento do êmbolo de um cilindro submetido à variação de pressão, volume e temperatura em um ciclo de Carnot, que é considerado o ciclo ideal para o funcionamento de um motor. A partir dessas informações e sabendo que, nesse caso, as <img class=\"formula\" src=\"provas/img/2022/c3-058.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.09em\"> <img class=\"formula\" src=\"provas/img/2022/c3-059.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.09em\"></p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos III · página 13 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -3181,8 +3148,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-38",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-III-g-37",
+"disciplina": "Matemática",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -3228,12 +3195,12 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-39",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-III-g-38",
+"disciplina": "Física",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>650003_01N150047</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2022/c3-060.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:100%\"></figure>\n<p>A figura anterior esquematiza um problema comum em instalações elétricas: o uso de vários equipamentos ligados a um mesmo ponto de rede. Nesse esquema, cada lâmpada é de 60 W e a corrente elétrica máxima permitida é de 10 A; acima desse valor o fusível se danificará. Considerando o esquema precedente, julgue os itens que se seguem.</p>",
+"texto": "<figure class=\"fig-prova\"><img src=\"provas/img/2022/c3-060.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:100%\"></figure>\n<p>A figura anterior esquematiza um problema comum em instalações elétricas: o uso de vários equipamentos ligados a um mesmo ponto de rede. Nesse esquema, cada lâmpada é de 60 W e a corrente elétrica máxima permitida é de 10 A; acima desse valor o fusível se danificará. Considerando o esquema precedente, julgue os itens que se seguem.</p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos III · página 14 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -3257,8 +3224,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-40",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-III-g-39",
+"disciplina": "Matemática",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -3280,8 +3247,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-41",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-III-g-40",
+"disciplina": "Física",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -3297,12 +3264,12 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-42",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-III-g-41",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>650003_01N150047</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2022/c3-065.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:97%\"></figure>\n<p>Considerando que o diagrama anterior descreve, por meio de vetores, os deslocamentos de um carro, faça o que se pede no item 136, que é do tipo D.</p>\n<p><img class=\"formula\" src=\"provas/img/2022/c3-066.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.27em\"></p>\n<p><img class=\"formula\" src=\"provas/img/2022/c3-067.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.27em\"> <img class=\"formula\" src=\"provas/img/2022/c3-068.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"></p>\n<p><img class=\"formula\" src=\"provas/img/2022/c3-069.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"></p>",
+"texto": "<figure class=\"fig-prova\"><img src=\"provas/img/2022/c3-065.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:97%\"></figure>\n<p>Considerando que o diagrama anterior descreve, por meio de vetores, os deslocamentos de um carro, faça o que se pede no item 136, que é do tipo D.</p>\n<p><img class=\"formula\" src=\"provas/img/2022/c3-066.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.27em\"></p>\n<p><img class=\"formula\" src=\"provas/img/2022/c3-067.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.27em\"> <img class=\"formula\" src=\"provas/img/2022/c3-068.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"></p>\n<p><img class=\"formula\" src=\"provas/img/2022/c3-069.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"></p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos III · página 15 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -3315,12 +3282,12 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-43",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-III-g-42",
+"disciplina": "Física",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>, e utilizando os espaços disponibilizados, faça o que se pede em cada um dos subitens a seguir. I Represente graficamente as somas vetoriais relativas aos <img class=\"formula\" src=\"provas/img/2022/c3-070.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.09em\"> <img class=\"formula\" src=\"provas/img/2022/c3-071.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.18em\"> III Comente acerca da real distância percorrida nas <img class=\"formula\" src=\"provas/img/2022/c3-072.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.09em\"> de partida, e destaque as semelhanças e diferenças nos referidos percursos. I</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2022/c3-073.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:97%\"></figure>\n<p>II</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2022/c3-074.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:97%\"></figure>\n<p>III</p>\n<p>Os espaços disponibilizados acima são de uso opcional, para rascunho. Caso os utilize, não se esqueça de transferir as suas respostas para o Caderno de Respostas.</p>\n<p>650003_01N150047</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2022/c3-075.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:81%\"></figure>\n<p>figura I</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2022/c3-076.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:81%\"></figure>\n<p>figura II Na figura I, que representa uma lente biconvexa, F é o <img class=\"formula\" src=\"provas/img/2022/c3-077.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.18em\"> são os comprimentos do objeto e da imagem, respectivamente. Na figura II, são esboçadas algumas características de um <img class=\"formula\" src=\"provas/img/2022/c3-078.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> Com base nessas informações, julgue os próximos itens.</p>",
+"texto": "<p>, e utilizando os espaços disponibilizados, faça o que se pede em cada um dos subitens a seguir. I Represente graficamente as somas vetoriais relativas aos <img class=\"formula\" src=\"provas/img/2022/c3-070.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.09em\"> <img class=\"formula\" src=\"provas/img/2022/c3-071.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.18em\"> III Comente acerca da real distância percorrida nas <img class=\"formula\" src=\"provas/img/2022/c3-072.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.09em\"> de partida, e destaque as semelhanças e diferenças nos referidos percursos. I</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2022/c3-073.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:97%\"></figure>\n<p>II</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2022/c3-074.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:97%\"></figure>\n<p>III</p>\n<p>Os espaços disponibilizados acima são de uso opcional, para rascunho. Caso os utilize, não se esqueça de transferir as suas respostas para o Caderno de Respostas.</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2022/c3-075.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:81%\"></figure>\n<p>figura I</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2022/c3-076.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:81%\"></figure>\n<p>figura II Na figura I, que representa uma lente biconvexa, F é o <img class=\"formula\" src=\"provas/img/2022/c3-077.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.18em\"> são os comprimentos do objeto e da imagem, respectivamente. Na figura II, são esboçadas algumas características de um <img class=\"formula\" src=\"provas/img/2022/c3-078.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> Com base nessas informações, julgue os próximos itens.</p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos III · página 15 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -3338,8 +3305,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-44",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-III-g-43",
+"disciplina": "Matemática",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -3355,8 +3322,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-45",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-III-g-44",
+"disciplina": "Matemática",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -3396,12 +3363,12 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-46",
+"id": "unb2022-III-g-45",
 "disciplina": "Matemática",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>650003_01N150047</p>\n<p><img class=\"formula\" src=\"provas/img/2022/c3-081.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.09em\"> rotação quando a multiplicação de um par ordenado V(x, y) na <img class=\"formula\" src=\"provas/img/2022/c3-082.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.64em\"></p>\n<p>6K por A produz como resultado um <img class=\"formula\" src=\"provas/img/2022/c3-083.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.82em\"></p>\n<p><img class=\"formula\" src=\"provas/img/2022/c3-084.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.55em\"> <img class=\"formula\" src=\"provas/img/2022/c3-085.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.09em\"> contexto, seja a matriz A abaixo, em que + ∈ℝ.</p>\n<p><img class=\"formula\" src=\"provas/img/2022/c3-086.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> <img class=\"formula\" src=\"provas/img/2022/c3-087.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.64em\"></p>\n<p><img class=\"formula\" src=\"provas/img/2022/c3-088.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.55em\"></p>\n<p>Considere que a matriz A faça uma rotação por um ângulo α em um ponto P(x, y) do plano, na seguinte forma.</p>\n<p><img class=\"formula\" src=\"provas/img/2022/c3-089.png\" alt=\"fórmula (ver prova original)\" style=\"height:2.27em\"><br><img class=\"formula\" src=\"provas/img/2022/c3-090.png\" alt=\"fórmula (ver prova original)\" style=\"height:2.00em\"><br><img class=\"formula\" src=\"provas/img/2022/c3-091.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"><br><img class=\"formula\" src=\"provas/img/2022/c3-092.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.64em\"></p>\n<p><img class=\"formula\" src=\"provas/img/2022/c3-093.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.18em\"> ponto obtido de pela rotação de P, em torno da origem, por um ângulo α. Tendo como referência essas informações, julgue os itens de 145 a 149 e faça o que se pede no item 150, que é do tipo D.</p>",
+"texto": "<p><img class=\"formula\" src=\"provas/img/2022/c3-081.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.09em\"> rotação quando a multiplicação de um par ordenado V(x, y) na <img class=\"formula\" src=\"provas/img/2022/c3-082.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.64em\"></p>\n<p>6K por A produz como resultado um <img class=\"formula\" src=\"provas/img/2022/c3-083.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.82em\"></p>\n<p><img class=\"formula\" src=\"provas/img/2022/c3-084.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.55em\"> <img class=\"formula\" src=\"provas/img/2022/c3-085.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.09em\"> contexto, seja a matriz A abaixo, em que + ∈ℝ.</p>\n<p><img class=\"formula\" src=\"provas/img/2022/c3-086.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> <img class=\"formula\" src=\"provas/img/2022/c3-087.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.64em\"></p>\n<p><img class=\"formula\" src=\"provas/img/2022/c3-088.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.55em\"></p>\n<p>Considere que a matriz A faça uma rotação por um ângulo α em um ponto P(x, y) do plano, na seguinte forma.</p>\n<p><img class=\"formula\" src=\"provas/img/2022/c3-089.png\" alt=\"fórmula (ver prova original)\" style=\"height:2.27em\"><br><img class=\"formula\" src=\"provas/img/2022/c3-090.png\" alt=\"fórmula (ver prova original)\" style=\"height:2.00em\"><br><img class=\"formula\" src=\"provas/img/2022/c3-091.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"><br><img class=\"formula\" src=\"provas/img/2022/c3-092.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.64em\"></p>\n<p><img class=\"formula\" src=\"provas/img/2022/c3-093.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.18em\"> ponto obtido de pela rotação de P, em torno da origem, por um ângulo α. Tendo como referência essas informações, julgue os itens de 145 a 149 e faça o que se pede no item 150, que é do tipo D.</p>",
 "fonte": "Vestibular UnB 2022 · Prova de Conhecimentos III · página 17 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -3425,8 +3392,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-47",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-III-g-46",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -3442,8 +3409,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2022-III-g-48",
-"disciplina": "Interdisciplinar",
+"id": "unb2022-III-g-47",
+"disciplina": "Matemática",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,

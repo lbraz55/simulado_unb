@@ -107,7 +107,7 @@ window.BANCO_PADRAO = {
         /* ---------------- Língua Portuguesa ---------------- */
         {
           id: 'd1-portugues',
-          disciplina: 'Língua Portuguesa',
+          disciplina: 'Língua Portuguesa e Literatura',
           area: 'Linguagens',
           titulo: 'Texto I — Monumento e moradia',
           texto: `
@@ -128,7 +128,7 @@ window.BANCO_PADRAO = {
         /* ---------------- Literatura ---------------- */
         {
           id: 'd1-literatura',
-          disciplina: 'Literatura',
+          disciplina: 'Língua Portuguesa e Literatura',
           area: 'Linguagens',
           titulo: 'Texto II — Dom Casmurro (Machado de Assis)',
           texto: `

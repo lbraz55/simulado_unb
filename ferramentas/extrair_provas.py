@@ -211,6 +211,8 @@ def elementos_da_pagina(pagina, num_pagina):
                 continue
             if 'CEBRASPE' in texto and y0 < 60:
                 continue
+            if re.fullmatch(r'\s*\d{6}_\d{2}N\d+\s*', texto):   # código de controle do caderno
+                continue
             if re.fullmatch(r'\s*(Espaço livre|RASCUNHO|Rascunho)\s*', texto):
                 continue
             if re.match(r'^\s*--\s*PROVA DE CONHECIMENTOS', texto) or re.search(r'PROVA DE CONHECIMENTOS [IV]+\s*--', texto):
@@ -712,21 +714,26 @@ PALAVRAS = {
     'História': r'\b(século|império|colonial|república|ditadura|revolução|escravidão|escravizad|guerra|monarquia|Idade Média|feudal|período|Vargas|independência|antiguidade)\b',
     'Geografia': r'\b(território|urbano|urbanização|clima|relevo|bioma|população|migração|geopolítica|cartograf|globalização|agronegócio|bacia hidrográfica|região|regional)\b',
     'Filosofia e Sociologia': r'\b(filósof|filosofia|ética|moral|razão|Platão|Aristóteles|Kant|Marx|Weber|Durkheim|sociedade|sociológic|Foucault|Nietzsche|Descartes|política)\b',
-    'Língua Portuguesa e Literatura': r'\b(texto|oração|vírgula|verbo|pronome|sujeito|coesão|sentido|gramatical|romance|poema|narrador|literatura|literári|personagem|verso|crônica|substantivo|adjetivo)\b',
+    'Língua Portuguesa e Literatura': r'\b(oração|vírgula|verbo|pronome|sujeito|coesão|coerência|gramatical|sintátic|semântic|morfológic|conjunção|preposição|concordância|regência|crase|figura de linguagem|metáfora|ironia|eu lírico|estrofe|rima|soneto|modernista|romantismo|realismo|barroco|arcadismo|romance|poema|narrador|literatura|literári|personagem|verso|crônica|substantivo|adjetivo)\b',
     'Música': r'\b(música|musical|musicais|compositor|compositora|canção|canções|melodia|harmonia|ritmo|partitura|compasso|compassos|sustenido|bemol|bequadro|tonalidade|acorde|acordes|instrumento|instrumentos|orquestra|sinfonia|samba|choro|MPB|cantor|cantora|nota musical|notas musicais|timbre|andamento|ópera)\b',
-    'Artes Cênicas': r'\b(teatro|teatral|teatrais|cênic|atriz|dramaturg|encenação|encenad|espetáculo teatral|palco|plateia|peça teatral|peças teatrais|dança|dançarin|coreograf|circo|circense|figurino|diretor teatral|Stanislavski|Brecht|Augusto Boal)\b',
-    'Artes Visuais': r'\b(pintura|pintor|pintora|escultura|escultor|gravura|fotografia|fotógraf|obra de arte|obras de arte|artista plástic|artes visuais|arte visual|tela|quadro|instalação artística|museu|exposição|Tarsila|Portinari|modernismo|cubismo|impressionismo|abstracionismo|Bienal|grafite|arquitetura|Niemeyer|óleo sobre tela|acrílica sobre|técnica mista|Foto de|ocupação artística|desenho|ilustração|charge|pintou|retrato|autorretrato|perspectiva|composição visual|vanguarda)\b',
+    'Artes': r'\b(teatro|teatral|teatrais|cênic|atriz|dramaturg|encenação|encenad|espetáculo teatral|palco|plateia|peça teatral|peças teatrais|dança|dançarin|coreograf|circo|circense|figurino|diretor teatral|Stanislavski|Brecht|Augusto Boal|pintura|pintor|pintora|escultura|escultor|gravura|fotografia|fotógraf|obra de arte|obras de arte|artista plástic|artes visuais|arte visual|tela|quadro|instalação artística|museu|exposição|Tarsila|Portinari|modernismo|cubismo|impressionismo|abstracionismo|Bienal|grafite|arquitetura|Niemeyer|óleo sobre tela|acrílica sobre|técnica mista|Foto de|ocupação artística|desenho|ilustração|charge|pintou|retrato|autorretrato|perspectiva|composição visual|vanguarda|arte|artes|artista|artístic|estética)\b',
 }
 
 
-def classificar(texto):
-    pontos = {d: len(re.findall(rx, texto, re.I)) for d, rx in PALAVRAS.items()}
-    ordem = sorted(pontos, key=pontos.get, reverse=True)
-    melhor, segundo = ordem[0], ordem[1]
-    # exige vantagem clara; caso contrário, o bloco é tratado como interdisciplinar
-    if pontos[melhor] >= 3 and pontos[melhor] >= pontos[segundo] * 1.5:
-        return melhor
-    return 'Interdisciplinar'
+DISCIPLINAS_POR_PARTE = {
+    'II': ['Língua Portuguesa e Literatura', 'História', 'Geografia', 'Filosofia e Sociologia', 'Artes', 'Música'],
+    'III': ['Física', 'Química', 'Biologia', 'Matemática'],
+}
+PADRAO_POR_PARTE = {'II': 'Língua Portuguesa e Literatura', 'III': 'Biologia'}
+
+
+def classificar(texto, parte='II'):
+    """Escolhe a disciplina com mais termos característicos, entre as da parte da prova."""
+    candidatas = DISCIPLINAS_POR_PARTE.get(parte, list(PALAVRAS))
+    pontos = {d: len(re.findall(PALAVRAS[d], texto, re.I)) for d in candidatas}
+    melhor = max(candidatas, key=lambda d: pontos[d])
+    return melhor if pontos[melhor] > 0 else PADRAO_POR_PARTE.get(parte, candidatas[0])
+
 
 # ----------------------------------------------------------------------------
 # Principal
@@ -813,7 +820,7 @@ def processar_ano(pasta, ano, relatorio):
             if lingua:
                 disc, area = lingua[2], AREA['I']
             else:
-                disc, area = classificar(texto_plano), AREA[nome]
+                disc, area = classificar(texto_plano, nome), AREA[nome]
             faixa = f"{itens[0]['numeroOriginal']}–{itens[-1]['numeroOriginal']}" if len(itens) > 1 else str(itens[0]['numeroOriginal'])
             pags = sorted(b['paginas'])
             bloco = {

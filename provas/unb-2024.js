@@ -935,7 +935,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-II-g-3",
-"disciplina": "Interdisciplinar",
+"disciplina": "Artes",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -982,7 +982,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-II-g-4",
-"disciplina": "Interdisciplinar",
+"disciplina": "História",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1029,7 +1029,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-II-g-6",
-"disciplina": "Interdisciplinar",
+"disciplina": "Língua Portuguesa e Literatura",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1076,7 +1076,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-II-g-7",
-"disciplina": "Interdisciplinar",
+"disciplina": "Filosofia e Sociologia",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1099,7 +1099,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-II-g-8",
-"disciplina": "Interdisciplinar",
+"disciplina": "Língua Portuguesa e Literatura",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1122,7 +1122,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-II-g-9",
-"disciplina": "Artes Cênicas",
+"disciplina": "Artes",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1157,7 +1157,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-II-g-10",
-"disciplina": "Língua Portuguesa e Literatura",
+"disciplina": "História",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1234,7 +1234,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-II-g-11",
-"disciplina": "Interdisciplinar",
+"disciplina": "Filosofia e Sociologia",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1263,7 +1263,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-II-g-12",
-"disciplina": "Interdisciplinar",
+"disciplina": "Filosofia e Sociologia",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1304,7 +1304,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-II-g-13",
-"disciplina": "Interdisciplinar",
+"disciplina": "História",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1339,7 +1339,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-II-g-14",
-"disciplina": "Língua Portuguesa e Literatura",
+"disciplina": "História",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1428,7 +1428,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-II-g-15",
-"disciplina": "Interdisciplinar",
+"disciplina": "Língua Portuguesa e Literatura",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1451,7 +1451,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-II-g-16",
-"disciplina": "Interdisciplinar",
+"disciplina": "Língua Portuguesa e Literatura",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1474,7 +1474,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-II-g-17",
-"disciplina": "Língua Portuguesa e Literatura",
+"disciplina": "Artes",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1509,7 +1509,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-II-g-18",
-"disciplina": "Interdisciplinar",
+"disciplina": "Geografia",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1752,7 +1752,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-II-g-21",
-"disciplina": "Artes Cênicas",
+"disciplina": "Artes",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1839,7 +1839,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-III-g-2",
-"disciplina": "História",
+"disciplina": "Matemática",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1874,7 +1874,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-III-g-3",
-"disciplina": "Interdisciplinar",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1903,7 +1903,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-III-g-4",
-"disciplina": "Interdisciplinar",
+"disciplina": "Física",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1932,7 +1932,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-III-g-5",
-"disciplina": "Interdisciplinar",
+"disciplina": "Física",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1967,7 +1967,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-III-g-6",
-"disciplina": "Interdisciplinar",
+"disciplina": "Matemática",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2002,7 +2002,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-III-g-7",
-"disciplina": "Interdisciplinar",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2124,7 +2124,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-III-g-12",
-"disciplina": "Interdisciplinar",
+"disciplina": "Química",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2211,7 +2211,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-III-g-15",
-"disciplina": "Interdisciplinar",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2228,7 +2228,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-III-g-16",
-"disciplina": "Interdisciplinar",
+"disciplina": "Física",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2257,7 +2257,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-III-g-17",
-"disciplina": "Interdisciplinar",
+"disciplina": "Matemática",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2315,7 +2315,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-III-g-19",
-"disciplina": "Interdisciplinar",
+"disciplina": "Matemática",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2385,7 +2385,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-III-g-21",
-"disciplina": "Interdisciplinar",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2402,7 +2402,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-III-g-22",
-"disciplina": "Interdisciplinar",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2425,7 +2425,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-III-g-23",
-"disciplina": "Interdisciplinar",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2472,7 +2472,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-III-g-24",
-"disciplina": "Interdisciplinar",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2577,7 +2577,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-III-g-27",
-"disciplina": "Interdisciplinar",
+"disciplina": "Matemática",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2594,7 +2594,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-III-g-28",
-"disciplina": "Interdisciplinar",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2611,7 +2611,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-III-g-29",
-"disciplina": "Interdisciplinar",
+"disciplina": "Matemática",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2628,7 +2628,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-III-g-30",
-"disciplina": "Interdisciplinar",
+"disciplina": "Matemática",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2657,7 +2657,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-III-g-31",
-"disciplina": "Interdisciplinar",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2721,7 +2721,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-III-g-33",
-"disciplina": "Interdisciplinar",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2750,7 +2750,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-III-g-34",
-"disciplina": "Interdisciplinar",
+"disciplina": "Física",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2773,7 +2773,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-III-g-35",
-"disciplina": "Interdisciplinar",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2796,7 +2796,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-III-g-36",
-"disciplina": "Interdisciplinar",
+"disciplina": "Física",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2901,7 +2901,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-III-g-39",
-"disciplina": "Interdisciplinar",
+"disciplina": "Física",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2953,7 +2953,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-III-g-41",
-"disciplina": "Interdisciplinar",
+"disciplina": "Química",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -3017,7 +3017,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-III-g-44",
-"disciplina": "Interdisciplinar",
+"disciplina": "Física",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,

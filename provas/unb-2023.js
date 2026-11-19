@@ -17,7 +17,7 @@ window.PROVAS_OFICIAIS.push(...[
 "area": "Língua Estrangeira",
 "titulo": "",
 "disciplinaEstimada": false,
-"texto": "<p>751001_01N804667</p>\n<p>Una muñeca aporta orgullo e identidad</p>\n<p>a indígena brasileña Luakam Anambé quería que su nieta recién nacida tuviera una muñeca, algo que ella nunca tuvo de niña, cuando trabajaba en condiciones de esclavitud en la selva tropical de la Amazonía de Brasil, pero quiso que la muñeca compartiera sus rasgos indígenas y no había nada parecido en las tiendas, así que hizo una ella misma con tela y relleno.</p>\n<p>La muñeca tenía la piel morena, el pelo largo y oscuro y la misma pintura facial y corporal que utilizaba el pueblo anambé. La muñeca hizo las delicias de los transeúntes, ya que, si bien hay muñecas indígenas en otros lugares de América Latina, en Brasil siguen sin existir.</p>\n<p>Así nació una idea de negocio y su modesta casa es ahora un taller donde ella y su hija fabrican muñecas para una clientela cada vez mayor. «Antes solamente existían muñecas blancas, luego vinieron las negras, pero las indígenas no aparecían», comentó Anambé.</p>\n<p>Anambé comentó que tenía 15 años cuando el dueño de la plantación la obligó a casarse con su amigo, un hombre dos décadas mayor que ella, con quien tuvo una hija. Anambé no tardó en huir de su violento marido, dejando temporalmente a la bebé con familiares de ella.</p>\n<p>Anambé trabajó desde pequeña en su estado, Pará, hasta que decidió irse a probar suerte en Río de Janeiro. Sus rasgos indígenas destacaban en Río y sufrió prejuicios. Con el tiempo, consiguió un trabajo en una fábrica de bikinis y pudo mantener a su hija. Con las habilidades que desarrolló sentada detrás de su máquina de coser, hizo su primera muñeca. «Es como un espejo», dijo su hija, Atyna Porã, que ahora trabaja con su madre. «A través de la muñeca, nos vemos a nosotras mismas».</p>\n<p>Anambé bautizó a su primera muñeca con el nombre de la hija de Atyna, Anaty, que se convirtió en el nombre de su empresa. Adicionalmente, el 20% de los ingresos se destinan a su organización sin ánimo de lucro con sede en Pará, que proporcionará formación en costura a mujeres en situación de precariedad, haciendo crecer la operación de las muñecas Anaty y ayudándolas a conseguir la independencia económica.</p>\n<p class=\"fonte\">Internet: &lt;apnews.com&gt; (con adaptaciones).</p>\n<p>Con base en el texto antecedente, señale la opción correcta en el ítem 1, del tipo C, e juzgue los ítems 2 a 10.</p>",
+"texto": "<p>Una muñeca aporta orgullo e identidad</p>\n<p>a indígena brasileña Luakam Anambé quería que su nieta recién nacida tuviera una muñeca, algo que ella nunca tuvo de niña, cuando trabajaba en condiciones de esclavitud en la selva tropical de la Amazonía de Brasil, pero quiso que la muñeca compartiera sus rasgos indígenas y no había nada parecido en las tiendas, así que hizo una ella misma con tela y relleno.</p>\n<p>La muñeca tenía la piel morena, el pelo largo y oscuro y la misma pintura facial y corporal que utilizaba el pueblo anambé. La muñeca hizo las delicias de los transeúntes, ya que, si bien hay muñecas indígenas en otros lugares de América Latina, en Brasil siguen sin existir.</p>\n<p>Así nació una idea de negocio y su modesta casa es ahora un taller donde ella y su hija fabrican muñecas para una clientela cada vez mayor. «Antes solamente existían muñecas blancas, luego vinieron las negras, pero las indígenas no aparecían», comentó Anambé.</p>\n<p>Anambé comentó que tenía 15 años cuando el dueño de la plantación la obligó a casarse con su amigo, un hombre dos décadas mayor que ella, con quien tuvo una hija. Anambé no tardó en huir de su violento marido, dejando temporalmente a la bebé con familiares de ella.</p>\n<p>Anambé trabajó desde pequeña en su estado, Pará, hasta que decidió irse a probar suerte en Río de Janeiro. Sus rasgos indígenas destacaban en Río y sufrió prejuicios. Con el tiempo, consiguió un trabajo en una fábrica de bikinis y pudo mantener a su hija. Con las habilidades que desarrolló sentada detrás de su máquina de coser, hizo su primera muñeca. «Es como un espejo», dijo su hija, Atyna Porã, que ahora trabaja con su madre. «A través de la muñeca, nos vemos a nosotras mismas».</p>\n<p>Anambé bautizó a su primera muñeca con el nombre de la hija de Atyna, Anaty, que se convirtió en el nombre de su empresa. Adicionalmente, el 20% de los ingresos se destinan a su organización sin ánimo de lucro con sede en Pará, que proporcionará formación en costura a mujeres en situación de precariedad, haciendo crecer la operación de las muñecas Anaty y ayudándolas a conseguir la independencia económica.</p>\n<p class=\"fonte\">Internet: &lt;apnews.com&gt; (con adaptaciones).</p>\n<p>Con base en el texto antecedente, señale la opción correcta en el ítem 1, del tipo C, e juzgue los ítems 2 a 10.</p>",
 "fonte": "Vestibular UnB 2023 · Prova de Conhecimentos I · Língua Espanhola · página 1 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -137,7 +137,7 @@ window.PROVAS_OFICIAIS.push(...[
 "area": "Língua Estrangeira",
 "titulo": "",
 "disciplinaEstimada": false,
-"texto": "<p>751001_01N804667<br>Aún de acuerdo con el texto precedente, juzgue los ítems a<br>seguir.</p>",
+"texto": "<p>Aún de acuerdo con el texto precedente, juzgue los ítems a seguir.</p>",
 "fonte": "Vestibular UnB 2023 · Prova de Conhecimentos I · Língua Espanhola · página 2 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -269,7 +269,7 @@ window.PROVAS_OFICIAIS.push(...[
 "area": "Língua Estrangeira",
 "titulo": "",
 "disciplinaEstimada": false,
-"texto": "<p>751001_01N804667</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2023/c1-003.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:51%\"></figure>\n<p class=\"fonte\">Internet: &lt;mobile.twitter.com&gt;.</p>",
+"texto": "<figure class=\"fig-prova\"><img src=\"provas/img/2023/c1-003.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:51%\"></figure>\n<p class=\"fonte\">Internet: &lt;mobile.twitter.com&gt;.</p>",
 "fonte": "Vestibular UnB 2023 · Prova de Conhecimentos I · Língua Espanhola · página 3 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -371,7 +371,7 @@ window.PROVAS_OFICIAIS.push(...[
 "area": "Língua Estrangeira",
 "titulo": "",
 "disciplinaEstimada": false,
-"texto": "<p>Tanoné, femme cacique Tanoné, de son vrai nom Ivanice Pires Tanoné, dirige le peuple Kariri Xocó composé de 70 personnes au sein d’une zone connue sous le nom de Terre indigène du Bananal, non loin de Brasilia. Tanoné lutte ardemment afin de conquérir un bout de terre pour son peuple. C’est en partie suite à cette cause qu’en 2005, cette dernière a été choisie pour devenir cacique, faisant ainsi partie du petit nombre de femmes à diriger un peuple indigène au Brésil.</p>\n<p>Consciente que cela reste encore un cas rare, puisque traditionnellement les femmes devaient se soumettre aux hommes.</p>\n<p>« Elles ne pouvaient sortir de la maison sans leurs maris, puisqu’ils commandaient sur tout ! Maintenant, les femmes ont pris les rênes et eux (les caciques) sont très en colère vis à vis de nous. »</p>\n<p>Tanoné, qui a été mariée pendant 25 ans, préfère aujourd’hui se consacrer uniquement à son peuple. Cacique, sœur, mais également mère, Tanoné considère que guider un enfant n’est pas toujours une tâche aisée et donner la vie à un enfant indigène de nos jours, c’est synonyme de souffrance. « Soit vous enseignez le bon chemin à votre enfant, soit il est perdu. Je sens que le génocide d’il y a 500 ans recommence à nouveau aujourd’hui. J’ai déjà 18 petits-fils, arrière petits-fils, arrière-arrière petits-fils et je n’arriverai peut-être plus à les voir grandir. Je pleure parce que c’est mon fardeau. La chair n’est rien sans l’esprit. »</p>\n<p>Son unique réconfort ? Le grand esprit, son père, qu’elle retrouve, isolée, avec sa pipe. « Mon réconfort, c’est mon père. C’est lui mon grand esprit. »</p>\n<p class=\"fonte\">Internet: &lt;planeteamazone.org&gt; (adapté).</p>\n<p>751001_01N804667 À partir du texte ci-dessus, jugez les items de 11 à 20.</p>",
+"texto": "<p>Tanoné, femme cacique Tanoné, de son vrai nom Ivanice Pires Tanoné, dirige le peuple Kariri Xocó composé de 70 personnes au sein d’une zone connue sous le nom de Terre indigène du Bananal, non loin de Brasilia. Tanoné lutte ardemment afin de conquérir un bout de terre pour son peuple. C’est en partie suite à cette cause qu’en 2005, cette dernière a été choisie pour devenir cacique, faisant ainsi partie du petit nombre de femmes à diriger un peuple indigène au Brésil.</p>\n<p>Consciente que cela reste encore un cas rare, puisque traditionnellement les femmes devaient se soumettre aux hommes.</p>\n<p>« Elles ne pouvaient sortir de la maison sans leurs maris, puisqu’ils commandaient sur tout ! Maintenant, les femmes ont pris les rênes et eux (les caciques) sont très en colère vis à vis de nous. »</p>\n<p>Tanoné, qui a été mariée pendant 25 ans, préfère aujourd’hui se consacrer uniquement à son peuple. Cacique, sœur, mais également mère, Tanoné considère que guider un enfant n’est pas toujours une tâche aisée et donner la vie à un enfant indigène de nos jours, c’est synonyme de souffrance. « Soit vous enseignez le bon chemin à votre enfant, soit il est perdu. Je sens que le génocide d’il y a 500 ans recommence à nouveau aujourd’hui. J’ai déjà 18 petits-fils, arrière petits-fils, arrière-arrière petits-fils et je n’arriverai peut-être plus à les voir grandir. Je pleure parce que c’est mon fardeau. La chair n’est rien sans l’esprit. »</p>\n<p>Son unique réconfort ? Le grand esprit, son père, qu’elle retrouve, isolée, avec sa pipe. « Mon réconfort, c’est mon père. C’est lui mon grand esprit. »</p>\n<p class=\"fonte\">Internet: &lt;planeteamazone.org&gt; (adapté).</p>\n<p class=\"instrucao-item\">À partir du texte ci-dessus, jugez les items de 11 à 20.</p>",
 "fonte": "Vestibular UnB 2023 · Prova de Conhecimentos I · Língua Francesa · página 3 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -515,7 +515,7 @@ window.PROVAS_OFICIAIS.push(...[
 "area": "Língua Estrangeira",
 "titulo": "",
 "disciplinaEstimada": false,
-"texto": "<p>751001_01N804667</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2023/c1-006.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:48%\"></figure>\n<p class=\"fonte\">Internet : &lt;www.one.be&gt;.</p>\n<p class=\"instrucao-item\">À partir des vignettes ci-dessus, jugez l’item 29 et choisissez</p>\n<p>l’option correcte concernant l’item 30, cet item-ci étant du tipo C.</p>",
+"texto": "<figure class=\"fig-prova\"><img src=\"provas/img/2023/c1-006.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:48%\"></figure>\n<p class=\"fonte\">Internet : &lt;www.one.be&gt;.</p>\n<p class=\"instrucao-item\">À partir des vignettes ci-dessus, jugez l’item 29 et choisissez</p>\n<p>l’option correcte concernant l’item 30, cet item-ci étant du tipo C.</p>",
 "fonte": "Vestibular UnB 2023 · Prova de Conhecimentos I · Língua Francesa · página 5 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -623,7 +623,7 @@ window.PROVAS_OFICIAIS.push(...[
 "area": "Língua Estrangeira",
 "titulo": "",
 "disciplinaEstimada": false,
-"texto": "<p>751001_01N804667</p>\n<p>The crisis in the Portuguese Empire was already underway in 1807, with some underlying causes found further back in time. It created the conditions for the political split between Brazil and Portugal, a development that virtually nobody imagined at the start of the 19<sup>th</sup> century. The process that started in 1807 prompted the separation and defined its most lasting results: the emergence of a Brazilian state and nation that would consolidate itself over the next century preserving its distinctive features. The independence process was strongly marked by progressive distancing between the past and the future. In this sense, the self-proclaimed revolutionary nature of the independence process fits neatly into the broader political and intellectual context of the time, full of conceptual innovations.</p>\n<p>The continuity of Brazilian independence is, however, still the most common aspect highlighted by most historians and nonhistorians. It is true that the creation of the Empire of Brazil neither abolished slavery, nor upended social hierarchies for the vast majority of the population, nor modified the highly concentrated nature of land distribution and its overwhelming focus on sustaining an export economy built during centuries of Portuguese colonization. Yet, given the innovations involved in the creation of the Empire of Brazil and their significance in the first decades of the 19th century, the understanding of this history gains depth, complexity, and consistency if one replaces the simple and banal idea of preservation of slavery, social hierarchies, territoriality or monarchy with that of re-creation and reorganization of these elements. If not seen in this light, the history of Brazilian independence silences an array of diverse voices and actors who had been growing increasingly accustomed to participating in politics since the end of the previous century.</p>\n<p class=\"fonte\">João Paulo Pimenta. Independence: Change and Continuity. In: Oxford Research Encyclopedia of Latin American History. Internet: &lt;www.oxfordre.com&gt; (adapted).</p>\n<p class=\"instrucao-item\">Based on the text presented, judge the following items.</p>",
+"texto": "<p>The crisis in the Portuguese Empire was already underway in 1807, with some underlying causes found further back in time. It created the conditions for the political split between Brazil and Portugal, a development that virtually nobody imagined at the start of the 19<sup>th</sup> century. The process that started in 1807 prompted the separation and defined its most lasting results: the emergence of a Brazilian state and nation that would consolidate itself over the next century preserving its distinctive features. The independence process was strongly marked by progressive distancing between the past and the future. In this sense, the self-proclaimed revolutionary nature of the independence process fits neatly into the broader political and intellectual context of the time, full of conceptual innovations.</p>\n<p>The continuity of Brazilian independence is, however, still the most common aspect highlighted by most historians and nonhistorians. It is true that the creation of the Empire of Brazil neither abolished slavery, nor upended social hierarchies for the vast majority of the population, nor modified the highly concentrated nature of land distribution and its overwhelming focus on sustaining an export economy built during centuries of Portuguese colonization. Yet, given the innovations involved in the creation of the Empire of Brazil and their significance in the first decades of the 19th century, the understanding of this history gains depth, complexity, and consistency if one replaces the simple and banal idea of preservation of slavery, social hierarchies, territoriality or monarchy with that of re-creation and reorganization of these elements. If not seen in this light, the history of Brazilian independence silences an array of diverse voices and actors who had been growing increasingly accustomed to participating in politics since the end of the previous century.</p>\n<p class=\"fonte\">João Paulo Pimenta. Independence: Change and Continuity. In: Oxford Research Encyclopedia of Latin American History. Internet: &lt;www.oxfordre.com&gt; (adapted).</p>\n<p class=\"instrucao-item\">Based on the text presented, judge the following items.</p>",
 "fonte": "Vestibular UnB 2023 · Prova de Conhecimentos I · Língua Inglesa · página 6 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -957,7 +957,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2023-II-g-5",
-"disciplina": "Interdisciplinar",
+"disciplina": "História",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1086,7 +1086,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2023-II-g-8",
-"disciplina": "Interdisciplinar",
+"disciplina": "Artes",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1156,7 +1156,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2023-II-g-10",
-"disciplina": "Interdisciplinar",
+"disciplina": "Filosofia e Sociologia",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1262,7 +1262,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2023-II-g-12",
-"disciplina": "Interdisciplinar",
+"disciplina": "História",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1291,7 +1291,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2023-II-g-13",
-"disciplina": "Interdisciplinar",
+"disciplina": "Filosofia e Sociologia",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1462,7 +1462,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2023-II-g-16",
-"disciplina": "Interdisciplinar",
+"disciplina": "História",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1628,7 +1628,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2023-II-g-19",
-"disciplina": "Interdisciplinar",
+"disciplina": "Geografia",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1651,7 +1651,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2023-II-g-20",
-"disciplina": "Língua Portuguesa e Literatura",
+"disciplina": "Artes",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1704,7 +1704,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2023-II-g-21",
-"disciplina": "Interdisciplinar",
+"disciplina": "Artes",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1791,11 +1791,11 @@ window.PROVAS_OFICIAIS.push(...[
 "blocos": [
 {
 "id": "unb2023-III-g-1",
-"disciplina": "Geografia",
+"disciplina": "Química",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>751002_01N240044</p>\n<p>Quem defende o desmatamento de áreas na Amazônia costuma dizer que ele é necessário para levar progresso à região e desenvolvê-la economicamente. O conflito entre preservar a floresta e desenvolver a região, porém, é uma ideia errada e fora de lugar, afirma Ricardo Abramovay, professor do Instituto de Energia e Ambiente da Universidade de São Paulo. Ele lançou o livro Amazônia: por uma economia do conhecimento da natureza, em que analisa e propõe formas de conservar a mata e gerar crescimento econômico ao mesmo tempo.</p>\n<p>A verdadeira alternativa é a economia da floresta em pé, em substituição à economia da destruição da natureza que predomina hoje. O açaí é o exemplo mais emblemático: o rendimento de um hectare de açaí é muito superior ao de um hectare de soja (R$ 26,8 mil para o açaí e R$ 2,8 mil para a soja por ano em 2015). Há outras cadeias de valor existentes, como castanha do Pará, borracha e piscicultura, mas exploradas em condições muito precárias. A piscicultura de peixes de água doce em cativeiro na Amazônia tem vantagem sobre as formas mais conhecidas de piscicultura em cativeiro, como a de salmão. Os peixes da Amazônia criados em água doce não são carnívoros, logo o impacto ambiental é mais baixo. Além disso, o turismo ecológico no mundo cresce 15% ao ano, e na Amazônia ele tem um potencial de crescimento imenso. Tem também todo um potencial de moléculas da biodiversidade para a produção de fármacos. O Brasil vive o paradoxo de ser o país com a maior diversidade do mundo e ter uma indústria farmacêutica concentrada na produção de genéricos, pouco voltada a inovações para as principais moléstias do século XXI. É outro potencial para a valorização da floresta em pé que não estamos aproveitando.</p>\n<p>Internet: &lt;www.dw.com&gt; (com adaptações). A partir do texto anterior e considerando que o açaizeiro ou palmeira-açaí (Euterpe oleracea), a planta responsável pela produção do açaí, é uma monocotiledônea nativa da região amazônica, julgue os seguintes itens.</p>",
+"texto": "<p>Quem defende o desmatamento de áreas na Amazônia costuma dizer que ele é necessário para levar progresso à região e desenvolvê-la economicamente. O conflito entre preservar a floresta e desenvolver a região, porém, é uma ideia errada e fora de lugar, afirma Ricardo Abramovay, professor do Instituto de Energia e Ambiente da Universidade de São Paulo. Ele lançou o livro Amazônia: por uma economia do conhecimento da natureza, em que analisa e propõe formas de conservar a mata e gerar crescimento econômico ao mesmo tempo.</p>\n<p>A verdadeira alternativa é a economia da floresta em pé, em substituição à economia da destruição da natureza que predomina hoje. O açaí é o exemplo mais emblemático: o rendimento de um hectare de açaí é muito superior ao de um hectare de soja (R$ 26,8 mil para o açaí e R$ 2,8 mil para a soja por ano em 2015). Há outras cadeias de valor existentes, como castanha do Pará, borracha e piscicultura, mas exploradas em condições muito precárias. A piscicultura de peixes de água doce em cativeiro na Amazônia tem vantagem sobre as formas mais conhecidas de piscicultura em cativeiro, como a de salmão. Os peixes da Amazônia criados em água doce não são carnívoros, logo o impacto ambiental é mais baixo. Além disso, o turismo ecológico no mundo cresce 15% ao ano, e na Amazônia ele tem um potencial de crescimento imenso. Tem também todo um potencial de moléculas da biodiversidade para a produção de fármacos. O Brasil vive o paradoxo de ser o país com a maior diversidade do mundo e ter uma indústria farmacêutica concentrada na produção de genéricos, pouco voltada a inovações para as principais moléstias do século XXI. É outro potencial para a valorização da floresta em pé que não estamos aproveitando.</p>\n<p>Internet: &lt;www.dw.com&gt; (com adaptações). A partir do texto anterior e considerando que o açaizeiro ou palmeira-açaí (Euterpe oleracea), a planta responsável pela produção do açaí, é uma monocotiledônea nativa da região amazônica, julgue os seguintes itens.</p>",
 "fonte": "Vestibular UnB 2023 · Prova de Conhecimentos III · página 1 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -1865,7 +1865,7 @@ window.PROVAS_OFICIAIS.push(...[
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<figure class=\"fig-prova\"><img src=\"provas/img/2023/c2-002.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:96%\"></figure>\n<p>751002_01N240044</p>\n<p>Desde a chegada dos europeus, os recursos naturais do Brasil têm sido explorados de maneira predatória. Madeira, insumos vegetais, ouro e outros minérios, que, antes, eram embarcados em navios como produtos da colônia, hoje são explorados por empresas e países estrangeiros.</p>\n<p>Entre esses recursos naturais, o ferro metálico pode ser obtido de minérios como a siderita (FeCO<sub>3</sub>) e a hematita (Fe<sub>2</sub>O<sub>3</sub>). Em um processo simplificado, a hematita reage com monóxido de carbono para formar a magnetita (Fe<sub>3</sub>O<sub>4</sub>). Em reações sucessivas, o Fe<sub>3</sub>O<sub>4</sub> e o FeO reagem com o CO para produzir o Fe. As equações balanceadas desse processo estão mostradas a <img class=\"formula\" src=\"provas/img/2023/c2-003.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.09em\"> entalpia das reações I, II e III, respectivamente. <img class=\"formula\" src=\"provas/img/2023/c2-004.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> <img class=\"formula\" src=\"provas/img/2023/c2-005.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.09em\"> III FeO + CO → Fe + CO<sub>2</sub></p>\n<p><img class=\"formula\" src=\"provas/img/2023/c2-006.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.09em\"><br>Tendo como referência as informações precedentes, julgue os<br>itens que se seguem.</p>",
+"texto": "<figure class=\"fig-prova\"><img src=\"provas/img/2023/c2-002.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:96%\"></figure>\n<p>Desde a chegada dos europeus, os recursos naturais do Brasil têm sido explorados de maneira predatória. Madeira, insumos vegetais, ouro e outros minérios, que, antes, eram embarcados em navios como produtos da colônia, hoje são explorados por empresas e países estrangeiros.</p>\n<p>Entre esses recursos naturais, o ferro metálico pode ser obtido de minérios como a siderita (FeCO<sub>3</sub>) e a hematita (Fe<sub>2</sub>O<sub>3</sub>). Em um processo simplificado, a hematita reage com monóxido de carbono para formar a magnetita (Fe<sub>3</sub>O<sub>4</sub>). Em reações sucessivas, o Fe<sub>3</sub>O<sub>4</sub> e o FeO reagem com o CO para produzir o Fe. As equações balanceadas desse processo estão mostradas a <img class=\"formula\" src=\"provas/img/2023/c2-003.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.09em\"> entalpia das reações I, II e III, respectivamente. <img class=\"formula\" src=\"provas/img/2023/c2-004.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> <img class=\"formula\" src=\"provas/img/2023/c2-005.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.09em\"> III FeO + CO → Fe + CO<sub>2</sub></p>\n<p><img class=\"formula\" src=\"provas/img/2023/c2-006.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.09em\"><br>Tendo como referência as informações precedentes, julgue os<br>itens que se seguem.</p>",
 "fonte": "Vestibular UnB 2023 · Prova de Conhecimentos III · página 1 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -1896,7 +1896,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2023-III-g-4",
-"disciplina": "Interdisciplinar",
+"disciplina": "Matemática",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1943,11 +1943,11 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2023-III-g-5",
-"disciplina": "Interdisciplinar",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>751002_01N240044</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2023/c2-008.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:92%\"></figure>\n<p>Maior causador do efeito estufa, o CO<sub>2</sub> é liberado pela queima de combustíveis como o octano, um dos principais componentes da gasolina, e o etanol, obtido de biomassa. A esse respeito e considerando os dados na tabela precedente, julgue os itens de 19 a 21 e assinale a opção correta no item 22, que é do tipo C.</p>",
+"texto": "<figure class=\"fig-prova\"><img src=\"provas/img/2023/c2-008.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:92%\"></figure>\n<p>Maior causador do efeito estufa, o CO<sub>2</sub> é liberado pela queima de combustíveis como o octano, um dos principais componentes da gasolina, e o etanol, obtido de biomassa. A esse respeito e considerando os dados na tabela precedente, julgue os itens de 19 a 21 e assinale a opção correta no item 22, que é do tipo C.</p>",
 "fonte": "Vestibular UnB 2023 · Prova de Conhecimentos III · página 3 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -1983,7 +1983,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2023-III-g-7",
-"disciplina": "Interdisciplinar",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2051,7 +2051,7 @@ window.PROVAS_OFICIAIS.push(...[
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>751002_01N240044</p>\n<p>O álcool é um dos produtos de extrema importância para a independência energética brasileira, por isso, existe a necessidade de se desenvolver técnicas baratas que permitam avaliar alguma propriedade dos produtos de maneira eficiente junto ao produtor. Uma dessas técnicas é a polarimetria, que permite determinar a concentração de sacarose em uma amostra advinda da cana-deaçúcar. A figura a seguir esquematiza o funcionamento dessa técnica: a luz de uma fonte luminosa, normalmente um laser de certo comprimento de onda, atravessa dois polarizadores cruzados, estabelecendo um valor mínimo para a detecção da intensidade da luz; entre esses polarizadores, coloca-se uma amostra líquida de sacarose em uma cubeta; depois do segundo polarizador (analisador), encontra-se um detector de intensidade luminosa. A sacarose tem a propriedade de girar o plano da polarização e é dextrógira. O grau de rotação da polarização <img class=\"formula\" src=\"provas/img/2023/c2-017.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> e da concentração γ da amostra, o que pode ser resumido pela <img class=\"formula\" src=\"provas/img/2023/c2-018.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> L, em dm.</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2023/c2-019.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:90%\"></figure>\n<p>A seguir, os gráficos mostram o resultado experimental da medida da rotação da polarização para uma amostra de sacarose com três concentrações diferentes: γ<sub>1</sub>, γ<sub>2</sub> e γ<sub>3</sub>. Nesses gráficos, I representa a intensidade da luz emergente do polarímetro e I<sub>M</sub>, um fator de normalização. O gráfico γ<sub>0</sub> é a situação original, na qual não há sacarose e os polarizadores estão cruzados, ou seja, <img class=\"formula\" src=\"provas/img/2023/c2-020.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> e a constante de rotação da sacarose é α = 58 mL∙g<sup>−1</sup>∙dm<sup>−1</sup>.</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2023/c2-021.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:100%\"></figure>\n<p>Tendo como referência as informações precedentes, julgue os itens que se seguem.</p>",
+"texto": "<p>O álcool é um dos produtos de extrema importância para a independência energética brasileira, por isso, existe a necessidade de se desenvolver técnicas baratas que permitam avaliar alguma propriedade dos produtos de maneira eficiente junto ao produtor. Uma dessas técnicas é a polarimetria, que permite determinar a concentração de sacarose em uma amostra advinda da cana-deaçúcar. A figura a seguir esquematiza o funcionamento dessa técnica: a luz de uma fonte luminosa, normalmente um laser de certo comprimento de onda, atravessa dois polarizadores cruzados, estabelecendo um valor mínimo para a detecção da intensidade da luz; entre esses polarizadores, coloca-se uma amostra líquida de sacarose em uma cubeta; depois do segundo polarizador (analisador), encontra-se um detector de intensidade luminosa. A sacarose tem a propriedade de girar o plano da polarização e é dextrógira. O grau de rotação da polarização <img class=\"formula\" src=\"provas/img/2023/c2-017.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> e da concentração γ da amostra, o que pode ser resumido pela <img class=\"formula\" src=\"provas/img/2023/c2-018.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> L, em dm.</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2023/c2-019.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:90%\"></figure>\n<p>A seguir, os gráficos mostram o resultado experimental da medida da rotação da polarização para uma amostra de sacarose com três concentrações diferentes: γ<sub>1</sub>, γ<sub>2</sub> e γ<sub>3</sub>. Nesses gráficos, I representa a intensidade da luz emergente do polarímetro e I<sub>M</sub>, um fator de normalização. O gráfico γ<sub>0</sub> é a situação original, na qual não há sacarose e os polarizadores estão cruzados, ou seja, <img class=\"formula\" src=\"provas/img/2023/c2-020.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> e a constante de rotação da sacarose é α = 58 mL∙g<sup>−1</sup>∙dm<sup>−1</sup>.</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2023/c2-021.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:100%\"></figure>\n<p>Tendo como referência as informações precedentes, julgue os itens que se seguem.</p>",
 "fonte": "Vestibular UnB 2023 · Prova de Conhecimentos III · página 4 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -2082,7 +2082,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2023-III-g-10",
-"disciplina": "Interdisciplinar",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2115,7 +2115,7 @@ window.PROVAS_OFICIAIS.push(...[
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>No Brasil, o uso de carros elétricos movidos a partir da energia solar seria uma revolução na independência energética. Nos motores elétricos, o fluxo Φ de indução magnética B, por <img class=\"formula\" src=\"provas/img/2023/c2-025.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> <img class=\"formula\" src=\"provas/img/2023/c2-026.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> <img class=\"formula\" src=\"provas/img/2023/c2-027.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.36em\"> <img class=\"formula\" src=\"provas/img/2023/c2-028.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> aplicação da Lei de Faraday. Na figura I, duas barras metálicas <img class=\"formula\" src=\"provas/img/2023/c2-029.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> interligadas por uma terceira barra, que pode se mover perpendicular a elas. Tais barras estão sob o efeito de um campo magnético B, como mostram as figuras II e III, que são as projeções superior e lateral da figura I. Na figura II, os terminais indicados por a e b estão separados por uma distância L e, na figura III, que explicita a ação de um campo magnético B, homogêneo e perpendicular às barras, P é o vetor peso da barra perpendicular, que tem resistência de 1 Ω e desce a rampa com uma velocidade constante v. As três barras são de alumínio e o contato entre elas é tal que o efeito do atrito pode ser desconsiderado. As barras paralelas estão conectadas a um multímetro na função de amperímetro.</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2023/c2-030.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:88%\"></figure>\n<p>751002_01N240044<br>Com base nas figuras e nas informações precedentes, julgue os<br>itens que se seguem.</p>",
+"texto": "<p>No Brasil, o uso de carros elétricos movidos a partir da energia solar seria uma revolução na independência energética. Nos motores elétricos, o fluxo Φ de indução magnética B, por <img class=\"formula\" src=\"provas/img/2023/c2-025.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> <img class=\"formula\" src=\"provas/img/2023/c2-026.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> <img class=\"formula\" src=\"provas/img/2023/c2-027.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.36em\"> <img class=\"formula\" src=\"provas/img/2023/c2-028.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> aplicação da Lei de Faraday. Na figura I, duas barras metálicas <img class=\"formula\" src=\"provas/img/2023/c2-029.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> interligadas por uma terceira barra, que pode se mover perpendicular a elas. Tais barras estão sob o efeito de um campo magnético B, como mostram as figuras II e III, que são as projeções superior e lateral da figura I. Na figura II, os terminais indicados por a e b estão separados por uma distância L e, na figura III, que explicita a ação de um campo magnético B, homogêneo e perpendicular às barras, P é o vetor peso da barra perpendicular, que tem resistência de 1 Ω e desce a rampa com uma velocidade constante v. As três barras são de alumínio e o contato entre elas é tal que o efeito do atrito pode ser desconsiderado. As barras paralelas estão conectadas a um multímetro na função de amperímetro.</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2023/c2-030.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:88%\"></figure>\n<p class=\"instrucao-item\">Com base nas figuras e nas informações precedentes, julgue os</p>\n<p>itens que se seguem.</p>",
 "fonte": "Vestibular UnB 2023 · Prova de Conhecimentos III · página 4 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -2198,7 +2198,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2023-III-g-14",
-"disciplina": "Interdisciplinar",
+"disciplina": "Matemática",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2233,11 +2233,11 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2023-III-g-15",
-"disciplina": "Interdisciplinar",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<figure class=\"fig-prova\"><img src=\"provas/img/2023/c2-042.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:97%\"></figure>\n<p>751002_01N240044</p>\n<p>O Brasil, além de ser o principal produtor mundial de cana-de-açúcar, liderou as pesquisas que permitiram sequenciar o genoma completo da cana-de-açúcar comercial. Foram mapeados 373.869 genes, o que corresponde a 99,1% do total. Composto por 10 bilhões de pares de bases, distribuídos entre 100 e 130 cromossomos, o genoma da cana-de-açúcar demandou uma grande capacidade computacional para, de um lado, unir os pedaços sequenciados de DNA e, do outro, manter separados os cromossomos homólogos.</p>\n<p class=\"fonte\">Internet: &lt;agencia.fapesp.br&gt; (com adaptações).</p>\n<p>Tendo o texto precedente como motivador, julgue os itens que se seguem.</p>",
+"texto": "<figure class=\"fig-prova\"><img src=\"provas/img/2023/c2-042.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:97%\"></figure>\n<p>O Brasil, além de ser o principal produtor mundial de cana-de-açúcar, liderou as pesquisas que permitiram sequenciar o genoma completo da cana-de-açúcar comercial. Foram mapeados 373.869 genes, o que corresponde a 99,1% do total. Composto por 10 bilhões de pares de bases, distribuídos entre 100 e 130 cromossomos, o genoma da cana-de-açúcar demandou uma grande capacidade computacional para, de um lado, unir os pedaços sequenciados de DNA e, do outro, manter separados os cromossomos homólogos.</p>\n<p class=\"fonte\">Internet: &lt;agencia.fapesp.br&gt; (com adaptações).</p>\n<p>Tendo o texto precedente como motivador, julgue os itens que se seguem.</p>",
 "fonte": "Vestibular UnB 2023 · Prova de Conhecimentos III · página 5 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -2327,7 +2327,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2023-III-g-17",
-"disciplina": "Interdisciplinar",
+"disciplina": "Química",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2344,7 +2344,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2023-III-g-18",
-"disciplina": "Interdisciplinar",
+"disciplina": "Matemática",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2383,7 +2383,7 @@ window.PROVAS_OFICIAIS.push(...[
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>O presidente da Empresa Brasileira de Pesquisa e Inovação Industrial (Embrapii), Jorge Guimarães, avalia a ausência de um DNA independente no Brasil como um processo estrutural: “A maioria dos insumos químicos importados não é refinada, é coisa bem simples. O Brasil é o maior exportador de laranja e, mesmo assim, importa ácido cítrico. Bem como é o maior produtor de sacarose e importa glicose, que é metade da molécula. Tem coisas difíceis de explicar, responsáveis por gerar fragilidade. Esse efeito é responsável também pela deficiência no setor de medicamentos. A defasagem tecnológica ocorre continuamente com a importação dos quimioterápicos, ou seja, da grande parte dos princípios ativos e insumos que compõem os remédios, gerando enorme déficit na balança de pagamentos”.</p>\n<p class=\"fonte\">Alana Ambrosio. Por que Brasil ainda é tão dependente de importações na área farmacêutica? In: VivaBem UOL. Internet: &lt;www.uol.com.br&gt; (com adaptações).</p>\n<p>O ácido cítrico (C<sub>6</sub>H<sub>8</sub>O<sub>7</sub>), também conhecido como ácido 2-hidroxi-1,2,3-propanotricarboxílico, é um ácido fraco <img class=\"formula\" src=\"provas/img/2023/c2-050.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.27em\"> O suco de laranja possui densidade de 1.030 kg/m<sup>3</sup>, sendo a concentração de ácido cítrico no suco de laranja igual a 1,5 g/L.</p>\n<p>751002_01N240044 Com base no texto anterior e nas informações precedentes e considerando que 1 L = 1 dm<sup>3</sup>, julgue os itens de 70 a 77 e assinale a opção correta no item 78, que é do tipo C.</p>",
+"texto": "<p>O presidente da Empresa Brasileira de Pesquisa e Inovação Industrial (Embrapii), Jorge Guimarães, avalia a ausência de um DNA independente no Brasil como um processo estrutural: “A maioria dos insumos químicos importados não é refinada, é coisa bem simples. O Brasil é o maior exportador de laranja e, mesmo assim, importa ácido cítrico. Bem como é o maior produtor de sacarose e importa glicose, que é metade da molécula. Tem coisas difíceis de explicar, responsáveis por gerar fragilidade. Esse efeito é responsável também pela deficiência no setor de medicamentos. A defasagem tecnológica ocorre continuamente com a importação dos quimioterápicos, ou seja, da grande parte dos princípios ativos e insumos que compõem os remédios, gerando enorme déficit na balança de pagamentos”.</p>\n<p class=\"fonte\">Alana Ambrosio. Por que Brasil ainda é tão dependente de importações na área farmacêutica? In: VivaBem UOL. Internet: &lt;www.uol.com.br&gt; (com adaptações).</p>\n<p>O ácido cítrico (C<sub>6</sub>H<sub>8</sub>O<sub>7</sub>), também conhecido como ácido 2-hidroxi-1,2,3-propanotricarboxílico, é um ácido fraco <img class=\"formula\" src=\"provas/img/2023/c2-050.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.27em\"> O suco de laranja possui densidade de 1.030 kg/m<sup>3</sup>, sendo a concentração de ácido cítrico no suco de laranja igual a 1,5 g/L.</p>\n<p>Com base no texto anterior e nas informações precedentes e considerando que 1 L = 1 dm<sup>3</sup>, julgue os itens de 70 a 77 e assinale a opção correta no item 78, que é do tipo C.</p>",
 "fonte": "Vestibular UnB 2023 · Prova de Conhecimentos III · página 6 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -2461,7 +2461,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2023-III-g-21",
-"disciplina": "Interdisciplinar",
+"disciplina": "Química",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2508,11 +2508,11 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2023-III-g-22",
-"disciplina": "Interdisciplinar",
+"disciplina": "Física",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>A figura a seguir ilustra, no sistema de coordenadas ortogonais xOy, a situação em que uma partícula é lançada com <img class=\"formula\" src=\"provas/img/2023/c2-052.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.18em\"> eixo-+, em direção ao arco de circunferência localizado no segundo quadrante do sistema de coordenadas e cujo centro é o ponto C. A partícula passa dessa trajetória para o arco de curva no primeiro quadrante do sistema, de maneira exata na figura, <img class=\"formula\" src=\"provas/img/2023/c2-053.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"></p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2023/c2-054.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:83%\"></figure>\n<p>751002_01N240044<br>A partir dessas informações e considerando que não há atrito em<br><img class=\"formula\" src=\"provas/img/2023/c2-055.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"></p>\n<p><img class=\"formula\" src=\"provas/img/2023/c2-056.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"><br><img class=\"formula\" src=\"provas/img/2023/c2-057.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.73em\"><br>toda a trajetória da partícula e que sen 6</p>\n<p><img class=\"formula\" src=\"provas/img/2023/c2-058.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.36em\"><br>julgue os itens de 84 a 86 e assinale a opção correta no item 87,<br>que é do tipo C.</p>",
+"texto": "<p>A figura a seguir ilustra, no sistema de coordenadas ortogonais xOy, a situação em que uma partícula é lançada com <img class=\"formula\" src=\"provas/img/2023/c2-052.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.18em\"> eixo-+, em direção ao arco de circunferência localizado no segundo quadrante do sistema de coordenadas e cujo centro é o ponto C. A partícula passa dessa trajetória para o arco de curva no primeiro quadrante do sistema, de maneira exata na figura, <img class=\"formula\" src=\"provas/img/2023/c2-053.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"></p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2023/c2-054.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:83%\"></figure>\n<p>A partir dessas informações e considerando que não há atrito em <img class=\"formula\" src=\"provas/img/2023/c2-055.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"></p>\n<p><img class=\"formula\" src=\"provas/img/2023/c2-056.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"><br><img class=\"formula\" src=\"provas/img/2023/c2-057.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.73em\"><br>toda a trajetória da partícula e que sen 6</p>\n<p><img class=\"formula\" src=\"provas/img/2023/c2-058.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.36em\"><br>julgue os itens de 84 a 86 e assinale a opção correta no item 87,<br>que é do tipo C.</p>",
 "fonte": "Vestibular UnB 2023 · Prova de Conhecimentos III · página 7 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -2577,7 +2577,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2023-III-g-26",
-"disciplina": "Interdisciplinar",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2600,11 +2600,11 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2023-III-g-27",
-"disciplina": "Interdisciplinar",
+"disciplina": "Matemática",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<figure class=\"fig-prova\"><img src=\"provas/img/2023/c2-074.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:97%\"></figure>\n<p>751002_01N240044</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2023/c2-075.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:52%\"></figure>\n<p>Considerando o gráfico precedente, relativo à variação das concentrações em função do tempo para a reação N<sub>2</sub>O<sub>4 (g)</sub> ⇌ 2 NO<sub>2 (g)</sub>, julgue o item a seguir.</p>",
+"texto": "<figure class=\"fig-prova\"><img src=\"provas/img/2023/c2-074.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:97%\"></figure>\n<figure class=\"fig-prova\"><img src=\"provas/img/2023/c2-075.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:52%\"></figure>\n<p>Considerando o gráfico precedente, relativo à variação das concentrações em função do tempo para a reação N<sub>2</sub>O<sub>4 (g)</sub> ⇌ 2 NO<sub>2 (g)</sub>, julgue o item a seguir.</p>",
 "fonte": "Vestibular UnB 2023 · Prova de Conhecimentos III · página 8 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -2640,7 +2640,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2023-III-g-29",
-"disciplina": "Interdisciplinar",
+"disciplina": "Física",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2681,18 +2681,7 @@ window.PROVAS_OFICIAIS.push(...[
 "enunciado": "Nas condições do experimento de Graham, em um tubo de comprimento igual a 90 cm, o gás B percorrerá uma distância y superior a 50 cm.",
 "tipo": "A",
 "gabarito": "C"
-}
-]
 },
-{
-"id": "unb2023-III-g-31",
-"disciplina": "Interdisciplinar",
-"area": "Ciências da Natureza e Matemática",
-"titulo": "",
-"disciplinaEstimada": true,
-"texto": "<p>751002_01N240044</p>",
-"fonte": "Vestibular UnB 2023 · Prova de Conhecimentos III · página 10 do caderno oficial (Cebraspe).",
-"itens": [
 {
 "numeroOriginal": 104,
 "enunciado": "Assinale a opção cujo gráfico representa o comportamento da pressão (P) de um gás ideal que é aquecido, em um recipiente de volume fixo, em função da temperatura (T). A <figure class=\"fig-prova\"><img src=\"provas/img/2023/c2-085.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:54%\"></figure> B <figure class=\"fig-prova\"><img src=\"provas/img/2023/c2-086.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:54%\"></figure> C <figure class=\"fig-prova\"><img src=\"provas/img/2023/c2-087.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:49%\"></figure> D",
@@ -2708,8 +2697,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2023-III-g-32",
-"disciplina": "Interdisciplinar",
+"id": "unb2023-III-g-31",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2731,8 +2720,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2023-III-g-33",
-"disciplina": "Interdisciplinar",
+"id": "unb2023-III-g-32",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2748,7 +2737,7 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2023-III-g-34",
+"id": "unb2023-III-g-33",
 "disciplina": "Matemática",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
@@ -2771,8 +2760,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2023-III-g-35",
-"disciplina": "Interdisciplinar",
+"id": "unb2023-III-g-34",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2788,8 +2777,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2023-III-g-36",
-"disciplina": "Interdisciplinar",
+"id": "unb2023-III-g-35",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2805,12 +2794,12 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2023-III-g-37",
+"id": "unb2023-III-g-36",
 "disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>751002_01N240044</p>\n<p>Em 2021, comemorou-se o centenário da descoberta e da produção da insulina. No Brasil, a produção de insulina recombinante iniciou-se mediante a colaboração entre a empresa Biobrás e pesquisadores da Universidade de Brasília. Considerando o texto precedente como motivador, julgue os itens subsecutivos.</p>",
+"texto": "<p>Em 2021, comemorou-se o centenário da descoberta e da produção da insulina. No Brasil, a produção de insulina recombinante iniciou-se mediante a colaboração entre a empresa Biobrás e pesquisadores da Universidade de Brasília. Considerando o texto precedente como motivador, julgue os itens subsecutivos.</p>",
 "fonte": "Vestibular UnB 2023 · Prova de Conhecimentos III · página 11 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -2834,8 +2823,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2023-III-g-38",
-"disciplina": "Interdisciplinar",
+"id": "unb2023-III-g-37",
+"disciplina": "Física",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2851,8 +2840,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2023-III-g-39",
-"disciplina": "Interdisciplinar",
+"id": "unb2023-III-g-38",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2868,12 +2857,12 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2023-III-g-40",
-"disciplina": "Interdisciplinar",
+"id": "unb2023-III-g-39",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<figure class=\"fig-prova\"><img src=\"provas/img/2023/c2-098.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:54%\"></figure>\n<p>751002_01N240044</p>\n<p>No sistema de coordenadas cartesianas xOy a seguir, em que a unidade de medida é o quilômetro, foram inseridos marcos históricos da cidade de São Paulo como pontos cartesianos. O Parque da Independência é o lugar do famoso evento conhecido como O Grito do Ipiranga, e o Pateo do Collegio é o local onde D. Pedro I ficava hospedado quando de suas visitas a São Paulo. Com referência a esse sistema, a tabela mostra as coordenadas de alguns dos marcos históricos.</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2023/c2-099.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:100%\"></figure>\n<p class=\"instrucao-item\">Considerando essas informações, julgue os itens seguintes.</p>",
+"texto": "<figure class=\"fig-prova\"><img src=\"provas/img/2023/c2-098.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:54%\"></figure>\n<p>No sistema de coordenadas cartesianas xOy a seguir, em que a unidade de medida é o quilômetro, foram inseridos marcos históricos da cidade de São Paulo como pontos cartesianos. O Parque da Independência é o lugar do famoso evento conhecido como O Grito do Ipiranga, e o Pateo do Collegio é o local onde D. Pedro I ficava hospedado quando de suas visitas a São Paulo. Com referência a esse sistema, a tabela mostra as coordenadas de alguns dos marcos históricos.</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2023/c2-099.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:100%\"></figure>\n<p class=\"instrucao-item\">Considerando essas informações, julgue os itens seguintes.</p>",
 "fonte": "Vestibular UnB 2023 · Prova de Conhecimentos III · página 11 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -2915,8 +2904,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2023-III-g-41",
-"disciplina": "Interdisciplinar",
+"id": "unb2023-III-g-40",
+"disciplina": "Matemática",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2950,8 +2939,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2023-III-g-42",
-"disciplina": "Interdisciplinar",
+"id": "unb2023-III-g-41",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -2979,8 +2968,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2023-III-g-43",
-"disciplina": "Interdisciplinar",
+"id": "unb2023-III-g-42",
+"disciplina": "Física",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -3002,8 +2991,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2023-III-g-44",
-"disciplina": "Interdisciplinar",
+"id": "unb2023-III-g-43",
+"disciplina": "Química",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -3043,12 +3032,12 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2023-III-g-45",
+"id": "unb2023-III-g-44",
 "disciplina": "Física",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>751002_01N240044</p>\n<p>Países independentes precisam ter laboratórios nacionais do tipo Sirius, localizado em Campinas, cuja essência da produção de radiação, em um amplo espectro eletromagnético, está associada ao processo de acelerar elétrons até atingirem valores de velocidades relativísticas. Isso se obtém graças a ação de campos elétricos e magnéticos sobre os elétrons, em alto vácuo, fazendo que as suas trajetórias sofram curvaturas.</p>\n<p>Para exemplificar esse processo, a figura a seguir mostra a situação em que elétrons de uma fonte termiônica sob a ação de <img class=\"formula\" src=\"provas/img/2023/c2-110.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> entram em uma região de campo magnético B, homogêneo, cuja direção é perpendicular ao plano xOy. Sob a ação do campo B, os elétrons percorrem uma trajetória de um quarto de círculo, deslocando-se a uma distância s = 5 cm na direção do eixo-y, sentido positivo.</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2023/c2-111.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:57%\"></figure>\n<p>Tendo como referência essas informações e considerando a razão</p>\n<p class=\"fonte\">*</p>\n<p><img class=\"formula\" src=\"provas/img/2023/c2-112.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.55em\"><br>carga-massa do elétron<br>que se seguem.</p>",
+"texto": "<p>Países independentes precisam ter laboratórios nacionais do tipo Sirius, localizado em Campinas, cuja essência da produção de radiação, em um amplo espectro eletromagnético, está associada ao processo de acelerar elétrons até atingirem valores de velocidades relativísticas. Isso se obtém graças a ação de campos elétricos e magnéticos sobre os elétrons, em alto vácuo, fazendo que as suas trajetórias sofram curvaturas.</p>\n<p>Para exemplificar esse processo, a figura a seguir mostra a situação em que elétrons de uma fonte termiônica sob a ação de <img class=\"formula\" src=\"provas/img/2023/c2-110.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.00em\"> entram em uma região de campo magnético B, homogêneo, cuja direção é perpendicular ao plano xOy. Sob a ação do campo B, os elétrons percorrem uma trajetória de um quarto de círculo, deslocando-se a uma distância s = 5 cm na direção do eixo-y, sentido positivo.</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2023/c2-111.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:57%\"></figure>\n<p>Tendo como referência essas informações e considerando a razão</p>\n<p class=\"fonte\">*</p>\n<p><img class=\"formula\" src=\"provas/img/2023/c2-112.png\" alt=\"fórmula (ver prova original)\" style=\"height:1.55em\"><br>carga-massa do elétron<br>que se seguem.</p>",
 "fonte": "Vestibular UnB 2023 · Prova de Conhecimentos III · página 13 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -3084,8 +3073,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2023-III-g-46",
-"disciplina": "Interdisciplinar",
+"id": "unb2023-III-g-45",
+"disciplina": "Física",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -3108,12 +3097,12 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2023-III-g-47",
-"disciplina": "Interdisciplinar",
+"id": "unb2023-III-g-46",
+"disciplina": "Química",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
-"texto": "<p>751002_01N240044</p>\n<figure class=\"fig-prova\"><img src=\"provas/img/2023/c2-114.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:91%\"></figure>\n<p class=\"fonte\">Internet: &lt;www.biologianet.com&gt;.</p>\n<p>Tendo como referência o modelo precedente, correspondente ao mosaico fluido da membrana plasmática, julgue os itens a seguir.</p>",
+"texto": "<figure class=\"fig-prova\"><img src=\"provas/img/2023/c2-114.png\" alt=\"Figura da prova original\" loading=\"lazy\" style=\"width:91%\"></figure>\n<p class=\"fonte\">Internet: &lt;www.biologianet.com&gt;.</p>\n<p>Tendo como referência o modelo precedente, correspondente ao mosaico fluido da membrana plasmática, julgue os itens a seguir.</p>",
 "fonte": "Vestibular UnB 2023 · Prova de Conhecimentos III · página 14 do caderno oficial (Cebraspe).",
 "itens": [
 {
@@ -3143,8 +3132,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2023-III-g-48",
-"disciplina": "Interdisciplinar",
+"id": "unb2023-III-g-47",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -3166,8 +3155,8 @@ window.PROVAS_OFICIAIS.push(...[
 ]
 },
 {
-"id": "unb2023-III-g-49",
-"disciplina": "Interdisciplinar",
+"id": "unb2023-III-g-48",
+"disciplina": "Biologia",
 "area": "Ciências da Natureza e Matemática",
 "titulo": "",
 "disciplinaEstimada": true,
