@@ -41,7 +41,7 @@ O app traz as provas oficiais do Vestibular Tradicional da UnB de **2022 a 2026*
 - **Excluídos:** 5 itens de múltipla escolha cujas alternativas são figuras que não puderam ser recortadas com segurança. A lista está em `ITENS_EXCLUIDOS`, no conversor.
 - **Fórmulas:** fórmulas, gráficos, tabelas e figuras aparecem como recortes do PDF original, em `provas/img/`.
 - **Discursivos:** a banca não divulga o padrão de resposta junto com o gabarito, então você se dá a nota com base no comando do item.
-- **Disciplina:** no 2º dia e em Linguagens/Humanas, a disciplina de cada texto é **estimada automaticamente** pelo conteúdo. Na dúvida, o texto entra como "Interdisciplinar", que é o estilo da UnB.
+- **Disciplina:** no 2º dia e em Linguagens/Humanas, cada texto é classificado **automaticamente** na disciplina com mais termos característicos, entre as da mesma parte da prova. Como a UnB mistura disciplinas, alguns textos poderiam caber em mais de uma.
 
 ### Atualizar ou acrescentar edições
 O script `ferramentas/extrair_provas.py` refaz os arquivos de `provas/` a partir dos PDFs:
