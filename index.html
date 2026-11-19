@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Simulado UnB · Cebraspe</title>
+  <meta name="description" content="Simulado do Vestibular Tradicional da UnB no padrão Cebraspe: itens A, B, C e D, cronômetro, cartão-resposta e relatório de desempenho.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body data-tela="lobby">
+
+  <!-- ===================== CABEÇALHO GLOBAL ===================== -->
+  <header class="app-header" id="app-header">
+    <button type="button" class="marca" data-acao="ir-lobby" title="Voltar ao início">
+      <span class="marca-logo" aria-hidden="true">UnB</span>
+      <span class="marca-txt">Simulado <small>Vestibular Tradicional · padrão Cebraspe</small></span>
+    </button>
+
+    <!-- Barra de prova (preenchida por app.js quando a prova está ativa) -->
+    <div class="header-prova" id="header-prova" hidden></div>
+
+    <button type="button" class="btn-icone" data-acao="tema" id="btn-tema" title="Alternar tema claro/escuro" aria-label="Alternar tema claro/escuro">◐</button>
+  </header>
+
+  <main id="conteudo">
+
+    <!-- ===================== TELA 1: LOBBY ===================== -->
+    <section class="tela" id="tela-lobby">
+      <div class="container">
+
+        <div class="hero">
+          <h1>Treine no formato real do Vestibular da UnB</h1>
+          <p>Itens Certo/Errado, numéricos, de múltipla escolha e discursivos, com o mesmo cálculo de nota do Cebraspe, cronômetro, cartão-resposta e gabarito comentado.</p>
+        </div>
+
+        <div id="banner-sessao"></div>
+
+        <div class="grid-lobby">
+          <!-- ---------- Configuração ---------- -->
+          <section class="card" id="card-config" aria-labelledby="t-config">
+            <h2 id="t-config">Montar simulado</h2>
+            <form id="form-config" onsubmit="return false">
+              <fieldset>
+                <legend>1. Prova</legend>
+                <div class="opcoes-cards">
+                  <label class="op-card">
+                    <input type="radio" name="tipo" value="dia1" checked>
+                    <span class="op-titulo">1º Dia</span>
+                    <span class="op-desc">Língua Estrangeira + Linguagens e Ciências Humanas · 5h00min</span>
+                  </label>
+                  <label class="op-card">
+                    <input type="radio" name="tipo" value="dia2">
+                    <span class="op-titulo">2º Dia</span>
+                    <span class="op-desc">Ciências da Natureza e Matemática · 5h00min</span>
+                  </label>
+                  <label class="op-card">
+                    <input type="radio" name="tipo" value="rapido">
+                    <span class="op-titulo">Simulado rápido</span>
+                    <span class="op-desc">Escolha as disciplinas e a duração</span>
+                  </label>
+                </div>
+              </fieldset>
+
+              <div class="campo" id="campo-prova">
+                <label for="sel-prova">Caderno de prova</label>
+                <select id="sel-prova"></select>
+              </div>
+
+              <div class="campo" id="campo-lingua">
+                <label for="sel-lingua">Língua estrangeira</label>
+                <select id="sel-lingua"></select>
+              </div>
+
+              <div id="campo-rapido" hidden>
+                <div class="campo">
+                  <span class="rotulo">Disciplinas</span>
+                  <div id="lista-disciplinas" class="lista-disciplinas"></div>
+                </div>
+                <div class="campo">
+                  <label for="sel-duracao">Duração</label>
+                  <select id="sel-duracao">
+                    <option value="15">15 minutos</option>
+                    <option value="30">30 minutos</option>
+                    <option value="60" selected>1 hora</option>
+                    <option value="90">1h30min</option>
+                    <option value="120">2 horas</option>
+                    <option value="180">3 horas</option>
+                  </select>
+                </div>
+              </div>
+
+              <fieldset>
+                <legend>2. Modo</legend>
+                <div class="opcoes-cards duas">
+                  <label class="op-card">
+                    <input type="radio" name="modo" value="real" checked>
+                    <span class="op-titulo">Simulado real</span>
+                    <span class="op-desc">Cronômetro regressivo, sem gabarito durante a prova, encerramento automático.</span>
+                  </label>
+                  <label class="op-card">
+                    <input type="radio" name="modo" value="treino">
+                    <span class="op-titulo">Modo treino</span>
+                    <span class="op-desc">Confira o gabarito comentado item a item, na hora.</span>
+                  </label>
+                </div>
+              </fieldset>
+
+              <p class="resumo-config" id="resumo-config"></p>
+              <button type="button" class="btn btn-primario btn-grande" data-acao="iniciar" id="btn-iniciar">Iniciar simulado</button>
+            </form>
+          </section>
+
+          <!-- ---------- Regras ---------- -->
+          <section class="card" id="card-regras" aria-labelledby="t-regras">
+            <h2 id="t-regras">Regras de pontuação (Cebraspe)</h2>
+            <div class="tabela-wrap">
+              <table class="tabela tabela-regras">
+                <thead>
+                  <tr><th>Tipo</th><th>Formato</th><th>Acerto</th><th>Erro</th><th>Branco</th></tr>
+                </thead>
+                <tbody>
+                  <tr><td><span class="tag tag-A">A</span></td><td>Certo ou Errado</td><td class="pos">+1</td><td class="neg">−1</td><td>0</td></tr>
+                  <tr><td><span class="tag tag-B">B</span></td><td>Numérica (000 a 999)</td><td class="pos">+2</td><td>0</td><td>0</td></tr>
+                  <tr><td><span class="tag tag-C">C</span></td><td>Múltipla escolha (A–D)</td><td class="pos">+2</td><td class="neg">−0,667</td><td>0</td></tr>
+                  <tr><td><span class="tag tag-D">D</span></td><td>Discursiva</td><td class="pos">até +3</td><td>0</td><td>0</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <h3>Estratégia de itens em branco</h3>
+            <ul class="lista-estrategia">
+              <li><strong>Tipo A:</strong> um erro anula um acerto. Marque apenas quando sua confiança for <strong>maior que 50%</strong>; caso contrário, deixar em branco é a melhor escolha.</li>
+              <li><strong>Tipo C:</strong> o “chute” puro entre 4 opções tem valor esperado zero (2·¼ − 0,667·¾ = 0). Se conseguir <strong>eliminar uma alternativa</strong>, marcar passa a compensar — use o botão ✂ para riscar opções.</li>
+              <li><strong>Tipo B:</strong> não há desconto. <strong>Sempre responda</strong>, ainda que por estimativa.</li>
+              <li><strong>Tipo D:</strong> não há desconto. Escreva sempre: notas parciais contam.</li>
+            </ul>
+          </section>
+        </div>
+
+        <!-- ---------- Banco de questões ---------- -->
+        <section class="card" id="card-banco" aria-labelledby="t-banco">
+          <div class="card-cab">
+            <h2 id="t-banco">Banco de questões</h2>
+            <div class="grupo-botoes">
+              <button type="button" class="btn btn-sec" data-acao="exportar-banco">⤓ Exportar banco completo</button>
+              <button type="button" class="btn btn-sec" data-acao="baixar-modelo">⤓ Baixar modelo JSON</button>
+            </div>
+          </div>
+          <div id="lista-provas" class="tabela-wrap"></div>
+
+          <details class="importar">
+            <summary>⤒ Importar provas (JSON)</summary>
+            <p class="muted">Transcreva provas anteriores dos PDFs oficiais do Cebraspe seguindo o formato do <em>modelo JSON</em> e importe aqui. As provas importadas ficam salvas no navegador (<code>localStorage</code>). Uma prova com o mesmo <code>id</code> de outra existente a substitui.</p>
+            <div class="importar-grid">
+              <label class="dropzone" id="dropzone">
+                <input type="file" id="arquivo-json" accept=".json,application/json" hidden>
+                <span class="dz-ico" aria-hidden="true">⤒</span>
+                <span>Clique para escolher um arquivo <strong>.json</strong> ou arraste-o para cá</span>
+              </label>
+              <div class="colar">
+                <label for="txt-json" class="rotulo">…ou cole o JSON abaixo</label>
+                <textarea id="txt-json" rows="6" placeholder='{ "provas": [ { "id": "unb-2023-dia1", "titulo": "...", "dia": 1, "blocos": [ ... ] } ] }'></textarea>
+                <div class="grupo-botoes">
+                  <button type="button" class="btn btn-primario" data-acao="importar-texto">Importar JSON colado</button>
+                  <button type="button" class="btn btn-perigo-sec" data-acao="remover-importadas">Remover todas as importadas</button>
+                </div>
+              </div>
+            </div>
+          </details>
+        </section>
+
+        <!-- ---------- Histórico ---------- -->
+        <section class="card" id="card-historico" aria-labelledby="t-hist">
+          <div class="card-cab">
+            <h2 id="t-hist">Histórico de desempenho</h2>
+            <button type="button" class="btn btn-sec btn-peq" data-acao="limpar-historico">Limpar histórico</button>
+          </div>
+          <div id="lista-historico"></div>
+        </section>
+
+        <p class="rodape-nota">As questões incluídas são autorais e didáticas, inspiradas no estilo do Vestibular Tradicional da UnB. Este projeto não tem vínculo com a UnB nem com o Cebraspe.</p>
+      </div>
+    </section>
+
+    <!-- ===================== TELA 2: PROVA ===================== -->
+    <section class="tela" id="tela-prova" hidden>
+      <nav class="abas-blocos" id="abas-blocos" aria-label="Blocos da prova"></nav>
+      <div class="split">
+        <section class="painel painel-texto" id="painel-texto" aria-label="Texto-base"></section>
+        <section class="painel painel-itens" id="painel-itens" aria-label="Itens"></section>
+      </div>
+
+      <!-- Cartão-resposta / mapa de questões -->
+      <div class="mapa-fundo" id="mapa-fundo" data-acao="fechar-mapa"></div>
+      <aside class="mapa" id="mapa" aria-label="Cartão-resposta" aria-hidden="true"></aside>
+    </section>
+
+    <!-- ===================== TELA 3: RESULTADO ===================== -->
+    <section class="tela" id="tela-resultado" hidden></section>
+  </main>
+
+  <!-- Modal genérico -->
+  <dialog id="modal" class="modal">
+    <h2 id="modal-titulo"></h2>
+    <div id="modal-corpo" class="modal-corpo"></div>
+    <div id="modal-rodape" class="modal-rodape"></div>
+  </dialog>
+
+  <!-- Notificações -->
+  <div class="toasts" id="toasts" aria-live="polite"></div>
+
+  <script src="questoes.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
