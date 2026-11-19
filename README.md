@@ -2,15 +2,34 @@
 
 Simulador de provas feito só com **HTML5, CSS3 e JavaScript puro**. Não usa backend nem dependências.
 
-## Como executar
-Abra o `index.html` no navegador com um duplo clique. Funciona direto pelo `file://`.
+## Como abrir
+
+### Como Web App instalável (recomendado)
+O projeto é um **PWA**: depois de publicado, pode ser instalado no celular ou no computador como um aplicativo e funciona mesmo sem internet.
+
+1. No GitHub, abra **Settings → Pages**.
+2. Em **Build and deployment → Source**, escolha **Deploy from a branch**.
+3. Selecione a branch **`main`**, a pasta **`/ (root)`** e clique em **Save**.
+4. Depois de 1 ou 2 minutos, o app fica disponível em **https://lbraz55.github.io/simulado_unb/**
+5. Para instalar:
+   - **Android (Chrome):** botão **⤓ Instalar app** no topo, ou menu ⋮ → *Instalar app*.
+   - **iPhone/iPad (Safari):** Compartilhar (□↑) → *Adicionar à Tela de Início*.
+   - **Computador (Chrome/Edge):** botão **⤓ Instalar app** ou o ícone de instalar na barra de endereço.
+
+### Direto no computador
+Baixe o repositório (**Code → Download ZIP**), descompacte e abra o `index.html` com um duplo clique. Funciona pelo `file://`, só sem a instalação e sem o modo offline.
+
+> Abrir o `index.html` pelo site do GitHub mostra apenas o código. Para usar o app, é preciso o GitHub Pages ou baixar os arquivos.
 
 | Arquivo | Função |
 |---|---|
 | `index.html` | Estrutura das telas: lobby, prova e resultado |
 | `style.css` | Visual (variáveis CSS, Grid/Flexbox, tema claro/escuro, responsivo, impressão) |
 | `questoes.js` | Banco padrão (`window.BANCO_PADRAO`): 1º e 2º dia, com itens A, B, C e D |
-| `app.js` | Estado, montagem da prova, cronômetro, persistência, correção e relatório |
+| `app.js` | Estado, montagem da prova, cronômetro, persistência, correção, relatório e instalação do app |
+| `manifest.webmanifest` | Nome, cores e ícones do Web App |
+| `sw.js` | Service worker: guarda os arquivos para uso offline (aumente `VERSAO` ao alterar o app) |
+| `icons/` | Ícones do aplicativo |
 
 ## Regras implementadas
 | Tipo | Acerto | Erro | Branco |

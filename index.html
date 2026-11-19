@@ -2,9 +2,20 @@
 <html lang="pt-BR">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Simulado UnB · Cebraspe</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Simulado UnB</title>
+  <meta name="claude:viewport-fit-sides" content="cover">
   <meta name="description" content="Simulado do Vestibular Tradicional da UnB no padrão Cebraspe: itens A, B, C e D, cronômetro, cartão-resposta e relatório de desempenho.">
+  <!-- Web App (PWA): instalável no celular e no computador, funciona offline -->
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#0b4f9c">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Simulado UnB">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="icon" href="icons/icon-192.png" sizes="192x192" type="image/png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
   <link rel="stylesheet" href="style.css">
 </head>
 <body data-tela="lobby">
@@ -19,6 +30,7 @@
     <!-- Barra de prova (preenchida por app.js quando a prova está ativa) -->
     <div class="header-prova" id="header-prova" hidden></div>
 
+    <button type="button" class="btn btn-primario btn-peq btn-instalar" data-acao="instalar" id="btn-instalar" hidden title="Instalar o Simulado UnB como aplicativo">⤓ Instalar app</button>
     <button type="button" class="btn-icone" data-acao="tema" id="btn-tema" title="Alternar tema claro/escuro" aria-label="Alternar tema claro/escuro">◐</button>
   </header>
 

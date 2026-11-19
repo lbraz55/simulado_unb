@@ -154,12 +154,38 @@ function modal({ titulo, html, botoes = [{ texto: 'OK', valor: true, classe: 'bt
 
 /** Faz o download de um objeto como arquivo .json. */
 function baixarJSON(obj, nomeArquivo) {
+  if (window.MODO_ARTIFACT) { mostrarJSONParaCopiar(obj, nomeArquivo); return; }
   const blob = new Blob([JSON.stringify(obj, null, 2)], { type: 'application/json' });
   const url = URL.createObjectURL(blob);
   const a = document.createElement('a');
   a.href = url; a.download = nomeArquivo;
   document.body.appendChild(a); a.click(); a.remove();
   setTimeout(() => URL.revokeObjectURL(url), 1500);
+}
+
+/**
+ * Onde o download de arquivos é bloqueado (ex.: página publicada no Claude),
+ * mostra o JSON numa caixa com botão de copiar.
+ */
+function mostrarJSONParaCopiar(obj, nomeArquivo) {
+  const texto = JSON.stringify(obj, null, 2);
+  modal({
+    titulo: 'Copiar JSON',
+    html: `<p class="muted">Copie o conteúdo abaixo e salve num arquivo chamado <code>${esc(nomeArquivo)}</code>.</p>
+      <textarea id="json-copia" class="json-copia" rows="12" readonly>${esc(texto)}</textarea>
+      <button type="button" class="btn btn-primario" data-acao="copiar-json">Copiar JSON</button>`,
+    botoes: [{ texto: 'Fechar', valor: false }]
+  });
+}
+
+/** Copia o JSON exibido (chamado direto no clique, como o navegador exige). */
+function copiarJSON() {
+  const campo = $('#json-copia');
+  if (!campo) return;
+  const selecionar = () => { campo.focus(); campo.select(); toast('Texto selecionado: use Ctrl+C (ou Copiar) para copiar.', 'info'); };
+  try {
+    navigator.clipboard.writeText(campo.value).then(() => toast('JSON copiado.', 'sucesso'), selecionar);
+  } catch { selecionar(); }
 }
 
 /* =====================================================================
@@ -1382,10 +1408,25 @@ function riscar(n, v) {
 /* =====================================================================
    14. TEMA E FONTE
    ===================================================================== */
+/** Tema efetivo: escolha explícita (data-theme) ou preferência do sistema. */
+function temaAtual() {
+  const t = document.documentElement.dataset.theme;
+  if (t === 'dark' || t === 'light') return t;
+  return window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+}
+/** Aplica o tema. Sem argumento (null), segue o sistema operacional. */
 function aplicarTema(tema) {
-  document.documentElement.dataset.theme = tema;
-  $('#btn-tema').textContent = tema === 'escuro' ? '☀' : '☾';
-  gravarLS(CHAVES.tema, tema);
+  if (tema === 'escuro') tema = 'dark';   // compatibilidade com versões antigas
+  if (tema === 'claro') tema = 'light';
+  if (tema === 'dark' || tema === 'light') {
+    document.documentElement.dataset.theme = tema;
+    gravarLS(CHAVES.tema, tema);
+  }
+  atualizarBotaoTema();
+}
+function atualizarBotaoTema() {
+  const b = $('#btn-tema');
+  if (b) b.textContent = temaAtual() === 'dark' ? '☀' : '☾';
 }
 function aplicarFonte(px) {
   px = clamp(px, 14, 26);
@@ -1405,7 +1446,9 @@ document.addEventListener('click', async e => {
 
   switch (acao) {
     /* ---- gerais ---- */
-    case 'tema': aplicarTema(document.documentElement.dataset.theme === 'escuro' ? 'claro' : 'escuro'); break;
+    case 'instalar': instalarApp(); break;
+    case 'copiar-json': copiarJSON(); break;
+    case 'tema': aplicarTema(temaAtual() === 'dark' ? 'light' : 'dark'); break;
     case 'ir-lobby':
       if (document.body.dataset.tela === 'prova') { salvarSessao(); toast('Progresso salvo. Use “Continuar prova” para retomar.', 'info'); }
       renderLobby();
@@ -1595,11 +1638,64 @@ document.addEventListener('visibilitychange', () => {
 window.addEventListener('resize', ajustarAlturaHeader);
 
 /* =====================================================================
-   16. INICIALIZAÇÃO
+   16. WEB APP (PWA): instalação e funcionamento offline
+   ===================================================================== */
+let eventoInstalacao = null;
+
+function configurarPWA() {
+  if (window.MODO_ARTIFACT) return;
+  // Service worker só funciona em http(s); abrindo o arquivo direto (file://) o app funciona normalmente sem ele.
+  if ('serviceWorker' in navigator && /^https?:$/.test(location.protocol)) {
+    navigator.serviceWorker.register('sw.js').catch(err => console.warn('Service worker:', err));
+  }
+  const instalado = matchMedia('(display-mode: standalone)').matches || navigator.standalone === true;
+  if (instalado) return;
+
+  // Chrome, Edge e Android: o navegador avisa quando o app pode ser instalado
+  window.addEventListener('beforeinstallprompt', e => {
+    e.preventDefault();
+    eventoInstalacao = e;
+    $('#btn-instalar').hidden = false;
+    ajustarAlturaHeader();
+  });
+  window.addEventListener('appinstalled', () => {
+    eventoInstalacao = null;
+    $('#btn-instalar').hidden = true;
+    toast('Aplicativo instalado! Abra pelo ícone “Simulado UnB”.', 'sucesso');
+  });
+
+  // iPhone/iPad não têm o aviso automático: mostra o botão com instruções
+  const ios = /iphone|ipad|ipod/i.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+  if (ios && /^https?:$/.test(location.protocol)) $('#btn-instalar').hidden = false;
+}
+
+async function instalarApp() {
+  if (eventoInstalacao) {
+    eventoInstalacao.prompt();
+    const { outcome } = await eventoInstalacao.userChoice;
+    if (outcome === 'accepted') $('#btn-instalar').hidden = true;
+    eventoInstalacao = null;
+    return;
+  }
+  modal({
+    titulo: 'Instalar o Simulado UnB',
+    html: `<ul class="lista-modal">
+      <li><strong>iPhone/iPad (Safari):</strong> toque em <b>Compartilhar</b> (□↑) e depois em <b>Adicionar à Tela de Início</b>.</li>
+      <li><strong>Android (Chrome):</strong> menu <b>⋮</b> → <b>Instalar app</b> ou <b>Adicionar à tela inicial</b>.</li>
+      <li><strong>Computador (Chrome/Edge):</strong> clique no ícone de instalar na barra de endereço.</li>
+    </ul>`
+  });
+}
+
+/* =====================================================================
+   17. INICIALIZAÇÃO
    ===================================================================== */
 function init() {
+  if (window.MODO_ARTIFACT) document.body.classList.add('modo-artifact');
+  configurarPWA();
   const temaSalvo = lerLS(CHAVES.tema, null);
-  aplicarTema(temaSalvo || (window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches ? 'escuro' : 'claro'));
+  aplicarTema(temaSalvo);
+  if (window.matchMedia) matchMedia('(prefers-color-scheme: dark)').addEventListener?.('change', atualizarBotaoTema);
   aplicarFonte(lerLS(CHAVES.fonte, 18));
 
   // Restaura a última configuração usada no formulário
