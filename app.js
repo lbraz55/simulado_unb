@@ -788,17 +788,44 @@ function faixa(b) {
 }
 
 /** Abas de navegação entre blocos. */
+/** Agrupa os blocos por disciplina, na ordem em que aparecem na prova. */
+function gruposDisciplina() {
+  const grupos = new Map();
+  sessao.blocos.forEach((b, i) => {
+    if (!grupos.has(b.disciplina)) grupos.set(b.disciplina, []);
+    grupos.get(b.disciplina).push(i);
+  });
+  return [...grupos.entries()].map(([disciplina, blocos]) => ({ disciplina, blocos }));
+}
+
+/** Abas de navegação: uma por disciplina, com o progresso somado. */
 function renderAbas() {
-  $('#abas-blocos').innerHTML = sessao.blocos.map((b, i) => {
-    const resp = b.itens.filter(respondido).length;
-    const completo = resp === b.itens.length;
-    return `<button type="button" class="aba ${i === sessao.blocoAtual ? 'ativa' : ''} ${completo ? 'completa' : ''}" data-acao="ir-bloco" data-b="${i}">
-      <span class="aba-n">${faixa(b)}</span>
-      <span class="aba-disc">${esc(b.disciplina)}</span>
-      <span class="aba-cont">${resp}/${b.itens.length}</span>
+  $('#abas-blocos').innerHTML = gruposDisciplina().map(g => {
+    const itens = g.blocos.flatMap(i => sessao.blocos[i].itens);
+    const resp = itens.filter(respondido).length;
+    const ativa = g.blocos.includes(sessao.blocoAtual);
+    const pos = ativa && g.blocos.length > 1 ? ` <small class="aba-pos">texto ${g.blocos.indexOf(sessao.blocoAtual) + 1}/${g.blocos.length}</small>` : '';
+    return `<button type="button" class="aba ${ativa ? 'ativa' : ''} ${resp === itens.length ? 'completa' : ''}" data-acao="ir-disciplina" data-d="${esc(g.disciplina)}">
+      <span class="aba-disc">${esc(g.disciplina)}${pos}</span>
+      <span class="aba-cont">${resp}/${itens.length}</span>
     </button>`;
   }).join('');
   $('#abas-blocos .aba.ativa')?.scrollIntoView({ block: 'nearest', inline: 'center' });
+}
+
+/** Vai para a disciplina: próximo texto dela (se já estiver nela) ou o primeiro incompleto. */
+function irDisciplina(disciplina) {
+  const g = gruposDisciplina().find(x => x.disciplina === disciplina);
+  if (!g) return;
+  let alvo;
+  if (g.blocos.includes(sessao.blocoAtual)) {
+    alvo = g.blocos[(g.blocos.indexOf(sessao.blocoAtual) + 1) % g.blocos.length];
+  } else {
+    alvo = g.blocos.find(i => !sessao.blocos[i].itens.every(respondido)) ?? g.blocos[0];
+  }
+  sessao.blocoAtual = alvo;
+  renderBloco();
+  renderMapa();
 }
 
 /** Renderiza o bloco atual: texto-base à esquerda, itens à direita. */
@@ -1549,6 +1576,7 @@ document.addEventListener('click', async e => {
       if (sessao.conferidos[n]) delete sessao.conferidos[n]; else sessao.conferidos[n] = true;
       atualizarItem(n);
       break;
+    case 'ir-disciplina': irDisciplina(alvo.dataset.d); break;
     case 'ir-bloco': sessao.blocoAtual = Number(alvo.dataset.b); renderBloco(); renderMapa(); break;
     case 'bloco-ant': if (sessao.blocoAtual > 0) { sessao.blocoAtual--; renderBloco(); renderMapa(); } break;
     case 'bloco-prox': if (sessao.blocoAtual < sessao.blocos.length - 1) { sessao.blocoAtual++; renderBloco(); renderMapa(); } break;

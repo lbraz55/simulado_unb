@@ -804,3 +804,4 @@ img.formula { vertical-align: middle; max-width: 100%; background: #fff; border-
 
 .texto-area { font-size: 1rem; color: var(--muted); font-weight: 700; margin: 0; }
 .disc-estimada { display: inline-block; margin-top: 4px; font-size: .78rem; color: var(--muted); background: var(--surface-2); border-radius: 99px; padding: .1em .65em; cursor: help; }
+.aba-pos { font-size: .72rem; opacity: .85; font-weight: 500; margin-left: 4px; }
