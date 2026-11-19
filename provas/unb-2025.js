@@ -1017,7 +1017,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2025-II-g-5",
-"disciplina": "Artes",
+"disciplina": "Música",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1311,7 +1311,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2025-II-g-12",
-"disciplina": "Artes",
+"disciplina": "Artes Cênicas",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1557,7 +1557,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2025-II-g-18",
-"disciplina": "Interdisciplinar",
+"disciplina": "Artes Visuais",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1586,7 +1586,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2025-II-g-19",
-"disciplina": "Artes",
+"disciplina": "Interdisciplinar",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1692,7 +1692,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2025-II-g-21",
-"disciplina": "Interdisciplinar",
+"disciplina": "Artes Visuais",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,

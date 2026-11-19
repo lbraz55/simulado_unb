@@ -713,7 +713,9 @@ PALAVRAS = {
     'Geografia': r'\b(território|urbano|urbanização|clima|relevo|bioma|população|migração|geopolítica|cartograf|globalização|agronegócio|bacia hidrográfica|região|regional)\b',
     'Filosofia e Sociologia': r'\b(filósof|filosofia|ética|moral|razão|Platão|Aristóteles|Kant|Marx|Weber|Durkheim|sociedade|sociológic|Foucault|Nietzsche|Descartes|política)\b',
     'Língua Portuguesa e Literatura': r'\b(texto|oração|vírgula|verbo|pronome|sujeito|coesão|sentido|gramatical|romance|poema|narrador|literatura|literári|personagem|verso|crônica|substantivo|adjetivo)\b',
-    'Artes': r'\b(arte|artista|obra de arte|pintura|música|musical|teatro|dança|escultura|cinema|estética|visual)\b',
+    'Música': r'\b(música|musical|musicais|compositor|compositora|canção|canções|melodia|harmonia|ritmo|partitura|compasso|compassos|sustenido|bemol|bequadro|tonalidade|acorde|acordes|instrumento|instrumentos|orquestra|sinfonia|samba|choro|MPB|cantor|cantora|nota musical|notas musicais|timbre|andamento|ópera)\b',
+    'Artes Cênicas': r'\b(teatro|teatral|teatrais|cênic|atriz|dramaturg|encenação|encenad|espetáculo teatral|palco|plateia|peça teatral|peças teatrais|dança|dançarin|coreograf|circo|circense|figurino|diretor teatral|Stanislavski|Brecht|Augusto Boal)\b',
+    'Artes Visuais': r'\b(pintura|pintor|pintora|escultura|escultor|gravura|fotografia|fotógraf|obra de arte|obras de arte|artista plástic|artes visuais|arte visual|tela|quadro|instalação artística|museu|exposição|Tarsila|Portinari|modernismo|cubismo|impressionismo|abstracionismo|Bienal|grafite|arquitetura|Niemeyer|óleo sobre tela|acrílica sobre|técnica mista|Foto de|ocupação artística|desenho|ilustração|charge|pintou|retrato|autorretrato|perspectiva|composição visual|vanguarda)\b',
 }
 
 

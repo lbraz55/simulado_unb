@@ -811,7 +811,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-II-g-1",
-"disciplina": "Artes",
+"disciplina": "Música",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -882,7 +882,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-II-g-2",
-"disciplina": "Interdisciplinar",
+"disciplina": "Música",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -935,7 +935,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-II-g-3",
-"disciplina": "Matemática",
+"disciplina": "Interdisciplinar",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1122,7 +1122,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-II-g-9",
-"disciplina": "Artes",
+"disciplina": "Artes Cênicas",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1474,7 +1474,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-II-g-17",
-"disciplina": "Interdisciplinar",
+"disciplina": "Língua Portuguesa e Literatura",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1752,7 +1752,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2024-II-g-21",
-"disciplina": "Interdisciplinar",
+"disciplina": "Artes Cênicas",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,

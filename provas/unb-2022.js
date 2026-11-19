@@ -999,7 +999,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2022-II-g-5",
-"disciplina": "Artes",
+"disciplina": "Interdisciplinar",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1755,7 +1755,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2022-II-g-30",
-"disciplina": "Artes",
+"disciplina": "Artes Cênicas",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1837,7 +1837,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2022-II-g-32",
-"disciplina": "Artes",
+"disciplina": "Música",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1960,7 +1960,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2022-II-g-35",
-"disciplina": "Física",
+"disciplina": "Música",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,

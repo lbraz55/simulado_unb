@@ -1033,7 +1033,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2023-II-g-7",
-"disciplina": "Artes",
+"disciplina": "Música",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1156,7 +1156,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2023-II-g-10",
-"disciplina": "Filosofia e Sociologia",
+"disciplina": "Interdisciplinar",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1415,7 +1415,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2023-II-g-15",
-"disciplina": "Artes",
+"disciplina": "Música",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1651,7 +1651,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2023-II-g-20",
-"disciplina": "Interdisciplinar",
+"disciplina": "Língua Portuguesa e Literatura",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,

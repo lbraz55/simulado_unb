@@ -912,7 +912,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2026-II-g-8",
-"disciplina": "Interdisciplinar",
+"disciplina": "Artes Visuais",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1349,7 +1349,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2026-II-g-22",
-"disciplina": "Artes",
+"disciplina": "Música",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1384,7 +1384,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2026-II-g-23",
-"disciplina": "História",
+"disciplina": "Interdisciplinar",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1413,7 +1413,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2026-II-g-24",
-"disciplina": "Interdisciplinar",
+"disciplina": "Música",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
@@ -1442,7 +1442,7 @@ window.PROVAS_OFICIAIS.push(...[
 },
 {
 "id": "unb2026-II-g-25",
-"disciplina": "Interdisciplinar",
+"disciplina": "Música",
 "area": "Linguagens e Ciências Humanas",
 "titulo": "",
 "disciplinaEstimada": true,
